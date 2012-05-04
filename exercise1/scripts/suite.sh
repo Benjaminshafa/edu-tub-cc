@@ -13,12 +13,11 @@ EXECLIN=linpack.sh
 EXECMEMSWEEP=memsweep.sh
 EXECSYSCALL=syscall.sh
 EXECFORK=fork.sh
-DATE=$(date +%m-%d-%y-%T)
+DATE=$(date +%m-%d-%y_%T)
 
 OLD=$(pwd)
 
 cd ${DST}
-echo ${OLD}
 ${OLD}/execn.sh ${NUMLIN} ./${EXECLIN} | ${OLD}/timestamp.sh | tee ${OLD}/${OUTLIN}-${DATE}.out
 ${OLD}/execn.sh ${NUMMEMSWEEP} ./${EXECMEMSWEEP} | ${OLD}/timestamp.sh | tee ${OLD}/${OUTMEMSWEEP}-${DATE}.out
 ${OLD}/execn.sh ${NUMSYSCALL} ./${EXECSYSCALL} | ${OLD}/timestamp.sh | tee ${OLD}/${OUTSYSCALL}-${DATE}.out
