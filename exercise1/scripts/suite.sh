@@ -13,7 +13,7 @@ EXECLIN=linpack.sh
 EXECMEMSWEEP=memsweep.sh
 EXECSYSCALL=syscall.sh
 EXECFORK=fork.sh
-DATE=$(date +%D-%T)
+DATE=$(date +%m-%d-%y-%T)
 
 OLD=$(pwd)
 

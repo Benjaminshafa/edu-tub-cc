@@ -5,7 +5,7 @@ WAITTIME=900
 EXECDISK=disk.sh
 OUTDISK=disk
 OLD=$(pwd)
-DATE=$(date +%D-%T)
+DATE=$(date +%m-%d-%y-%T)
 
 cd ${DST}
 for i in $(seq 1 1 $2)
