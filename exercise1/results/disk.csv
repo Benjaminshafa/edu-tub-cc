@@ -1,0 +1,5 @@
+instanceType,diskThroughput
+novirt,80.9
+pv-small,1
+pv-medium,1
+pv-large,1
