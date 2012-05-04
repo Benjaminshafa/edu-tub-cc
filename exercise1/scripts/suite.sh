@@ -26,7 +26,8 @@ cd ${DST}
 ${OLD}/execn.sh ${NUMLIN} ./${EXECLIN} | ${OLD}/timestamp.sh | tee ${OLD}/${OUTLIN}_${DATE}_${SUFLIN}.out
 ${OLD}/execn.sh ${NUMMEMSWEEP} ./${EXECMEMSWEEP} | ${OLD}/timestamp.sh | tee ${OLD}/${OUTMEMSWEEP}_${DATE}_${SUFMEMSWEEP}.out
 ${OLD}/execn.sh ${NUMSYSCALL} ./${EXECSYSCALL} | ${OLD}/timestamp.sh | tee ${OLD}/${OUTSYSCALL}_${DATE}_${SUFSYSCALL}.out
-${OLD}/execn.sh ${NUMFORK} ./${EXECFORK} | ${OLD}/timestamp.sh | tee ${OLD}/${OUTFORK}_${DATE}_${SUFFORK}.out
+VAR=$(${OLD}/execn.sh ${NUMFORK} ./${EXECFORK})
+echo "${VAR}" | ${OLD}/timestamp.sh | tee ${OLD}/${OUTFORK}_${DATE}_${SUFFORK}.out
 
 cd ${OLD}
 
