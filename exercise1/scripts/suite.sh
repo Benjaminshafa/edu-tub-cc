@@ -23,7 +23,7 @@ SUFFORK=$(ls ${OUTFORK}*.out 2>/dev/null | wc -l)
 OLD=$(pwd)
 
 cd ${DST}
-${OLD}/execn.sh ${NUMLIN} ./${EXECLIN} | ${OLD}/timestamp.sh | tee ${OLD}/${OUTLIN_${DATE}_${SUFLIN}.out
+${OLD}/execn.sh ${NUMLIN} ./${EXECLIN} | ${OLD}/timestamp.sh | tee ${OLD}/${OUTLIN}_${DATE}_${SUFLIN}.out
 ${OLD}/execn.sh ${NUMMEMSWEEP} ./${EXECMEMSWEEP} | ${OLD}/timestamp.sh | tee ${OLD}/${OUTMEMSWEEP}_${DATE}_${SUFMEMSWEEP}.out
 ${OLD}/execn.sh ${NUMSYSCALL} ./${EXECSYSCALL} | ${OLD}/timestamp.sh | tee ${OLD}/${OUTSYSCALL}_${DATE}_${SUFSYSCALL}.out
 ${OLD}/execn.sh ${NUMFORK} ./${EXECFORK} | ${OLD}/timestamp.sh | tee ${OLD}/${OUTFORK}_${DATE}_${SUFFORK}.out
