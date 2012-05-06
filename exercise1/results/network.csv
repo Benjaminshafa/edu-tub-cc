@@ -1,4 +1,4 @@
 instanceType,16ByteBufferThroughput,64ByteBufferThroughput,256ByteBufferThroughput,512ByteBufferThroughput,1204ByteBufferThroughput,2048ByteBufferThroughput,4096ByteBufferThroughput
 novirt,37.3,116,941,941,942,941,941
-small,1,2,3,4,5,6,7
-large,1,2,3,4,5,6,7
+small,8.38,33.18,135.2,269,361.6,287.2,287.6
+large,8.786,35.4,139,280.2,561.6,829.8,673.8
