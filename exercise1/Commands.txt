@@ -1,0 +1,88 @@
+1. Find AMI with Ubuntu 64bit Instance-Backed:
+
+flo@flo-ubuntu:~$ ec2-describe-images -a | grep ubuntu | grep 64 | grep instance-store > /tmp/ec2-images
+
+less /tmp/ec2-images
+....
+IMAGE   ami-1de8d369    099720109477/ubuntu/images/ubuntu-precise-12.04-amd64-server-20120424   099720109477    available       public          x86_64  machine aki-62695816                    instance-store  paravirtual     xen
+...
+
+
+2. Run new instance with found AMI
+
+flo@flo-ubuntu:~$ ec2-run-instances ami-1de8d369 -n 1 -k ubuntu-development
+
+RESERVATION	r-904822d9	228315521052	default
+INSTANCE	i-8df134c5	ami-1de8d369			pending	ubuntu-development	0		m1.small	2012-05-04T11:51:09+0000	eu-west-1c	aki-62695816			monitoring-disabled		instance-store					paravirtual	xen		sg-2c54a75b	default
+
+
+3. Show instances
+
+flo@flo-ubuntu:~$ ec2-describe-instances i-8df134c5
+
+RESERVATION	r-904822d9	228315521052	default
+INSTANCE	i-8df134c5	ami-1de8d369	ec2-176-34-83-252.eu-west-1.compute.amazonaws.com	ip-10-63-1-191.eu-west-1.compute.internal	running	ubuntu-development	0		m1.small	2012-05-04T11:51:09+0000	eu-west-1c	aki-62695816			monitoring-disabled	176.34.83.252	10.63.1.191		instance-store					paravirtual	xen		sg-2c54a75b	default
+
+
+4. Log in using SSH
+
+flo@flo-ubuntu:~$ ssh -i [KEY] ubuntu@ec2-176-34-83-252.eu-west-1.compute.amazonaws.com
+
+
+5. Install tools
+
+ubuntu@ip-10-63-1-191:~$ sudo apt-get install gcc iperf build-essential r-base ec2-api-tools ec2-ami-tools
+
+
+6. Set EC2 region
+
+ubuntu@ip-10-63-1-191:~$ export EC2_URL=https://ec2.eu-west-1.amazonaws.com
+
+
+6. Create AMI
+
+ubuntu@ip-10-63-1-191:~$ sudo ec2-bundle-vol -k /tmp/pk.pem -u 228315521052 -c /tmp/cert.pem
+
+
+7. Change region in AMI manifest
+
+ubuntu@ip-10-63-1-191:~$ sudo ec2-migrate-manifest -c /tmp/cert.pem -k /tmp/pk.pem -m /tmp/image.manifest.xml --region eu-west-1 -a ACCESS_KEY -s SECRET_ACCESS_KEY
+
+
+8. Upload AMI
+
+ubuntu@ip-10-63-1-191:~$ ec2-upload-bundle -b assignment1 -m /tmp/image.manifest.xml -a ACCESS-KEY -s SECRET-ACCESS-KEY
+
+
+9. Register AMI
+
+flo@flo-ubuntu:~/Studium/CloudComputing/assignment1/additional_material/benchmarks$ ec2-register assignment1-ami/image.manifest.xml -n "AMI for Assignment 1"
+
+IMAGE	ami-8f80bbfb
+
+
+10. Start m1.large instance
+
+flo@flo-ubuntu:~$ ec2-run-instances ami-8f80bbfb -n 1 -t m1.large -k ubuntu-development --availability-zone eu-west-1a
+
+RESERVATION	r-90563cd9	228315521052	default
+INSTANCE	i-e111d4a9	ami-8f80bbfb			pending		0		m1.large	2012-05-04T13:05:23+0000	eu-west-1a	aki-62695816			monitoring-disabled				instance-store					paravirtual	xen		sg-2c54a75b	default
+
+
+11. Describe instance
+
+flo@flo-ubuntu:~$ ec2-describe-instances i-e111d4a9
+
+RESERVATION	r-90563cd9	228315521052	default
+INSTANCE	i-e111d4a9	ami-8f80bbfb	ec2-176-34-86-75.eu-west-1.compute.amazonaws.com	ip-10-58-55-7.eu-west-1.compute.internal	running		0		m1.large	2012-05-04T13:05:23+0000	eu-west-1a	aki-62695816			monitoring-disabled	176.34.86.75	10.58.55.7			instance-store					paravirtual	xen		sg-2c54a75b	default
+
+
+
+12. Login via SSH
+
+flo@flo-ubuntu:~$ ssh -i [KEY] ubuntu@ec2-176-34-86-75.eu-west-1.compute.amazonaws.com
+
+
+
+
+Then run benchmarks...
