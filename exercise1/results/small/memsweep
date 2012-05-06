@@ -1,0 +1,1200 @@
+05/05/12-02:41:33: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:41:34: Running memsweep benchmark
+05/05/12-02:41:48: Memsweep time in seconds: 14.930
+05/05/12-02:41:48: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:41:49: Running memsweep benchmark
+05/05/12-02:42:04: Memsweep time in seconds: 14.870
+05/05/12-02:42:04: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:42:04: Running memsweep benchmark
+05/05/12-02:42:19: Memsweep time in seconds: 14.900
+05/05/12-02:42:19: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:42:19: Running memsweep benchmark
+05/05/12-02:42:34: Memsweep time in seconds: 14.960
+05/05/12-02:42:34: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:42:34: Running memsweep benchmark
+05/05/12-02:42:49: Memsweep time in seconds: 14.980
+05/05/12-02:42:49: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:42:50: Running memsweep benchmark
+05/05/12-02:43:05: Memsweep time in seconds: 14.830
+05/05/12-02:43:05: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:43:05: Running memsweep benchmark
+05/05/12-02:43:20: Memsweep time in seconds: 14.980
+05/05/12-02:43:20: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:43:20: Running memsweep benchmark
+05/05/12-02:43:35: Memsweep time in seconds: 14.800
+05/05/12-02:43:35: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:43:35: Running memsweep benchmark
+05/05/12-02:43:50: Memsweep time in seconds: 14.870
+05/05/12-02:43:50: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:43:50: Running memsweep benchmark
+05/05/12-02:44:05: Memsweep time in seconds: 14.870
+05/05/12-02:44:05: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:44:06: Running memsweep benchmark
+05/05/12-02:44:21: Memsweep time in seconds: 14.910
+05/05/12-02:44:21: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:44:21: Running memsweep benchmark
+05/05/12-02:44:36: Memsweep time in seconds: 14.920
+05/05/12-02:44:36: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:44:36: Running memsweep benchmark
+05/05/12-02:44:51: Memsweep time in seconds: 14.920
+05/05/12-02:44:51: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:44:51: Running memsweep benchmark
+05/05/12-02:45:06: Memsweep time in seconds: 14.940
+05/05/12-02:45:06: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:45:06: Running memsweep benchmark
+05/05/12-02:45:21: Memsweep time in seconds: 14.920
+05/05/12-02:45:21: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:45:21: Running memsweep benchmark
+05/05/12-02:45:36: Memsweep time in seconds: 14.960
+05/05/12-02:45:36: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:45:37: Running memsweep benchmark
+05/05/12-02:45:52: Memsweep time in seconds: 14.850
+05/05/12-02:45:52: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:45:52: Running memsweep benchmark
+05/05/12-02:46:07: Memsweep time in seconds: 14.920
+05/05/12-02:46:07: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:46:07: Running memsweep benchmark
+05/05/12-02:46:22: Memsweep time in seconds: 14.870
+05/05/12-02:46:22: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:46:22: Running memsweep benchmark
+05/05/12-02:46:37: Memsweep time in seconds: 14.980
+05/05/12-02:46:37: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:46:37: Running memsweep benchmark
+05/05/12-02:46:52: Memsweep time in seconds: 14.890
+05/05/12-02:46:52: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:46:53: Running memsweep benchmark
+05/05/12-02:47:07: Memsweep time in seconds: 14.890
+05/05/12-02:47:07: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:47:08: Running memsweep benchmark
+05/05/12-02:47:23: Memsweep time in seconds: 14.860
+05/05/12-02:47:23: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:47:23: Running memsweep benchmark
+05/05/12-02:47:38: Memsweep time in seconds: 14.870
+05/05/12-02:47:38: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:47:38: Running memsweep benchmark
+05/05/12-02:47:53: Memsweep time in seconds: 14.920
+05/05/12-02:47:53: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:47:53: Running memsweep benchmark
+05/05/12-02:48:08: Memsweep time in seconds: 14.960
+05/05/12-02:48:08: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:48:08: Running memsweep benchmark
+05/05/12-02:48:23: Memsweep time in seconds: 14.970
+05/05/12-02:48:23: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:48:24: Running memsweep benchmark
+05/05/12-02:48:39: Memsweep time in seconds: 14.940
+05/05/12-02:48:39: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:48:39: Running memsweep benchmark
+05/05/12-02:48:54: Memsweep time in seconds: 14.850
+05/05/12-02:48:54: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:48:54: Running memsweep benchmark
+05/05/12-02:49:09: Memsweep time in seconds: 14.910
+05/05/12-02:49:09: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:49:09: Running memsweep benchmark
+05/05/12-02:49:24: Memsweep time in seconds: 14.950
+05/05/12-02:49:24: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:49:25: Running memsweep benchmark
+05/05/12-02:49:39: Memsweep time in seconds: 14.950
+05/05/12-02:49:39: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:49:40: Running memsweep benchmark
+05/05/12-02:49:55: Memsweep time in seconds: 14.770
+05/05/12-02:49:55: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:49:55: Running memsweep benchmark
+05/05/12-02:50:10: Memsweep time in seconds: 14.970
+05/05/12-02:50:10: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:50:10: Running memsweep benchmark
+05/05/12-02:50:25: Memsweep time in seconds: 14.850
+05/05/12-02:50:25: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:50:25: Running memsweep benchmark
+05/05/12-02:50:40: Memsweep time in seconds: 14.900
+05/05/12-02:50:40: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:50:40: Running memsweep benchmark
+05/05/12-02:50:55: Memsweep time in seconds: 14.960
+05/05/12-02:50:55: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:50:56: Running memsweep benchmark
+05/05/12-02:51:10: Memsweep time in seconds: 14.930
+05/05/12-02:51:10: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:51:11: Running memsweep benchmark
+05/05/12-02:51:26: Memsweep time in seconds: 14.980
+05/05/12-02:51:26: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:51:26: Running memsweep benchmark
+05/05/12-02:51:41: Memsweep time in seconds: 14.910
+05/05/12-02:51:41: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:51:41: Running memsweep benchmark
+05/05/12-02:51:56: Memsweep time in seconds: 14.890
+05/05/12-02:51:56: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:51:56: Running memsweep benchmark
+05/05/12-02:52:11: Memsweep time in seconds: 14.890
+05/05/12-02:52:11: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:52:11: Running memsweep benchmark
+05/05/12-02:52:27: Memsweep time in seconds: 15.020
+05/05/12-02:52:27: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:52:27: Running memsweep benchmark
+05/05/12-02:52:42: Memsweep time in seconds: 14.950
+05/05/12-02:52:42: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:52:42: Running memsweep benchmark
+05/05/12-02:52:57: Memsweep time in seconds: 14.920
+05/05/12-02:52:57: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:52:57: Running memsweep benchmark
+05/05/12-02:53:12: Memsweep time in seconds: 15.000
+05/05/12-02:53:12: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:53:12: Running memsweep benchmark
+05/05/12-02:53:27: Memsweep time in seconds: 14.850
+05/05/12-02:53:27: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:53:28: Running memsweep benchmark
+05/05/12-02:53:42: Memsweep time in seconds: 14.890
+05/05/12-02:53:42: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:53:43: Running memsweep benchmark
+05/05/12-02:53:58: Memsweep time in seconds: 14.880
+05/05/12-02:53:58: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:53:58: Running memsweep benchmark
+05/05/12-02:54:13: Memsweep time in seconds: 14.990
+05/05/12-02:54:13: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:54:13: Running memsweep benchmark
+05/05/12-02:54:28: Memsweep time in seconds: 14.870
+05/05/12-02:54:28: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:54:28: Running memsweep benchmark
+05/05/12-02:54:43: Memsweep time in seconds: 14.930
+05/05/12-02:54:43: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:54:43: Running memsweep benchmark
+05/05/12-02:54:58: Memsweep time in seconds: 14.910
+05/05/12-02:54:58: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:54:59: Running memsweep benchmark
+05/05/12-02:55:14: Memsweep time in seconds: 14.840
+05/05/12-02:55:14: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:55:14: Running memsweep benchmark
+05/05/12-02:55:29: Memsweep time in seconds: 14.990
+05/05/12-02:55:29: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:55:29: Running memsweep benchmark
+05/05/12-02:55:44: Memsweep time in seconds: 14.880
+05/05/12-02:55:44: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:55:44: Running memsweep benchmark
+05/05/12-02:55:59: Memsweep time in seconds: 14.860
+05/05/12-02:55:59: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:55:59: Running memsweep benchmark
+05/05/12-02:56:14: Memsweep time in seconds: 14.980
+05/05/12-02:56:14: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:56:15: Running memsweep benchmark
+05/05/12-02:56:29: Memsweep time in seconds: 14.830
+05/05/12-02:56:30: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:56:30: Running memsweep benchmark
+05/05/12-02:56:45: Memsweep time in seconds: 14.890
+05/05/12-02:56:45: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:56:45: Running memsweep benchmark
+05/05/12-02:57:00: Memsweep time in seconds: 14.910
+05/05/12-02:57:00: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:57:00: Running memsweep benchmark
+05/05/12-02:57:15: Memsweep time in seconds: 14.980
+05/05/12-02:57:15: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:57:15: Running memsweep benchmark
+05/05/12-02:57:30: Memsweep time in seconds: 14.970
+05/05/12-02:57:30: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:57:30: Running memsweep benchmark
+05/05/12-02:57:45: Memsweep time in seconds: 14.860
+05/05/12-02:57:45: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:57:46: Running memsweep benchmark
+05/05/12-02:58:00: Memsweep time in seconds: 14.790
+05/05/12-02:58:01: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:58:01: Running memsweep benchmark
+05/05/12-02:58:16: Memsweep time in seconds: 15.080
+05/05/12-02:58:16: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:58:16: Running memsweep benchmark
+05/05/12-02:58:31: Memsweep time in seconds: 14.960
+05/05/12-02:58:31: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:58:31: Running memsweep benchmark
+05/05/12-02:58:46: Memsweep time in seconds: 14.840
+05/05/12-02:58:46: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:58:46: Running memsweep benchmark
+05/05/12-02:59:01: Memsweep time in seconds: 14.890
+05/05/12-02:59:01: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:59:02: Running memsweep benchmark
+05/05/12-02:59:17: Memsweep time in seconds: 14.940
+05/05/12-02:59:17: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:59:17: Running memsweep benchmark
+05/05/12-02:59:32: Memsweep time in seconds: 14.840
+05/05/12-02:59:32: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:59:32: Running memsweep benchmark
+05/05/12-02:59:47: Memsweep time in seconds: 14.890
+05/05/12-02:59:47: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-02:59:47: Running memsweep benchmark
+05/05/12-03:00:02: Memsweep time in seconds: 14.830
+05/05/12-03:00:02: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:00:02: Running memsweep benchmark
+05/05/12-03:00:17: Memsweep time in seconds: 14.900
+05/05/12-03:00:17: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:00:18: Running memsweep benchmark
+05/05/12-03:00:32: Memsweep time in seconds: 14.960
+05/05/12-03:00:32: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:00:33: Running memsweep benchmark
+05/05/12-03:00:48: Memsweep time in seconds: 14.850
+05/05/12-03:00:48: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:00:48: Running memsweep benchmark
+05/05/12-03:01:03: Memsweep time in seconds: 14.840
+05/05/12-03:01:03: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:01:03: Running memsweep benchmark
+05/05/12-03:01:18: Memsweep time in seconds: 14.920
+05/05/12-03:01:18: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:01:18: Running memsweep benchmark
+05/05/12-03:01:33: Memsweep time in seconds: 14.960
+05/05/12-03:01:33: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:01:33: Running memsweep benchmark
+05/05/12-03:01:48: Memsweep time in seconds: 14.830
+05/05/12-03:01:48: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:01:49: Running memsweep benchmark
+05/05/12-03:02:04: Memsweep time in seconds: 14.880
+05/05/12-03:02:04: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:02:04: Running memsweep benchmark
+05/05/12-03:02:19: Memsweep time in seconds: 14.850
+05/05/12-03:02:19: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:02:19: Running memsweep benchmark
+05/05/12-03:02:34: Memsweep time in seconds: 14.890
+05/05/12-03:02:34: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:02:34: Running memsweep benchmark
+05/05/12-03:02:49: Memsweep time in seconds: 14.930
+05/05/12-03:02:49: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:02:49: Running memsweep benchmark
+05/05/12-03:03:04: Memsweep time in seconds: 14.840
+05/05/12-03:03:04: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:03:05: Running memsweep benchmark
+05/05/12-03:03:19: Memsweep time in seconds: 14.910
+05/05/12-03:03:20: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:03:20: Running memsweep benchmark
+05/05/12-03:03:35: Memsweep time in seconds: 15.110
+05/05/12-03:03:35: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:03:35: Running memsweep benchmark
+05/05/12-03:03:50: Memsweep time in seconds: 14.770
+05/05/12-03:03:50: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:03:50: Running memsweep benchmark
+05/05/12-03:04:05: Memsweep time in seconds: 14.930
+05/05/12-03:04:05: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:04:05: Running memsweep benchmark
+05/05/12-03:04:20: Memsweep time in seconds: 14.950
+05/05/12-03:04:20: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:04:21: Running memsweep benchmark
+05/05/12-03:04:36: Memsweep time in seconds: 14.980
+05/05/12-03:04:36: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:04:36: Running memsweep benchmark
+05/05/12-03:04:51: Memsweep time in seconds: 14.770
+05/05/12-03:04:51: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:04:51: Running memsweep benchmark
+05/05/12-03:05:06: Memsweep time in seconds: 14.840
+05/05/12-03:05:06: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:05:06: Running memsweep benchmark
+05/05/12-03:05:21: Memsweep time in seconds: 14.860
+05/05/12-03:05:21: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:05:21: Running memsweep benchmark
+05/05/12-03:05:36: Memsweep time in seconds: 14.770
+05/05/12-03:05:36: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:05:36: Running memsweep benchmark
+05/05/12-03:05:51: Memsweep time in seconds: 14.960
+05/05/12-03:05:51: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:05:52: Running memsweep benchmark
+05/05/12-03:06:07: Memsweep time in seconds: 14.950
+05/05/12-03:06:07: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:06:07: Running memsweep benchmark
+05/05/12-03:06:22: Memsweep time in seconds: 14.960
+05/05/12-03:06:22: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:06:22: Running memsweep benchmark
+05/05/12-03:06:37: Memsweep time in seconds: 15.000
+05/05/12-03:06:37: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:06:37: Running memsweep benchmark
+05/05/12-03:06:52: Memsweep time in seconds: 14.830
+05/05/12-03:06:52: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:06:52: Running memsweep benchmark
+05/05/12-03:07:07: Memsweep time in seconds: 14.870
+05/05/12-03:07:07: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:07:08: Running memsweep benchmark
+05/05/12-03:07:22: Memsweep time in seconds: 14.830
+05/05/12-03:07:22: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:07:23: Running memsweep benchmark
+05/05/12-03:07:38: Memsweep time in seconds: 14.920
+05/05/12-03:07:38: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:07:38: Running memsweep benchmark
+05/05/12-03:07:53: Memsweep time in seconds: 14.870
+05/05/12-03:07:53: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:07:53: Running memsweep benchmark
+05/05/12-03:08:08: Memsweep time in seconds: 14.930
+05/05/12-03:08:08: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:08:08: Running memsweep benchmark
+05/05/12-03:08:23: Memsweep time in seconds: 14.850
+05/05/12-03:08:23: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:08:23: Running memsweep benchmark
+05/05/12-03:08:38: Memsweep time in seconds: 14.970
+05/05/12-03:08:38: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:08:38: Running memsweep benchmark
+05/05/12-03:08:53: Memsweep time in seconds: 14.930
+05/05/12-03:08:53: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:08:54: Running memsweep benchmark
+05/05/12-03:09:09: Memsweep time in seconds: 14.930
+05/05/12-03:09:09: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:09:09: Running memsweep benchmark
+05/05/12-03:09:24: Memsweep time in seconds: 14.760
+05/05/12-03:09:24: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:09:24: Running memsweep benchmark
+05/05/12-03:09:39: Memsweep time in seconds: 14.840
+05/05/12-03:09:39: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:09:39: Running memsweep benchmark
+05/05/12-03:09:54: Memsweep time in seconds: 14.780
+05/05/12-03:09:54: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:09:54: Running memsweep benchmark
+05/05/12-03:10:09: Memsweep time in seconds: 14.860
+05/05/12-03:10:09: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:10:09: Running memsweep benchmark
+05/05/12-03:10:24: Memsweep time in seconds: 15.000
+05/05/12-03:10:24: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:10:25: Running memsweep benchmark
+05/05/12-03:10:40: Memsweep time in seconds: 14.880
+05/05/12-03:10:40: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:10:40: Running memsweep benchmark
+05/05/12-03:10:55: Memsweep time in seconds: 14.790
+05/05/12-03:10:55: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:10:55: Running memsweep benchmark
+05/05/12-03:11:10: Memsweep time in seconds: 14.920
+05/05/12-03:11:10: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:11:10: Running memsweep benchmark
+05/05/12-03:11:25: Memsweep time in seconds: 14.920
+05/05/12-03:11:25: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:11:25: Running memsweep benchmark
+05/05/12-03:11:40: Memsweep time in seconds: 14.810
+05/05/12-03:11:40: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:11:40: Running memsweep benchmark
+05/05/12-03:11:55: Memsweep time in seconds: 14.970
+05/05/12-03:11:55: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:11:56: Running memsweep benchmark
+05/05/12-03:12:11: Memsweep time in seconds: 14.980
+05/05/12-03:12:11: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:12:11: Running memsweep benchmark
+05/05/12-03:12:26: Memsweep time in seconds: 14.940
+05/05/12-03:12:26: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:12:26: Running memsweep benchmark
+05/05/12-03:12:41: Memsweep time in seconds: 14.920
+05/05/12-03:12:41: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:12:41: Running memsweep benchmark
+05/05/12-03:12:56: Memsweep time in seconds: 14.890
+05/05/12-03:12:56: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:12:56: Running memsweep benchmark
+05/05/12-03:13:11: Memsweep time in seconds: 14.890
+05/05/12-03:13:12: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:13:12: Running memsweep benchmark
+05/05/12-03:13:27: Memsweep time in seconds: 15.000
+05/05/12-03:13:27: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:13:27: Running memsweep benchmark
+05/05/12-03:13:42: Memsweep time in seconds: 14.940
+05/05/12-03:13:42: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:13:42: Running memsweep benchmark
+05/05/12-03:13:57: Memsweep time in seconds: 14.900
+05/05/12-03:13:57: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:13:57: Running memsweep benchmark
+05/05/12-03:14:12: Memsweep time in seconds: 14.900
+05/05/12-03:14:12: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:14:12: Running memsweep benchmark
+05/05/12-03:14:27: Memsweep time in seconds: 14.910
+05/05/12-03:14:27: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:14:28: Running memsweep benchmark
+05/05/12-03:14:43: Memsweep time in seconds: 14.830
+05/05/12-03:14:43: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:14:43: Running memsweep benchmark
+05/05/12-03:14:58: Memsweep time in seconds: 14.930
+05/05/12-03:14:58: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:14:58: Running memsweep benchmark
+05/05/12-03:15:13: Memsweep time in seconds: 14.990
+05/05/12-03:15:13: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:15:13: Running memsweep benchmark
+05/05/12-03:15:28: Memsweep time in seconds: 15.030
+05/05/12-03:15:28: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:15:29: Running memsweep benchmark
+05/05/12-03:15:43: Memsweep time in seconds: 14.890
+05/05/12-03:15:43: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:15:44: Running memsweep benchmark
+05/05/12-03:15:59: Memsweep time in seconds: 14.830
+05/05/12-03:15:59: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:15:59: Running memsweep benchmark
+05/05/12-03:16:14: Memsweep time in seconds: 14.960
+05/05/12-03:16:14: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:16:14: Running memsweep benchmark
+05/05/12-03:16:29: Memsweep time in seconds: 14.930
+05/05/12-03:16:29: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:16:29: Running memsweep benchmark
+05/05/12-03:16:44: Memsweep time in seconds: 15.000
+05/05/12-03:16:44: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:16:44: Running memsweep benchmark
+05/05/12-03:16:59: Memsweep time in seconds: 14.900
+05/05/12-03:16:59: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:17:00: Running memsweep benchmark
+05/05/12-03:17:15: Memsweep time in seconds: 14.980
+05/05/12-03:17:15: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:17:15: Running memsweep benchmark
+05/05/12-03:17:30: Memsweep time in seconds: 14.970
+05/05/12-03:17:30: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:17:30: Running memsweep benchmark
+05/05/12-03:17:45: Memsweep time in seconds: 14.930
+05/05/12-03:17:45: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:17:45: Running memsweep benchmark
+05/05/12-03:18:00: Memsweep time in seconds: 14.910
+05/05/12-03:18:00: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:18:00: Running memsweep benchmark
+05/05/12-03:18:16: Memsweep time in seconds: 14.970
+05/05/12-03:18:16: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:18:16: Running memsweep benchmark
+05/05/12-03:18:31: Memsweep time in seconds: 15.050
+05/05/12-03:18:31: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:18:31: Running memsweep benchmark
+05/05/12-03:18:46: Memsweep time in seconds: 15.010
+05/05/12-03:18:46: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:18:46: Running memsweep benchmark
+05/05/12-03:19:01: Memsweep time in seconds: 14.940
+05/05/12-03:19:01: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:19:01: Running memsweep benchmark
+05/05/12-03:19:16: Memsweep time in seconds: 14.980
+05/05/12-03:19:16: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:19:17: Running memsweep benchmark
+05/05/12-03:19:32: Memsweep time in seconds: 14.980
+05/05/12-03:19:32: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:19:32: Running memsweep benchmark
+05/05/12-03:19:47: Memsweep time in seconds: 14.930
+05/05/12-03:19:47: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:19:47: Running memsweep benchmark
+05/05/12-03:20:02: Memsweep time in seconds: 14.850
+05/05/12-03:20:02: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:20:02: Running memsweep benchmark
+05/05/12-03:20:17: Memsweep time in seconds: 14.900
+05/05/12-03:20:17: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:20:17: Running memsweep benchmark
+05/05/12-03:20:32: Memsweep time in seconds: 14.900
+05/05/12-03:20:32: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:20:33: Running memsweep benchmark
+05/05/12-03:20:47: Memsweep time in seconds: 14.930
+05/05/12-03:20:48: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:20:48: Running memsweep benchmark
+05/05/12-03:21:03: Memsweep time in seconds: 14.930
+05/05/12-03:21:03: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:21:03: Running memsweep benchmark
+05/05/12-03:21:18: Memsweep time in seconds: 14.960
+05/05/12-03:21:18: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:21:18: Running memsweep benchmark
+05/05/12-03:21:33: Memsweep time in seconds: 15.020
+05/05/12-03:21:33: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:21:33: Running memsweep benchmark
+05/05/12-03:21:48: Memsweep time in seconds: 14.910
+05/05/12-03:21:49: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:21:49: Running memsweep benchmark
+05/05/12-03:22:04: Memsweep time in seconds: 14.900
+05/05/12-03:22:04: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:22:04: Running memsweep benchmark
+05/05/12-03:22:19: Memsweep time in seconds: 15.020
+05/05/12-03:22:19: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:22:19: Running memsweep benchmark
+05/05/12-03:22:34: Memsweep time in seconds: 14.970
+05/05/12-03:22:34: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:22:34: Running memsweep benchmark
+05/05/12-03:22:49: Memsweep time in seconds: 14.890
+05/05/12-03:22:49: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:22:50: Running memsweep benchmark
+05/05/12-03:23:04: Memsweep time in seconds: 14.890
+05/05/12-03:23:04: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:23:05: Running memsweep benchmark
+05/05/12-03:23:20: Memsweep time in seconds: 14.910
+05/05/12-03:23:20: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:23:20: Running memsweep benchmark
+05/05/12-03:23:35: Memsweep time in seconds: 15.020
+05/05/12-03:23:35: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:23:35: Running memsweep benchmark
+05/05/12-03:23:50: Memsweep time in seconds: 14.940
+05/05/12-03:23:50: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:23:50: Running memsweep benchmark
+05/05/12-03:24:05: Memsweep time in seconds: 14.960
+05/05/12-03:24:05: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:24:06: Running memsweep benchmark
+05/05/12-03:24:21: Memsweep time in seconds: 15.030
+05/05/12-03:24:21: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:24:21: Running memsweep benchmark
+05/05/12-03:24:36: Memsweep time in seconds: 14.950
+05/05/12-03:24:36: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:24:36: Running memsweep benchmark
+05/05/12-03:24:51: Memsweep time in seconds: 14.860
+05/05/12-03:24:51: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:24:51: Running memsweep benchmark
+05/05/12-03:25:06: Memsweep time in seconds: 14.950
+05/05/12-03:25:06: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:25:07: Running memsweep benchmark
+05/05/12-03:25:22: Memsweep time in seconds: 14.950
+05/05/12-03:25:22: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:25:22: Running memsweep benchmark
+05/05/12-03:25:37: Memsweep time in seconds: 14.970
+05/05/12-03:25:37: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:25:37: Running memsweep benchmark
+05/05/12-03:25:52: Memsweep time in seconds: 14.930
+05/05/12-03:25:52: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:25:52: Running memsweep benchmark
+05/05/12-03:26:07: Memsweep time in seconds: 14.950
+05/05/12-03:26:07: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:26:07: Running memsweep benchmark
+05/05/12-03:26:22: Memsweep time in seconds: 14.860
+05/05/12-03:26:22: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:26:23: Running memsweep benchmark
+05/05/12-03:26:38: Memsweep time in seconds: 14.860
+05/05/12-03:26:38: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:26:38: Running memsweep benchmark
+05/05/12-03:26:53: Memsweep time in seconds: 14.940
+05/05/12-03:26:53: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:26:53: Running memsweep benchmark
+05/05/12-03:27:08: Memsweep time in seconds: 14.860
+05/05/12-03:27:08: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:27:08: Running memsweep benchmark
+05/05/12-03:27:23: Memsweep time in seconds: 14.990
+05/05/12-03:27:23: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:27:23: Running memsweep benchmark
+05/05/12-03:27:38: Memsweep time in seconds: 14.930
+05/05/12-03:27:38: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:27:39: Running memsweep benchmark
+05/05/12-03:27:53: Memsweep time in seconds: 14.850
+05/05/12-03:27:53: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:27:54: Running memsweep benchmark
+05/05/12-03:28:09: Memsweep time in seconds: 15.000
+05/05/12-03:28:09: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:28:09: Running memsweep benchmark
+05/05/12-03:28:24: Memsweep time in seconds: 14.960
+05/05/12-03:28:24: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:28:24: Running memsweep benchmark
+05/05/12-03:28:39: Memsweep time in seconds: 14.940
+05/05/12-03:28:39: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:28:39: Running memsweep benchmark
+05/05/12-03:28:54: Memsweep time in seconds: 14.910
+05/05/12-03:28:54: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:28:55: Running memsweep benchmark
+05/05/12-03:29:09: Memsweep time in seconds: 14.850
+05/05/12-03:29:09: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:29:10: Running memsweep benchmark
+05/05/12-03:29:25: Memsweep time in seconds: 14.810
+05/05/12-03:29:25: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:29:25: Running memsweep benchmark
+05/05/12-03:29:40: Memsweep time in seconds: 14.920
+05/05/12-03:29:40: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:29:40: Running memsweep benchmark
+05/05/12-03:29:55: Memsweep time in seconds: 14.980
+05/05/12-03:29:55: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:29:55: Running memsweep benchmark
+05/05/12-03:30:10: Memsweep time in seconds: 14.910
+05/05/12-03:30:10: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:30:11: Running memsweep benchmark
+05/05/12-03:30:26: Memsweep time in seconds: 14.990
+05/05/12-03:30:26: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:30:26: Running memsweep benchmark
+05/05/12-03:30:41: Memsweep time in seconds: 14.890
+05/05/12-03:30:41: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:30:41: Running memsweep benchmark
+05/05/12-03:30:56: Memsweep time in seconds: 14.800
+05/05/12-03:30:56: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:30:56: Running memsweep benchmark
+05/05/12-03:31:11: Memsweep time in seconds: 14.890
+05/05/12-03:31:11: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:31:11: Running memsweep benchmark
+05/05/12-03:31:26: Memsweep time in seconds: 15.010
+05/05/12-03:31:26: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:31:27: Running memsweep benchmark
+05/05/12-03:31:42: Memsweep time in seconds: 14.940
+05/05/12-03:31:42: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:31:42: Running memsweep benchmark
+05/05/12-03:31:57: Memsweep time in seconds: 14.860
+05/05/12-03:31:57: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:31:57: Running memsweep benchmark
+05/05/12-03:32:12: Memsweep time in seconds: 14.980
+05/05/12-03:32:12: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:32:12: Running memsweep benchmark
+05/05/12-03:32:27: Memsweep time in seconds: 14.910
+05/05/12-03:32:27: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:32:27: Running memsweep benchmark
+05/05/12-03:32:42: Memsweep time in seconds: 14.940
+05/05/12-03:32:42: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:32:43: Running memsweep benchmark
+05/05/12-03:32:57: Memsweep time in seconds: 14.890
+05/05/12-03:32:57: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:32:58: Running memsweep benchmark
+05/05/12-03:33:13: Memsweep time in seconds: 14.930
+05/05/12-03:33:13: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:33:13: Running memsweep benchmark
+05/05/12-03:33:28: Memsweep time in seconds: 14.980
+05/05/12-03:33:28: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:33:28: Running memsweep benchmark
+05/05/12-03:33:43: Memsweep time in seconds: 14.880
+05/05/12-03:33:43: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:33:43: Running memsweep benchmark
+05/05/12-03:33:58: Memsweep time in seconds: 14.870
+05/05/12-03:33:58: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:33:59: Running memsweep benchmark
+05/05/12-03:34:13: Memsweep time in seconds: 14.900
+05/05/12-03:34:13: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:34:14: Running memsweep benchmark
+05/05/12-03:34:29: Memsweep time in seconds: 14.930
+05/05/12-03:34:29: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:34:29: Running memsweep benchmark
+05/05/12-03:34:44: Memsweep time in seconds: 14.870
+05/05/12-03:34:44: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:34:44: Running memsweep benchmark
+05/05/12-03:34:59: Memsweep time in seconds: 14.950
+05/05/12-03:34:59: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:34:59: Running memsweep benchmark
+05/05/12-03:35:14: Memsweep time in seconds: 14.960
+05/05/12-03:35:14: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:35:15: Running memsweep benchmark
+05/05/12-03:35:30: Memsweep time in seconds: 14.940
+05/05/12-03:35:30: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:35:30: Running memsweep benchmark
+05/05/12-03:35:45: Memsweep time in seconds: 14.960
+05/05/12-03:35:45: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:35:45: Running memsweep benchmark
+05/05/12-03:36:00: Memsweep time in seconds: 14.850
+05/05/12-03:36:00: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:36:00: Running memsweep benchmark
+05/05/12-03:36:15: Memsweep time in seconds: 14.980
+05/05/12-03:36:15: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:36:15: Running memsweep benchmark
+05/05/12-03:36:30: Memsweep time in seconds: 14.940
+05/05/12-03:36:30: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:36:31: Running memsweep benchmark
+05/05/12-03:36:46: Memsweep time in seconds: 14.890
+05/05/12-03:36:46: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:36:46: Running memsweep benchmark
+05/05/12-03:37:01: Memsweep time in seconds: 14.930
+05/05/12-03:37:01: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:37:01: Running memsweep benchmark
+05/05/12-03:37:16: Memsweep time in seconds: 14.950
+05/05/12-03:37:16: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:37:16: Running memsweep benchmark
+05/05/12-03:37:31: Memsweep time in seconds: 14.970
+05/05/12-03:37:31: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:37:32: Running memsweep benchmark
+05/05/12-03:37:46: Memsweep time in seconds: 14.850
+05/05/12-03:37:46: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:37:47: Running memsweep benchmark
+05/05/12-03:38:02: Memsweep time in seconds: 14.890
+05/05/12-03:38:02: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:38:02: Running memsweep benchmark
+05/05/12-03:38:17: Memsweep time in seconds: 14.950
+05/05/12-03:38:17: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:38:17: Running memsweep benchmark
+05/05/12-03:38:32: Memsweep time in seconds: 14.910
+05/05/12-03:38:32: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:38:32: Running memsweep benchmark
+05/05/12-03:38:47: Memsweep time in seconds: 14.850
+05/05/12-03:38:47: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:38:47: Running memsweep benchmark
+05/05/12-03:39:02: Memsweep time in seconds: 14.850
+05/05/12-03:39:02: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:39:03: Running memsweep benchmark
+05/05/12-03:39:17: Memsweep time in seconds: 14.940
+05/05/12-03:39:17: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:39:18: Running memsweep benchmark
+05/05/12-03:39:33: Memsweep time in seconds: 14.850
+05/05/12-03:39:33: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:39:33: Running memsweep benchmark
+05/05/12-03:39:48: Memsweep time in seconds: 14.850
+05/05/12-03:39:48: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:39:48: Running memsweep benchmark
+05/05/12-03:40:03: Memsweep time in seconds: 14.920
+05/05/12-03:40:03: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:40:03: Running memsweep benchmark
+05/05/12-03:40:18: Memsweep time in seconds: 15.040
+05/05/12-03:40:18: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:40:19: Running memsweep benchmark
+05/05/12-03:40:33: Memsweep time in seconds: 14.860
+05/05/12-03:40:34: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:40:34: Running memsweep benchmark
+05/05/12-03:40:49: Memsweep time in seconds: 14.880
+05/05/12-03:40:49: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:40:49: Running memsweep benchmark
+05/05/12-03:41:04: Memsweep time in seconds: 14.830
+05/05/12-03:41:04: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:41:04: Running memsweep benchmark
+05/05/12-03:41:19: Memsweep time in seconds: 14.870
+05/05/12-03:41:19: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:41:19: Running memsweep benchmark
+05/05/12-03:41:34: Memsweep time in seconds: 14.920
+05/05/12-03:41:34: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:41:34: Running memsweep benchmark
+05/05/12-03:41:49: Memsweep time in seconds: 14.930
+05/05/12-03:41:49: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:41:50: Running memsweep benchmark
+05/05/12-03:42:05: Memsweep time in seconds: 14.840
+05/05/12-03:42:05: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:42:05: Running memsweep benchmark
+05/05/12-03:42:20: Memsweep time in seconds: 14.990
+05/05/12-03:42:20: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:42:20: Running memsweep benchmark
+05/05/12-03:42:35: Memsweep time in seconds: 14.930
+05/05/12-03:42:35: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:42:35: Running memsweep benchmark
+05/05/12-03:42:50: Memsweep time in seconds: 14.830
+05/05/12-03:42:50: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:42:50: Running memsweep benchmark
+05/05/12-03:43:05: Memsweep time in seconds: 14.870
+05/05/12-03:43:05: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:43:05: Running memsweep benchmark
+05/05/12-03:43:20: Memsweep time in seconds: 14.900
+05/05/12-03:43:20: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:43:21: Running memsweep benchmark
+05/05/12-03:43:36: Memsweep time in seconds: 15.010
+05/05/12-03:43:36: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:43:36: Running memsweep benchmark
+05/05/12-03:43:51: Memsweep time in seconds: 14.810
+05/05/12-03:43:51: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:43:51: Running memsweep benchmark
+05/05/12-03:44:06: Memsweep time in seconds: 14.900
+05/05/12-03:44:06: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:44:06: Running memsweep benchmark
+05/05/12-03:44:21: Memsweep time in seconds: 14.890
+05/05/12-03:44:21: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:44:21: Running memsweep benchmark
+05/05/12-03:44:36: Memsweep time in seconds: 14.900
+05/05/12-03:44:36: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:44:37: Running memsweep benchmark
+05/05/12-03:44:51: Memsweep time in seconds: 14.930
+05/05/12-03:44:51: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:44:52: Running memsweep benchmark
+05/05/12-03:45:07: Memsweep time in seconds: 15.010
+05/05/12-03:45:07: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:45:07: Running memsweep benchmark
+05/05/12-03:45:22: Memsweep time in seconds: 14.940
+05/05/12-03:45:22: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:45:22: Running memsweep benchmark
+05/05/12-03:45:37: Memsweep time in seconds: 15.060
+05/05/12-03:45:37: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:45:37: Running memsweep benchmark
+05/05/12-03:45:52: Memsweep time in seconds: 14.930
+05/05/12-03:45:53: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:45:53: Running memsweep benchmark
+05/05/12-03:46:08: Memsweep time in seconds: 14.950
+05/05/12-03:46:08: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:46:08: Running memsweep benchmark
+05/05/12-03:46:23: Memsweep time in seconds: 14.920
+05/05/12-03:46:23: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:46:23: Running memsweep benchmark
+05/05/12-03:46:38: Memsweep time in seconds: 15.030
+05/05/12-03:46:38: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:46:38: Running memsweep benchmark
+05/05/12-03:46:53: Memsweep time in seconds: 14.780
+05/05/12-03:46:53: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:46:53: Running memsweep benchmark
+05/05/12-03:47:09: Memsweep time in seconds: 14.970
+05/05/12-03:47:09: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:47:09: Running memsweep benchmark
+05/05/12-03:47:24: Memsweep time in seconds: 14.930
+05/05/12-03:47:24: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:47:24: Running memsweep benchmark
+05/05/12-03:47:39: Memsweep time in seconds: 14.870
+05/05/12-03:47:39: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:47:39: Running memsweep benchmark
+05/05/12-03:47:54: Memsweep time in seconds: 14.940
+05/05/12-03:47:54: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:47:54: Running memsweep benchmark
+05/05/12-03:48:09: Memsweep time in seconds: 14.980
+05/05/12-03:48:09: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:48:10: Running memsweep benchmark
+05/05/12-03:48:25: Memsweep time in seconds: 15.000
+05/05/12-03:48:25: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:48:25: Running memsweep benchmark
+05/05/12-03:48:40: Memsweep time in seconds: 14.940
+05/05/12-03:48:40: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:48:40: Running memsweep benchmark
+05/05/12-03:48:55: Memsweep time in seconds: 14.820
+05/05/12-03:48:55: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:48:55: Running memsweep benchmark
+05/05/12-03:49:10: Memsweep time in seconds: 14.900
+05/05/12-03:49:10: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:49:10: Running memsweep benchmark
+05/05/12-03:49:25: Memsweep time in seconds: 14.920
+05/05/12-03:49:25: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:49:26: Running memsweep benchmark
+05/05/12-03:49:41: Memsweep time in seconds: 14.930
+05/05/12-03:49:41: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:49:41: Running memsweep benchmark
+05/05/12-03:49:56: Memsweep time in seconds: 14.870
+05/05/12-03:49:56: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:49:56: Running memsweep benchmark
+05/05/12-03:50:11: Memsweep time in seconds: 15.000
+05/05/12-03:50:11: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:50:11: Running memsweep benchmark
+05/05/12-03:50:26: Memsweep time in seconds: 14.910
+05/05/12-03:50:26: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:50:26: Running memsweep benchmark
+05/05/12-03:50:41: Memsweep time in seconds: 15.000
+05/05/12-03:50:41: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:50:42: Running memsweep benchmark
+05/05/12-03:50:57: Memsweep time in seconds: 14.890
+05/05/12-03:50:57: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:50:57: Running memsweep benchmark
+05/05/12-03:51:12: Memsweep time in seconds: 15.000
+05/05/12-03:51:12: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:51:12: Running memsweep benchmark
+05/05/12-03:51:27: Memsweep time in seconds: 15.020
+05/05/12-03:51:27: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:51:27: Running memsweep benchmark
+05/05/12-03:51:42: Memsweep time in seconds: 14.900
+05/05/12-03:51:42: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:51:42: Running memsweep benchmark
+05/05/12-03:51:57: Memsweep time in seconds: 14.810
+05/05/12-03:51:57: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:51:57: Running memsweep benchmark
+05/05/12-03:52:12: Memsweep time in seconds: 14.950
+05/05/12-03:52:12: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:52:13: Running memsweep benchmark
+05/05/12-03:52:28: Memsweep time in seconds: 15.030
+05/05/12-03:52:28: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:52:28: Running memsweep benchmark
+05/05/12-03:52:43: Memsweep time in seconds: 14.850
+05/05/12-03:52:43: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:52:43: Running memsweep benchmark
+05/05/12-03:52:58: Memsweep time in seconds: 14.820
+05/05/12-03:52:58: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:52:58: Running memsweep benchmark
+05/05/12-03:53:13: Memsweep time in seconds: 14.970
+05/05/12-03:53:13: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:53:14: Running memsweep benchmark
+05/05/12-03:53:28: Memsweep time in seconds: 14.840
+05/05/12-03:53:29: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:53:29: Running memsweep benchmark
+05/05/12-03:53:44: Memsweep time in seconds: 14.880
+05/05/12-03:53:44: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:53:44: Running memsweep benchmark
+05/05/12-03:53:59: Memsweep time in seconds: 14.960
+05/05/12-03:53:59: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:53:59: Running memsweep benchmark
+05/05/12-03:54:14: Memsweep time in seconds: 14.990
+05/05/12-03:54:14: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:54:14: Running memsweep benchmark
+05/05/12-03:54:29: Memsweep time in seconds: 14.950
+05/05/12-03:54:29: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:54:30: Running memsweep benchmark
+05/05/12-03:54:45: Memsweep time in seconds: 14.870
+05/05/12-03:54:45: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:54:45: Running memsweep benchmark
+05/05/12-03:55:00: Memsweep time in seconds: 14.900
+05/05/12-03:55:00: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:55:00: Running memsweep benchmark
+05/05/12-03:55:15: Memsweep time in seconds: 14.880
+05/05/12-03:55:15: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:55:15: Running memsweep benchmark
+05/05/12-03:55:30: Memsweep time in seconds: 15.000
+05/05/12-03:55:30: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:55:31: Running memsweep benchmark
+05/05/12-03:55:46: Memsweep time in seconds: 15.020
+05/05/12-03:55:46: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:55:46: Running memsweep benchmark
+05/05/12-03:56:01: Memsweep time in seconds: 14.840
+05/05/12-03:56:01: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:56:01: Running memsweep benchmark
+05/05/12-03:56:16: Memsweep time in seconds: 14.900
+05/05/12-03:56:16: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:56:16: Running memsweep benchmark
+05/05/12-03:56:31: Memsweep time in seconds: 14.870
+05/05/12-03:56:31: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:56:31: Running memsweep benchmark
+05/05/12-03:56:46: Memsweep time in seconds: 14.890
+05/05/12-03:56:46: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:56:46: Running memsweep benchmark
+05/05/12-03:57:01: Memsweep time in seconds: 14.880
+05/05/12-03:57:01: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:57:02: Running memsweep benchmark
+05/05/12-03:57:17: Memsweep time in seconds: 14.970
+05/05/12-03:57:17: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:57:17: Running memsweep benchmark
+05/05/12-03:57:32: Memsweep time in seconds: 14.970
+05/05/12-03:57:32: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:57:32: Running memsweep benchmark
+05/05/12-03:57:47: Memsweep time in seconds: 14.920
+05/05/12-03:57:47: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:57:47: Running memsweep benchmark
+05/05/12-03:58:02: Memsweep time in seconds: 14.860
+05/05/12-03:58:02: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:58:02: Running memsweep benchmark
+05/05/12-03:58:17: Memsweep time in seconds: 14.950
+05/05/12-03:58:17: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:58:18: Running memsweep benchmark
+05/05/12-03:58:33: Memsweep time in seconds: 15.000
+05/05/12-03:58:33: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:58:33: Running memsweep benchmark
+05/05/12-03:58:48: Memsweep time in seconds: 14.860
+05/05/12-03:58:48: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:58:48: Running memsweep benchmark
+05/05/12-03:59:03: Memsweep time in seconds: 14.850
+05/05/12-03:59:03: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:59:03: Running memsweep benchmark
+05/05/12-03:59:18: Memsweep time in seconds: 14.890
+05/05/12-03:59:18: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:59:18: Running memsweep benchmark
+05/05/12-03:59:33: Memsweep time in seconds: 14.890
+05/05/12-03:59:33: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:59:34: Running memsweep benchmark
+05/05/12-03:59:49: Memsweep time in seconds: 15.000
+05/05/12-03:59:49: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-03:59:49: Running memsweep benchmark
+05/05/12-04:00:04: Memsweep time in seconds: 14.940
+05/05/12-04:00:04: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:00:04: Running memsweep benchmark
+05/05/12-04:00:19: Memsweep time in seconds: 14.970
+05/05/12-04:00:19: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:00:19: Running memsweep benchmark
+05/05/12-04:00:34: Memsweep time in seconds: 15.020
+05/05/12-04:00:34: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:00:35: Running memsweep benchmark
+05/05/12-04:00:50: Memsweep time in seconds: 14.970
+05/05/12-04:00:50: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:00:50: Running memsweep benchmark
+05/05/12-04:01:05: Memsweep time in seconds: 14.930
+05/05/12-04:01:05: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:01:05: Running memsweep benchmark
+05/05/12-04:01:20: Memsweep time in seconds: 14.910
+05/05/12-04:01:20: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:01:20: Running memsweep benchmark
+05/05/12-04:01:35: Memsweep time in seconds: 14.930
+05/05/12-04:01:35: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:01:36: Running memsweep benchmark
+05/05/12-04:01:50: Memsweep time in seconds: 14.800
+05/05/12-04:01:50: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:01:51: Running memsweep benchmark
+05/05/12-04:02:06: Memsweep time in seconds: 14.910
+05/05/12-04:02:06: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:02:06: Running memsweep benchmark
+05/05/12-04:02:21: Memsweep time in seconds: 14.950
+05/05/12-04:02:21: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:02:21: Running memsweep benchmark
+05/05/12-04:02:36: Memsweep time in seconds: 15.030
+05/05/12-04:02:36: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:02:36: Running memsweep benchmark
+05/05/12-04:02:51: Memsweep time in seconds: 14.900
+05/05/12-04:02:51: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:02:52: Running memsweep benchmark
+05/05/12-04:03:06: Memsweep time in seconds: 14.870
+05/05/12-04:03:06: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:03:07: Running memsweep benchmark
+05/05/12-04:03:22: Memsweep time in seconds: 14.990
+05/05/12-04:03:22: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:03:22: Running memsweep benchmark
+05/05/12-04:03:37: Memsweep time in seconds: 14.980
+05/05/12-04:03:37: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:03:37: Running memsweep benchmark
+05/05/12-04:03:52: Memsweep time in seconds: 14.900
+05/05/12-04:03:52: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:03:52: Running memsweep benchmark
+05/05/12-04:04:07: Memsweep time in seconds: 14.840
+05/05/12-04:04:07: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:04:07: Running memsweep benchmark
+05/05/12-04:04:22: Memsweep time in seconds: 14.950
+05/05/12-04:04:22: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:04:23: Running memsweep benchmark
+05/05/12-04:04:38: Memsweep time in seconds: 14.990
+05/05/12-04:04:38: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:04:38: Running memsweep benchmark
+05/05/12-04:04:53: Memsweep time in seconds: 14.800
+05/05/12-04:04:53: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:04:53: Running memsweep benchmark
+05/05/12-04:05:08: Memsweep time in seconds: 14.900
+05/05/12-04:05:08: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:05:08: Running memsweep benchmark
+05/05/12-04:05:23: Memsweep time in seconds: 14.740
+05/05/12-04:05:23: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:05:23: Running memsweep benchmark
+05/05/12-04:05:38: Memsweep time in seconds: 14.880
+05/05/12-04:05:38: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:05:38: Running memsweep benchmark
+05/05/12-04:05:53: Memsweep time in seconds: 14.930
+05/05/12-04:05:54: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:05:54: Running memsweep benchmark
+05/05/12-04:06:09: Memsweep time in seconds: 15.000
+05/05/12-04:06:09: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:06:09: Running memsweep benchmark
+05/05/12-04:06:24: Memsweep time in seconds: 14.880
+05/05/12-04:06:24: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:06:24: Running memsweep benchmark
+05/05/12-04:06:39: Memsweep time in seconds: 14.910
+05/05/12-04:06:39: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:06:39: Running memsweep benchmark
+05/05/12-04:06:54: Memsweep time in seconds: 14.850
+05/05/12-04:06:54: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:06:55: Running memsweep benchmark
+05/05/12-04:07:09: Memsweep time in seconds: 14.870
+05/05/12-04:07:09: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:07:10: Running memsweep benchmark
+05/05/12-04:07:24: Memsweep time in seconds: 14.800
+05/05/12-04:07:24: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:07:25: Running memsweep benchmark
+05/05/12-04:07:40: Memsweep time in seconds: 14.880
+05/05/12-04:07:40: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:07:40: Running memsweep benchmark
+05/05/12-04:07:55: Memsweep time in seconds: 14.880
+05/05/12-04:07:55: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:07:55: Running memsweep benchmark
+05/05/12-04:08:10: Memsweep time in seconds: 14.890
+05/05/12-04:08:10: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:08:10: Running memsweep benchmark
+05/05/12-04:08:25: Memsweep time in seconds: 14.780
+05/05/12-04:08:25: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:08:25: Running memsweep benchmark
+05/05/12-04:08:40: Memsweep time in seconds: 14.890
+05/05/12-04:08:40: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:08:40: Running memsweep benchmark
+05/05/12-04:08:55: Memsweep time in seconds: 14.890
+05/05/12-04:08:55: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:08:55: Running memsweep benchmark
+05/05/12-04:09:11: Memsweep time in seconds: 14.880
+05/05/12-04:09:11: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:09:11: Running memsweep benchmark
+05/05/12-04:09:25: Memsweep time in seconds: 14.840
+05/05/12-04:09:25: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:09:26: Running memsweep benchmark
+05/05/12-04:09:41: Memsweep time in seconds: 14.790
+05/05/12-04:09:41: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:09:41: Running memsweep benchmark
+05/05/12-04:09:56: Memsweep time in seconds: 14.700
+05/05/12-04:09:56: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:09:56: Running memsweep benchmark
+05/05/12-04:10:11: Memsweep time in seconds: 14.790
+05/05/12-04:10:11: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:10:11: Running memsweep benchmark
+05/05/12-04:10:26: Memsweep time in seconds: 14.920
+05/05/12-04:10:26: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:10:26: Running memsweep benchmark
+05/05/12-04:10:41: Memsweep time in seconds: 14.900
+05/05/12-04:10:41: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:10:41: Running memsweep benchmark
+05/05/12-04:10:56: Memsweep time in seconds: 14.790
+05/05/12-04:10:57: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:10:57: Running memsweep benchmark
+05/05/12-04:11:12: Memsweep time in seconds: 15.040
+05/05/12-04:11:12: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:11:12: Running memsweep benchmark
+05/05/12-04:11:27: Memsweep time in seconds: 14.740
+05/05/12-04:11:27: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:11:27: Running memsweep benchmark
+05/05/12-04:11:42: Memsweep time in seconds: 14.860
+05/05/12-04:11:42: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:11:42: Running memsweep benchmark
+05/05/12-04:11:57: Memsweep time in seconds: 14.860
+05/05/12-04:11:57: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:11:57: Running memsweep benchmark
+05/05/12-04:12:12: Memsweep time in seconds: 14.890
+05/05/12-04:12:12: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:12:12: Running memsweep benchmark
+05/05/12-04:12:27: Memsweep time in seconds: 14.920
+05/05/12-04:12:28: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:12:28: Running memsweep benchmark
+05/05/12-04:12:43: Memsweep time in seconds: 14.920
+05/05/12-04:12:43: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:12:43: Running memsweep benchmark
+05/05/12-04:12:58: Memsweep time in seconds: 14.870
+05/05/12-04:12:58: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:12:58: Running memsweep benchmark
+05/05/12-04:13:13: Memsweep time in seconds: 14.920
+05/05/12-04:13:13: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:13:13: Running memsweep benchmark
+05/05/12-04:13:28: Memsweep time in seconds: 14.880
+05/05/12-04:13:28: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:13:28: Running memsweep benchmark
+05/05/12-04:13:43: Memsweep time in seconds: 14.800
+05/05/12-04:13:43: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:13:43: Running memsweep benchmark
+05/05/12-04:13:58: Memsweep time in seconds: 14.860
+05/05/12-04:13:58: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:13:59: Running memsweep benchmark
+05/05/12-04:14:13: Memsweep time in seconds: 14.880
+05/05/12-04:14:13: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:14:14: Running memsweep benchmark
+05/05/12-04:14:28: Memsweep time in seconds: 14.780
+05/05/12-04:14:29: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:14:29: Running memsweep benchmark
+05/05/12-04:14:44: Memsweep time in seconds: 14.850
+05/05/12-04:14:44: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:14:44: Running memsweep benchmark
+05/05/12-04:14:59: Memsweep time in seconds: 14.890
+05/05/12-04:14:59: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:14:59: Running memsweep benchmark
+05/05/12-04:15:14: Memsweep time in seconds: 14.970
+05/05/12-04:15:14: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:15:14: Running memsweep benchmark
+05/05/12-04:15:29: Memsweep time in seconds: 14.980
+05/05/12-04:15:29: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:15:30: Running memsweep benchmark
+05/05/12-04:15:44: Memsweep time in seconds: 14.870
+05/05/12-04:15:44: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:15:45: Running memsweep benchmark
+05/05/12-04:16:00: Memsweep time in seconds: 14.810
+05/05/12-04:16:00: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:16:00: Running memsweep benchmark
+05/05/12-04:16:15: Memsweep time in seconds: 14.990
+05/05/12-04:16:15: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:16:15: Running memsweep benchmark
+05/05/12-04:16:30: Memsweep time in seconds: 14.910
+05/05/12-04:16:30: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:16:30: Running memsweep benchmark
+05/05/12-04:16:45: Memsweep time in seconds: 14.890
+05/05/12-04:16:45: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:16:45: Running memsweep benchmark
+05/05/12-04:17:00: Memsweep time in seconds: 14.840
+05/05/12-04:17:00: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:17:01: Running memsweep benchmark
+05/05/12-04:17:16: Memsweep time in seconds: 14.870
+05/05/12-04:17:16: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:17:16: Running memsweep benchmark
+05/05/12-04:17:31: Memsweep time in seconds: 14.900
+05/05/12-04:17:31: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:17:31: Running memsweep benchmark
+05/05/12-04:17:46: Memsweep time in seconds: 14.830
+05/05/12-04:17:46: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:17:46: Running memsweep benchmark
+05/05/12-04:18:01: Memsweep time in seconds: 14.810
+05/05/12-04:18:01: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:18:01: Running memsweep benchmark
+05/05/12-04:18:16: Memsweep time in seconds: 14.920
+05/05/12-04:18:16: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:18:16: Running memsweep benchmark
+05/05/12-04:18:31: Memsweep time in seconds: 14.950
+05/05/12-04:18:32: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:18:32: Running memsweep benchmark
+05/05/12-04:18:47: Memsweep time in seconds: 14.860
+05/05/12-04:18:47: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:18:47: Running memsweep benchmark
+05/05/12-04:19:02: Memsweep time in seconds: 14.880
+05/05/12-04:19:02: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:19:02: Running memsweep benchmark
+05/05/12-04:19:17: Memsweep time in seconds: 14.950
+05/05/12-04:19:17: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:19:17: Running memsweep benchmark
+05/05/12-04:19:32: Memsweep time in seconds: 14.980
+05/05/12-04:19:32: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:19:32: Running memsweep benchmark
+05/05/12-04:19:47: Memsweep time in seconds: 14.880
+05/05/12-04:19:47: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:19:48: Running memsweep benchmark
+05/05/12-04:20:02: Memsweep time in seconds: 14.860
+05/05/12-04:20:02: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:20:03: Running memsweep benchmark
+05/05/12-04:20:18: Memsweep time in seconds: 14.900
+05/05/12-04:20:18: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:20:18: Running memsweep benchmark
+05/05/12-04:20:33: Memsweep time in seconds: 14.890
+05/05/12-04:20:33: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:20:33: Running memsweep benchmark
+05/05/12-04:20:48: Memsweep time in seconds: 14.860
+05/05/12-04:20:48: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:20:48: Running memsweep benchmark
+05/05/12-04:21:03: Memsweep time in seconds: 14.890
+05/05/12-04:21:03: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:21:03: Running memsweep benchmark
+05/05/12-04:21:18: Memsweep time in seconds: 14.970
+05/05/12-04:21:18: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:21:19: Running memsweep benchmark
+05/05/12-04:21:34: Memsweep time in seconds: 14.880
+05/05/12-04:21:34: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:21:34: Running memsweep benchmark
+05/05/12-04:21:49: Memsweep time in seconds: 14.850
+05/05/12-04:21:49: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:21:49: Running memsweep benchmark
+05/05/12-04:22:04: Memsweep time in seconds: 14.910
+05/05/12-04:22:04: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:22:04: Running memsweep benchmark
+05/05/12-04:22:19: Memsweep time in seconds: 15.030
+05/05/12-04:22:19: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:22:20: Running memsweep benchmark
+05/05/12-04:22:35: Memsweep time in seconds: 15.040
+05/05/12-04:22:35: Compiling memsweep.c (requires GNU compiler collection)
+05/05/12-04:22:35: Running memsweep benchmark
+05/05/12-04:22:50: Memsweep time in seconds: 14.970

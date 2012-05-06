@@ -1,0 +1,1201 @@
+05/05/12-02:34:46: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:34:46: Running syscall benchmark
+05/05/12-02:35:16: Time for 50 million syscalls: 30.450
+05/05/12-02:35:16: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:35:16: Running syscall benchmark
+05/05/12-02:35:47: Time for 50 million syscalls: 30.450
+05/05/12-02:35:47: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:35:47: Running syscall benchmark
+05/05/12-02:36:18: Time for 50 million syscalls: 30.440
+05/05/12-02:36:18: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:36:18: Running syscall benchmark
+05/05/12-02:36:48: Time for 50 million syscalls: 30.190
+05/05/12-02:36:48: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:36:48: Running syscall benchmark
+05/05/12-02:37:18: Time for 50 million syscalls: 30.130
+05/05/12-02:37:18: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:37:18: Running syscall benchmark
+05/05/12-02:37:48: Time for 50 million syscalls: 30.040
+05/05/12-02:37:48: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:37:48: Running syscall benchmark
+05/05/12-02:38:18: Time for 50 million syscalls: 30.080
+05/05/12-02:38:18: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:38:19: Running syscall benchmark
+05/05/12-02:38:49: Time for 50 million syscalls: 30.040
+05/05/12-02:38:49: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:38:49: Running syscall benchmark
+05/05/12-02:39:19: Time for 50 million syscalls: 30.430
+05/05/12-02:39:19: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:39:19: Running syscall benchmark
+05/05/12-02:39:49: Time for 50 million syscalls: 30.120
+05/05/12-02:39:49: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:39:50: Running syscall benchmark
+05/05/12-02:40:20: Time for 50 million syscalls: 30.140
+05/05/12-02:40:20: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:40:20: Running syscall benchmark
+05/05/12-02:40:50: Time for 50 million syscalls: 30.110
+05/05/12-02:40:50: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:40:50: Running syscall benchmark
+05/05/12-02:41:20: Time for 50 million syscalls: 30.110
+05/05/12-02:41:20: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:41:20: Running syscall benchmark
+05/05/12-02:41:51: Time for 50 million syscalls: 30.410
+05/05/12-02:41:51: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:41:51: Running syscall benchmark
+05/05/12-02:42:21: Time for 50 million syscalls: 30.440
+05/05/12-02:42:21: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:42:21: Running syscall benchmark
+05/05/12-02:42:52: Time for 50 million syscalls: 30.410
+05/05/12-02:42:52: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:42:52: Running syscall benchmark
+05/05/12-02:43:22: Time for 50 million syscalls: 30.400
+05/05/12-02:43:22: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:43:22: Running syscall benchmark
+05/05/12-02:43:53: Time for 50 million syscalls: 30.050
+05/05/12-02:43:53: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:43:53: Running syscall benchmark
+05/05/12-02:44:23: Time for 50 million syscalls: 30.450
+05/05/12-02:44:23: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:44:23: Running syscall benchmark
+05/05/12-02:44:54: Time for 50 million syscalls: 30.410
+05/05/12-02:44:54: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:44:54: Running syscall benchmark
+05/05/12-02:45:24: Time for 50 million syscalls: 30.090
+05/05/12-02:45:24: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:45:24: Running syscall benchmark
+05/05/12-02:45:54: Time for 50 million syscalls: 30.100
+05/05/12-02:45:54: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:45:54: Running syscall benchmark
+05/05/12-02:46:24: Time for 50 million syscalls: 30.180
+05/05/12-02:46:24: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:46:25: Running syscall benchmark
+05/05/12-02:46:55: Time for 50 million syscalls: 30.160
+05/05/12-02:46:55: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:46:55: Running syscall benchmark
+05/05/12-02:47:25: Time for 50 million syscalls: 30.130
+05/05/12-02:47:25: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:47:25: Running syscall benchmark
+05/05/12-02:47:55: Time for 50 million syscalls: 30.060
+05/05/12-02:47:55: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:47:55: Running syscall benchmark
+05/05/12-02:48:25: Time for 50 million syscalls: 30.060
+05/05/12-02:48:25: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:48:25: Running syscall benchmark
+05/05/12-02:48:56: Time for 50 million syscalls: 30.350
+05/05/12-02:48:56: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:48:56: Running syscall benchmark
+05/05/12-02:49:26: Time for 50 million syscalls: 30.070
+05/05/12-02:49:26: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:49:26: Running syscall benchmark
+05/05/12-02:49:56: Time for 50 million syscalls: 30.030
+05/05/12-02:49:56: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:49:56: Running syscall benchmark
+05/05/12-02:50:26: Time for 50 million syscalls: 30.120
+05/05/12-02:50:26: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:50:27: Running syscall benchmark
+05/05/12-02:50:57: Time for 50 million syscalls: 30.050
+05/05/12-02:50:57: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:50:57: Running syscall benchmark
+05/05/12-02:51:27: Time for 50 million syscalls: 30.120
+05/05/12-02:51:27: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:51:27: Running syscall benchmark
+05/05/12-02:51:57: Time for 50 million syscalls: 30.050
+05/05/12-02:51:57: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:51:57: Running syscall benchmark
+05/05/12-02:52:27: Time for 50 million syscalls: 30.120
+05/05/12-02:52:27: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:52:27: Running syscall benchmark
+05/05/12-02:52:57: Time for 50 million syscalls: 30.060
+05/05/12-02:52:57: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:52:58: Running syscall benchmark
+05/05/12-02:53:28: Time for 50 million syscalls: 30.090
+05/05/12-02:53:28: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:53:28: Running syscall benchmark
+05/05/12-02:53:58: Time for 50 million syscalls: 30.050
+05/05/12-02:53:58: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:53:58: Running syscall benchmark
+05/05/12-02:54:28: Time for 50 million syscalls: 30.130
+05/05/12-02:54:28: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:54:28: Running syscall benchmark
+05/05/12-02:54:58: Time for 50 million syscalls: 30.170
+05/05/12-02:54:58: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:54:59: Running syscall benchmark
+05/05/12-02:55:29: Time for 50 million syscalls: 30.110
+05/05/12-02:55:29: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:55:29: Running syscall benchmark
+05/05/12-02:55:59: Time for 50 million syscalls: 30.050
+05/05/12-02:55:59: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:55:59: Running syscall benchmark
+05/05/12-02:56:29: Time for 50 million syscalls: 30.160
+05/05/12-02:56:29: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:56:29: Running syscall benchmark
+05/05/12-02:56:59: Time for 50 million syscalls: 30.050
+05/05/12-02:56:59: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:56:59: Running syscall benchmark
+05/05/12-02:57:30: Time for 50 million syscalls: 30.110
+05/05/12-02:57:30: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:57:30: Running syscall benchmark
+05/05/12-02:58:00: Time for 50 million syscalls: 30.040
+05/05/12-02:58:00: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:58:00: Running syscall benchmark
+05/05/12-02:58:30: Time for 50 million syscalls: 30.420
+05/05/12-02:58:30: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:58:30: Running syscall benchmark
+05/05/12-02:59:00: Time for 50 million syscalls: 30.050
+05/05/12-02:59:00: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:59:01: Running syscall benchmark
+05/05/12-02:59:31: Time for 50 million syscalls: 30.110
+05/05/12-02:59:31: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-02:59:31: Running syscall benchmark
+05/05/12-03:00:01: Time for 50 million syscalls: 30.100
+05/05/12-03:00:01: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:00:01: Running syscall benchmark
+05/05/12-03:00:31: Time for 50 million syscalls: 30.170
+05/05/12-03:00:31: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:00:31: Running syscall benchmark
+05/05/12-03:01:02: Time for 50 million syscalls: 30.150
+05/05/12-03:01:02: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:01:02: Running syscall benchmark
+05/05/12-03:01:32: Time for 50 million syscalls: 30.170
+05/05/12-03:01:32: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:01:32: Running syscall benchmark
+05/05/12-03:02:02: Time for 50 million syscalls: 30.060
+05/05/12-03:02:02: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:02:02: Running syscall benchmark
+05/05/12-03:02:33: Time for 50 million syscalls: 30.430
+05/05/12-03:02:33: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:02:33: Running syscall benchmark
+05/05/12-03:03:03: Time for 50 million syscalls: 30.130
+05/05/12-03:03:03: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:03:03: Running syscall benchmark
+05/05/12-03:03:33: Time for 50 million syscalls: 30.050
+05/05/12-03:03:33: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:03:33: Running syscall benchmark
+05/05/12-03:04:03: Time for 50 million syscalls: 30.120
+05/05/12-03:04:03: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:04:03: Running syscall benchmark
+05/05/12-03:04:33: Time for 50 million syscalls: 30.040
+05/05/12-03:04:33: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:04:34: Running syscall benchmark
+05/05/12-03:05:04: Time for 50 million syscalls: 30.130
+05/05/12-03:05:04: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:05:04: Running syscall benchmark
+05/05/12-03:05:34: Time for 50 million syscalls: 30.110
+05/05/12-03:05:34: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:05:34: Running syscall benchmark
+05/05/12-03:06:04: Time for 50 million syscalls: 30.170
+05/05/12-03:06:04: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:06:04: Running syscall benchmark
+05/05/12-03:06:34: Time for 50 million syscalls: 30.080
+05/05/12-03:06:34: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:06:35: Running syscall benchmark
+05/05/12-03:07:05: Time for 50 million syscalls: 30.080
+05/05/12-03:07:05: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:07:05: Running syscall benchmark
+05/05/12-03:07:35: Time for 50 million syscalls: 30.040
+05/05/12-03:07:35: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:07:35: Running syscall benchmark
+05/05/12-03:08:05: Time for 50 million syscalls: 30.140
+05/05/12-03:08:05: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:08:05: Running syscall benchmark
+05/05/12-03:08:35: Time for 50 million syscalls: 30.040
+05/05/12-03:08:35: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:08:35: Running syscall benchmark
+05/05/12-03:09:05: Time for 50 million syscalls: 30.050
+05/05/12-03:09:05: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:09:06: Running syscall benchmark
+05/05/12-03:09:36: Time for 50 million syscalls: 30.020
+05/05/12-03:09:36: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:09:36: Running syscall benchmark
+05/05/12-03:10:06: Time for 50 million syscalls: 30.100
+05/05/12-03:10:06: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:10:06: Running syscall benchmark
+05/05/12-03:10:36: Time for 50 million syscalls: 30.070
+05/05/12-03:10:36: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:10:36: Running syscall benchmark
+05/05/12-03:11:06: Time for 50 million syscalls: 30.080
+05/05/12-03:11:06: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:11:06: Running syscall benchmark
+05/05/12-03:11:36: Time for 50 million syscalls: 30.110
+05/05/12-03:11:36: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:11:37: Running syscall benchmark
+05/05/12-03:12:07: Time for 50 million syscalls: 30.090
+05/05/12-03:12:07: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:12:07: Running syscall benchmark
+05/05/12-03:12:37: Time for 50 million syscalls: 30.060
+05/05/12-03:12:37: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:12:37: Running syscall benchmark
+05/05/12-03:13:07: Time for 50 million syscalls: 30.450
+05/05/12-03:13:07: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:13:08: Running syscall benchmark
+05/05/12-03:13:38: Time for 50 million syscalls: 30.410
+05/05/12-03:13:38: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:13:38: Running syscall benchmark
+05/05/12-03:14:09: Time for 50 million syscalls: 30.440
+05/05/12-03:14:09: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:14:09: Running syscall benchmark
+05/05/12-03:14:39: Time for 50 million syscalls: 30.100
+05/05/12-03:14:39: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:14:39: Running syscall benchmark
+05/05/12-03:15:09: Time for 50 million syscalls: 30.510
+05/05/12-03:15:09: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:15:10: Running syscall benchmark
+05/05/12-03:15:40: Time for 50 million syscalls: 30.400
+05/05/12-03:15:40: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:15:40: Running syscall benchmark
+05/05/12-03:16:11: Time for 50 million syscalls: 30.430
+05/05/12-03:16:11: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:16:11: Running syscall benchmark
+05/05/12-03:16:41: Time for 50 million syscalls: 30.080
+05/05/12-03:16:41: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:16:41: Running syscall benchmark
+05/05/12-03:17:11: Time for 50 million syscalls: 30.450
+05/05/12-03:17:11: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:17:11: Running syscall benchmark
+05/05/12-03:17:42: Time for 50 million syscalls: 30.080
+05/05/12-03:17:42: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:17:42: Running syscall benchmark
+05/05/12-03:18:12: Time for 50 million syscalls: 30.110
+05/05/12-03:18:12: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:18:12: Running syscall benchmark
+05/05/12-03:18:42: Time for 50 million syscalls: 30.040
+05/05/12-03:18:42: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:18:42: Running syscall benchmark
+05/05/12-03:19:12: Time for 50 million syscalls: 30.110
+05/05/12-03:19:12: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:19:12: Running syscall benchmark
+05/05/12-03:19:42: Time for 50 million syscalls: 30.110
+05/05/12-03:19:42: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:19:43: Running syscall benchmark
+05/05/12-03:20:13: Time for 50 million syscalls: 30.150
+05/05/12-03:20:13: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:20:13: Running syscall benchmark
+05/05/12-03:20:43: Time for 50 million syscalls: 30.460
+05/05/12-03:20:43: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:20:43: Running syscall benchmark
+05/05/12-03:21:14: Time for 50 million syscalls: 30.230
+05/05/12-03:21:14: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:21:14: Running syscall benchmark
+05/05/12-03:21:44: Time for 50 million syscalls: 30.450
+05/05/12-03:21:44: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:21:44: Running syscall benchmark
+05/05/12-03:22:15: Time for 50 million syscalls: 30.530
+05/05/12-03:22:15: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:22:15: Running syscall benchmark
+05/05/12-03:22:45: Time for 50 million syscalls: 30.410
+05/05/12-03:22:45: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:22:46: Running syscall benchmark
+05/05/12-03:23:16: Time for 50 million syscalls: 30.410
+05/05/12-03:23:16: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:23:16: Running syscall benchmark
+05/05/12-03:23:46: Time for 50 million syscalls: 30.030
+05/05/12-03:23:46: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:23:46: Running syscall benchmark
+05/05/12-03:24:16: Time for 50 million syscalls: 30.120
+05/05/12-03:24:16: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:24:17: Running syscall benchmark
+05/05/12-03:24:47: Time for 50 million syscalls: 30.130
+05/05/12-03:24:47: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:24:47: Running syscall benchmark
+05/05/12-03:25:17: Time for 50 million syscalls: 30.100
+05/05/12-03:25:17: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:25:17: Running syscall benchmark
+05/05/12-03:25:47: Time for 50 million syscalls: 30.030
+05/05/12-03:25:47: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:25:47: Running syscall benchmark
+05/05/12-03:26:17: Time for 50 million syscalls: 30.080
+05/05/12-03:26:17: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:26:17: Running syscall benchmark
+05/05/12-03:26:47: Time for 50 million syscalls: 30.060
+05/05/12-03:26:47: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:26:48: Running syscall benchmark
+05/05/12-03:27:18: Time for 50 million syscalls: 30.160
+05/05/12-03:27:18: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:27:18: Running syscall benchmark
+05/05/12-03:27:48: Time for 50 million syscalls: 30.020
+05/05/12-03:27:48: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:27:48: Running syscall benchmark
+05/05/12-03:28:18: Time for 50 million syscalls: 30.150
+05/05/12-03:28:18: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:28:18: Running syscall benchmark
+05/05/12-03:28:48: Time for 50 million syscalls: 30.140
+05/05/12-03:28:48: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:28:49: Running syscall benchmark
+05/05/12-03:29:19: Time for 50 million syscalls: 30.150
+05/05/12-03:29:19: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:29:19: Running syscall benchmark
+05/05/12-03:29:49: Time for 50 million syscalls: 30.070
+05/05/12-03:29:49: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:29:49: Running syscall benchmark
+05/05/12-03:30:19: Time for 50 million syscalls: 30.110
+05/05/12-03:30:19: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:30:19: Running syscall benchmark
+05/05/12-03:30:49: Time for 50 million syscalls: 30.060
+05/05/12-03:30:49: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:30:49: Running syscall benchmark
+05/05/12-03:31:20: Time for 50 million syscalls: 30.080
+05/05/12-03:31:20: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:31:20: Running syscall benchmark
+05/05/12-03:31:50: Time for 50 million syscalls: 30.060
+05/05/12-03:31:50: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:31:50: Running syscall benchmark
+05/05/12-03:32:20: Time for 50 million syscalls: 30.150
+05/05/12-03:32:20: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:32:20: Running syscall benchmark
+05/05/12-03:32:50: Time for 50 million syscalls: 30.060
+05/05/12-03:32:50: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:32:50: Running syscall benchmark
+05/05/12-03:33:20: Time for 50 million syscalls: 30.110
+05/05/12-03:33:20: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:33:21: Running syscall benchmark
+05/05/12-03:33:51: Time for 50 million syscalls: 30.050
+05/05/12-03:33:51: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:33:51: Running syscall benchmark
+05/05/12-03:34:21: Time for 50 million syscalls: 30.060
+05/05/12-03:34:21: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:34:21: Running syscall benchmark
+05/05/12-03:34:51: Time for 50 million syscalls: 30.390
+05/05/12-03:34:51: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:34:51: Running syscall benchmark
+05/05/12-03:35:22: Time for 50 million syscalls: 30.060
+05/05/12-03:35:22: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:35:22: Running syscall benchmark
+05/05/12-03:35:52: Time for 50 million syscalls: 30.040
+05/05/12-03:35:52: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:35:52: Running syscall benchmark
+05/05/12-03:36:22: Time for 50 million syscalls: 30.080
+05/05/12-03:36:22: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:36:22: Running syscall benchmark
+05/05/12-03:36:52: Time for 50 million syscalls: 30.030
+05/05/12-03:36:52: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:36:52: Running syscall benchmark
+05/05/12-03:37:22: Time for 50 million syscalls: 30.160
+05/05/12-03:37:22: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:37:22: Running syscall benchmark
+05/05/12-03:37:53: Time for 50 million syscalls: 30.030
+05/05/12-03:37:53: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:37:53: Running syscall benchmark
+05/05/12-03:38:23: Time for 50 million syscalls: 30.180
+05/05/12-03:38:23: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:38:23: Running syscall benchmark
+05/05/12-03:38:53: Time for 50 million syscalls: 30.100
+05/05/12-03:38:53: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:38:53: Running syscall benchmark
+05/05/12-03:39:23: Time for 50 million syscalls: 30.120
+05/05/12-03:39:23: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:39:23: Running syscall benchmark
+05/05/12-03:39:53: Time for 50 million syscalls: 30.040
+05/05/12-03:39:53: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:39:54: Running syscall benchmark
+05/05/12-03:40:24: Time for 50 million syscalls: 30.100
+05/05/12-03:40:24: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:40:24: Running syscall benchmark
+05/05/12-03:40:54: Time for 50 million syscalls: 30.050
+05/05/12-03:40:54: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:40:54: Running syscall benchmark
+05/05/12-03:41:25: Time for 50 million syscalls: 30.510
+05/05/12-03:41:25: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:41:25: Running syscall benchmark
+05/05/12-03:41:55: Time for 50 million syscalls: 30.420
+05/05/12-03:41:55: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:41:55: Running syscall benchmark
+05/05/12-03:42:25: Time for 50 million syscalls: 30.170
+05/05/12-03:42:25: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:42:26: Running syscall benchmark
+05/05/12-03:42:56: Time for 50 million syscalls: 30.040
+05/05/12-03:42:56: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:42:56: Running syscall benchmark
+05/05/12-03:43:26: Time for 50 million syscalls: 30.080
+05/05/12-03:43:26: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:43:26: Running syscall benchmark
+05/05/12-03:43:56: Time for 50 million syscalls: 30.030
+05/05/12-03:43:56: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:43:56: Running syscall benchmark
+05/05/12-03:44:26: Time for 50 million syscalls: 30.130
+05/05/12-03:44:26: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:44:26: Running syscall benchmark
+05/05/12-03:44:56: Time for 50 million syscalls: 30.070
+05/05/12-03:44:56: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:44:57: Running syscall benchmark
+05/05/12-03:45:27: Time for 50 million syscalls: 30.120
+05/05/12-03:45:27: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:45:27: Running syscall benchmark
+05/05/12-03:45:57: Time for 50 million syscalls: 30.110
+05/05/12-03:45:57: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:45:57: Running syscall benchmark
+05/05/12-03:46:27: Time for 50 million syscalls: 30.150
+05/05/12-03:46:27: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:46:27: Running syscall benchmark
+05/05/12-03:46:58: Time for 50 million syscalls: 30.400
+05/05/12-03:46:58: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:46:58: Running syscall benchmark
+05/05/12-03:47:28: Time for 50 million syscalls: 30.150
+05/05/12-03:47:28: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:47:28: Running syscall benchmark
+05/05/12-03:47:59: Time for 50 million syscalls: 30.410
+05/05/12-03:47:59: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:47:59: Running syscall benchmark
+05/05/12-03:48:29: Time for 50 million syscalls: 30.090
+05/05/12-03:48:29: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:48:29: Running syscall benchmark
+05/05/12-03:48:59: Time for 50 million syscalls: 30.040
+05/05/12-03:48:59: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:48:59: Running syscall benchmark
+05/05/12-03:49:29: Time for 50 million syscalls: 30.050
+05/05/12-03:49:29: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:49:29: Running syscall benchmark
+05/05/12-03:49:59: Time for 50 million syscalls: 30.040
+05/05/12-03:49:59: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:49:59: Running syscall benchmark
+05/05/12-03:50:29: Time for 50 million syscalls: 30.070
+05/05/12-03:50:29: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:50:30: Running syscall benchmark
+05/05/12-03:51:00: Time for 50 million syscalls: 30.100
+05/05/12-03:51:00: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:51:00: Running syscall benchmark
+05/05/12-03:51:30: Time for 50 million syscalls: 30.090
+05/05/12-03:51:30: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:51:30: Running syscall benchmark
+05/05/12-03:52:00: Time for 50 million syscalls: 30.370
+05/05/12-03:52:00: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:52:01: Running syscall benchmark
+05/05/12-03:52:31: Time for 50 million syscalls: 30.120
+05/05/12-03:52:31: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:52:31: Running syscall benchmark
+05/05/12-03:53:01: Time for 50 million syscalls: 30.450
+05/05/12-03:53:01: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:53:01: Running syscall benchmark
+05/05/12-03:53:32: Time for 50 million syscalls: 30.430
+05/05/12-03:53:32: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:53:32: Running syscall benchmark
+05/05/12-03:54:02: Time for 50 million syscalls: 30.530
+05/05/12-03:54:02: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:54:03: Running syscall benchmark
+05/05/12-03:54:33: Time for 50 million syscalls: 30.130
+05/05/12-03:54:33: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:54:33: Running syscall benchmark
+05/05/12-03:55:03: Time for 50 million syscalls: 30.140
+05/05/12-03:55:03: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:55:03: Running syscall benchmark
+05/05/12-03:55:34: Time for 50 million syscalls: 30.410
+05/05/12-03:55:34: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:55:34: Running syscall benchmark
+05/05/12-03:56:04: Time for 50 million syscalls: 30.500
+05/05/12-03:56:04: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:56:04: Running syscall benchmark
+05/05/12-03:56:34: Time for 50 million syscalls: 30.160
+05/05/12-03:56:34: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:56:35: Running syscall benchmark
+05/05/12-03:57:05: Time for 50 million syscalls: 30.140
+05/05/12-03:57:05: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:57:05: Running syscall benchmark
+05/05/12-03:57:35: Time for 50 million syscalls: 30.030
+05/05/12-03:57:35: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:57:35: Running syscall benchmark
+05/05/12-03:58:05: Time for 50 million syscalls: 30.080
+05/05/12-03:58:05: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:58:05: Running syscall benchmark
+05/05/12-03:58:35: Time for 50 million syscalls: 30.030
+05/05/12-03:58:35: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:58:35: Running syscall benchmark
+05/05/12-03:59:05: Time for 50 million syscalls: 30.080
+05/05/12-03:59:05: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:59:06: Running syscall benchmark
+05/05/12-03:59:36: Time for 50 million syscalls: 30.010
+05/05/12-03:59:36: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-03:59:36: Running syscall benchmark
+05/05/12-04:00:06: Time for 50 million syscalls: 30.090
+05/05/12-04:00:06: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:00:06: Running syscall benchmark
+05/05/12-04:00:36: Time for 50 million syscalls: 30.080
+05/05/12-04:00:36: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:00:36: Running syscall benchmark
+05/05/12-04:01:06: Time for 50 million syscalls: 30.210
+05/05/12-04:01:06: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:01:06: Running syscall benchmark
+05/05/12-04:01:37: Time for 50 million syscalls: 30.030
+05/05/12-04:01:37: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:01:37: Running syscall benchmark
+05/05/12-04:02:07: Time for 50 million syscalls: 30.120
+05/05/12-04:02:07: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:02:07: Running syscall benchmark
+05/05/12-04:02:37: Time for 50 million syscalls: 30.050
+05/05/12-04:02:37: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:02:37: Running syscall benchmark
+05/05/12-04:03:08: Time for 50 million syscalls: 30.490
+05/05/12-04:03:08: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:03:08: Running syscall benchmark
+05/05/12-04:03:38: Time for 50 million syscalls: 30.390
+05/05/12-04:03:38: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:03:38: Running syscall benchmark
+05/05/12-04:04:09: Time for 50 million syscalls: 30.430
+05/05/12-04:04:09: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:04:09: Running syscall benchmark
+05/05/12-04:04:39: Time for 50 million syscalls: 30.020
+05/05/12-04:04:39: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:04:39: Running syscall benchmark
+05/05/12-04:05:09: Time for 50 million syscalls: 30.070
+05/05/12-04:05:09: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:05:09: Running syscall benchmark
+05/05/12-04:05:39: Time for 50 million syscalls: 30.010
+05/05/12-04:05:39: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:05:39: Running syscall benchmark
+05/05/12-04:06:09: Time for 50 million syscalls: 30.090
+05/05/12-04:06:09: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:06:09: Running syscall benchmark
+05/05/12-04:06:40: Time for 50 million syscalls: 30.040
+05/05/12-04:06:40: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:06:40: Running syscall benchmark
+05/05/12-04:07:10: Time for 50 million syscalls: 30.050
+05/05/12-04:07:10: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:07:10: Running syscall benchmark
+05/05/12-04:07:40: Time for 50 million syscalls: 30.050
+05/05/12-04:07:40: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:07:40: Running syscall benchmark
+05/05/12-04:08:10: Time for 50 million syscalls: 30.190
+05/05/12-04:08:10: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:08:10: Running syscall benchmark
+05/05/12-04:08:41: Time for 50 million syscalls: 30.420
+05/05/12-04:08:41: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:08:41: Running syscall benchmark
+05/05/12-04:09:11: Time for 50 million syscalls: 30.120
+05/05/12-04:09:11: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:09:11: Running syscall benchmark
+05/05/12-04:09:41: Time for 50 million syscalls: 30.190
+05/05/12-04:09:41: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:09:41: Running syscall benchmark
+05/05/12-04:10:12: Time for 50 million syscalls: 30.220
+05/05/12-04:10:12: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:10:12: Running syscall benchmark
+05/05/12-04:10:42: Time for 50 million syscalls: 30.270
+05/05/12-04:10:42: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:10:42: Running syscall benchmark
+05/05/12-04:11:13: Time for 50 million syscalls: 30.580
+05/05/12-04:11:13: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:11:13: Running syscall benchmark
+05/05/12-04:11:43: Time for 50 million syscalls: 30.550
+05/05/12-04:11:43: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:11:44: Running syscall benchmark
+05/05/12-04:12:14: Time for 50 million syscalls: 30.220
+05/05/12-04:12:14: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:12:14: Running syscall benchmark
+05/05/12-04:12:44: Time for 50 million syscalls: 30.170
+05/05/12-04:12:44: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:12:44: Running syscall benchmark
+05/05/12-04:13:14: Time for 50 million syscalls: 30.240
+05/05/12-04:13:15: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:13:15: Running syscall benchmark
+05/05/12-04:13:45: Time for 50 million syscalls: 30.090
+05/05/12-04:13:45: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:13:45: Running syscall benchmark
+05/05/12-04:14:15: Time for 50 million syscalls: 30.120
+05/05/12-04:14:15: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:14:15: Running syscall benchmark
+05/05/12-04:14:46: Time for 50 million syscalls: 30.620
+05/05/12-04:14:46: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:14:46: Running syscall benchmark
+05/05/12-04:15:16: Time for 50 million syscalls: 30.120
+05/05/12-04:15:16: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:15:16: Running syscall benchmark
+05/05/12-04:15:46: Time for 50 million syscalls: 30.030
+05/05/12-04:15:46: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:15:46: Running syscall benchmark
+05/05/12-04:16:17: Time for 50 million syscalls: 30.450
+05/05/12-04:16:17: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:16:17: Running syscall benchmark
+05/05/12-04:16:47: Time for 50 million syscalls: 30.420
+05/05/12-04:16:47: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:16:47: Running syscall benchmark
+05/05/12-04:17:18: Time for 50 million syscalls: 30.440
+05/05/12-04:17:18: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:17:18: Running syscall benchmark
+05/05/12-04:17:48: Time for 50 million syscalls: 30.420
+05/05/12-04:17:48: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:17:49: Running syscall benchmark
+05/05/12-04:18:19: Time for 50 million syscalls: 30.100
+05/05/12-04:18:19: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:18:19: Running syscall benchmark
+05/05/12-04:18:49: Time for 50 million syscalls: 30.110
+05/05/12-04:18:49: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:18:49: Running syscall benchmark
+05/05/12-04:19:19: Time for 50 million syscalls: 30.420
+05/05/12-04:19:19: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:19:20: Running syscall benchmark
+05/05/12-04:19:50: Time for 50 million syscalls: 30.380
+05/05/12-04:19:50: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:19:50: Running syscall benchmark
+05/05/12-04:20:21: Time for 50 million syscalls: 30.500
+05/05/12-04:20:21: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:20:21: Running syscall benchmark
+05/05/12-04:20:51: Time for 50 million syscalls: 30.070
+05/05/12-04:20:51: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:20:51: Running syscall benchmark
+05/05/12-04:21:21: Time for 50 million syscalls: 30.090
+05/05/12-04:21:21: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:21:21: Running syscall benchmark
+05/05/12-04:21:51: Time for 50 million syscalls: 30.040
+05/05/12-04:21:51: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:21:51: Running syscall benchmark
+05/05/12-04:22:21: Time for 50 million syscalls: 30.120
+05/05/12-04:22:21: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:22:22: Running syscall benchmark
+05/05/12-04:22:52: Time for 50 million syscalls: 30.040
+05/05/12-04:22:52: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:22:52: Running syscall benchmark
+05/05/12-04:23:22: Time for 50 million syscalls: 30.440
+05/05/12-04:23:22: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:23:22: Running syscall benchmark
+05/05/12-04:23:53: Time for 50 million syscalls: 30.470
+05/05/12-04:23:53: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:23:53: Running syscall benchmark
+05/05/12-04:24:23: Time for 50 million syscalls: 30.460
+05/05/12-04:24:23: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:24:23: Running syscall benchmark
+05/05/12-04:24:54: Time for 50 million syscalls: 30.380
+05/05/12-04:24:54: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:24:54: Running syscall benchmark
+05/05/12-04:25:24: Time for 50 million syscalls: 30.130
+05/05/12-04:25:24: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:25:24: Running syscall benchmark
+05/05/12-04:25:55: Time for 50 million syscalls: 30.420
+05/05/12-04:25:55: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:25:55: Running syscall benchmark
+05/05/12-04:26:25: Time for 50 million syscalls: 30.470
+05/05/12-04:26:25: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:26:25: Running syscall benchmark
+05/05/12-04:26:55: Time for 50 million syscalls: 30.050
+05/05/12-04:26:55: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:26:56: Running syscall benchmark
+05/05/12-04:27:26: Time for 50 million syscalls: 30.120
+05/05/12-04:27:26: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:27:26: Running syscall benchmark
+05/05/12-04:27:56: Time for 50 million syscalls: 30.410
+05/05/12-04:27:56: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:27:56: Running syscall benchmark
+05/05/12-04:28:27: Time for 50 million syscalls: 30.440
+05/05/12-04:28:27: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:28:27: Running syscall benchmark
+05/05/12-04:28:57: Time for 50 million syscalls: 30.130
+05/05/12-04:28:57: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:28:57: Running syscall benchmark
+05/05/12-04:29:27: Time for 50 million syscalls: 30.120
+05/05/12-04:29:27: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:29:27: Running syscall benchmark
+05/05/12-04:29:58: Time for 50 million syscalls: 30.390
+05/05/12-04:29:58: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:29:58: Running syscall benchmark
+05/05/12-04:30:28: Time for 50 million syscalls: 30.510
+05/05/12-04:30:28: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:30:29: Running syscall benchmark
+05/05/12-04:30:59: Time for 50 million syscalls: 30.400
+05/05/12-04:30:59: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:30:59: Running syscall benchmark
+05/05/12-04:31:30: Time for 50 million syscalls: 30.440
+05/05/12-04:31:30: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:31:30: Running syscall benchmark
+05/05/12-04:32:00: Time for 50 million syscalls: 30.390
+05/05/12-04:32:00: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:32:00: Running syscall benchmark
+05/05/12-04:32:30: Time for 50 million syscalls: 30.120
+05/05/12-04:32:30: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:32:30: Running syscall benchmark
+05/05/12-04:33:01: Time for 50 million syscalls: 30.130
+05/05/12-04:33:01: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:33:01: Running syscall benchmark
+05/05/12-04:33:31: Time for 50 million syscalls: 30.080
+05/05/12-04:33:31: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:33:31: Running syscall benchmark
+05/05/12-04:34:01: Time for 50 million syscalls: 30.110
+05/05/12-04:34:01: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:34:01: Running syscall benchmark
+05/05/12-04:34:31: Time for 50 million syscalls: 30.100
+05/05/12-04:34:31: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:34:31: Running syscall benchmark
+05/05/12-04:35:02: Time for 50 million syscalls: 30.130
+05/05/12-04:35:02: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:35:02: Running syscall benchmark
+05/05/12-04:35:32: Time for 50 million syscalls: 30.050
+05/05/12-04:35:32: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:35:32: Running syscall benchmark
+05/05/12-04:36:02: Time for 50 million syscalls: 30.070
+05/05/12-04:36:02: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:36:02: Running syscall benchmark
+05/05/12-04:36:32: Time for 50 million syscalls: 30.130
+05/05/12-04:36:32: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:36:32: Running syscall benchmark
+05/05/12-04:37:02: Time for 50 million syscalls: 30.160
+05/05/12-04:37:02: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:37:03: Running syscall benchmark
+05/05/12-04:37:33: Time for 50 million syscalls: 30.080
+05/05/12-04:37:33: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:37:33: Running syscall benchmark
+05/05/12-04:38:03: Time for 50 million syscalls: 30.090
+05/05/12-04:38:03: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:38:03: Running syscall benchmark
+05/05/12-04:38:33: Time for 50 million syscalls: 30.100
+05/05/12-04:38:33: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:38:33: Running syscall benchmark
+05/05/12-04:39:04: Time for 50 million syscalls: 30.480
+05/05/12-04:39:04: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:39:04: Running syscall benchmark
+05/05/12-04:39:34: Time for 50 million syscalls: 30.460
+05/05/12-04:39:34: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:39:34: Running syscall benchmark
+05/05/12-04:40:05: Time for 50 million syscalls: 30.480
+05/05/12-04:40:05: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:40:05: Running syscall benchmark
+05/05/12-04:40:36: Time for 50 million syscalls: 30.440
+05/05/12-04:40:36: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:40:36: Running syscall benchmark
+05/05/12-04:41:06: Time for 50 million syscalls: 30.480
+05/05/12-04:41:06: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:41:06: Running syscall benchmark
+05/05/12-04:41:36: Time for 50 million syscalls: 30.110
+05/05/12-04:41:36: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:41:36: Running syscall benchmark
+05/05/12-04:42:07: Time for 50 million syscalls: 30.110
+05/05/12-04:42:07: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:42:07: Running syscall benchmark
+05/05/12-04:42:37: Time for 50 million syscalls: 30.080
+05/05/12-04:42:37: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:42:37: Running syscall benchmark
+05/05/12-04:43:07: Time for 50 million syscalls: 30.110
+05/05/12-04:43:07: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:43:07: Running syscall benchmark
+05/05/12-04:43:37: Time for 50 million syscalls: 30.070
+05/05/12-04:43:37: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:43:37: Running syscall benchmark
+05/05/12-04:44:08: Time for 50 million syscalls: 30.120
+05/05/12-04:44:08: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:44:08: Running syscall benchmark
+05/05/12-04:44:38: Time for 50 million syscalls: 30.160
+05/05/12-04:44:38: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:44:38: Running syscall benchmark
+05/05/12-04:45:08: Time for 50 million syscalls: 30.110
+05/05/12-04:45:08: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:45:08: Running syscall benchmark
+05/05/12-04:45:38: Time for 50 million syscalls: 30.050
+05/05/12-04:45:38: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:45:38: Running syscall benchmark
+05/05/12-04:46:09: Time for 50 million syscalls: 30.450
+05/05/12-04:46:09: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:46:09: Running syscall benchmark
+05/05/12-04:46:39: Time for 50 million syscalls: 30.060
+05/05/12-04:46:39: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:46:39: Running syscall benchmark
+05/05/12-04:47:09: Time for 50 million syscalls: 30.070
+05/05/12-04:47:09: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:47:09: Running syscall benchmark
+05/05/12-04:47:39: Time for 50 million syscalls: 30.040
+05/05/12-04:47:39: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:47:39: Running syscall benchmark
+05/05/12-04:48:10: Time for 50 million syscalls: 30.120
+05/05/12-04:48:10: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:48:10: Running syscall benchmark
+05/05/12-04:48:40: Time for 50 million syscalls: 30.120
+05/05/12-04:48:40: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:48:40: Running syscall benchmark
+05/05/12-04:49:10: Time for 50 million syscalls: 30.110
+05/05/12-04:49:10: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:49:10: Running syscall benchmark
+05/05/12-04:49:40: Time for 50 million syscalls: 30.090
+05/05/12-04:49:40: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:49:40: Running syscall benchmark
+05/05/12-04:50:11: Time for 50 million syscalls: 30.080
+05/05/12-04:50:11: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:50:11: Running syscall benchmark
+05/05/12-04:50:41: Time for 50 million syscalls: 30.590
+05/05/12-04:50:41: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:50:41: Running syscall benchmark
+05/05/12-04:51:12: Time for 50 million syscalls: 30.560
+05/05/12-04:51:12: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:51:12: Running syscall benchmark
+05/05/12-04:51:42: Time for 50 million syscalls: 30.430
+05/05/12-04:51:42: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:51:43: Running syscall benchmark
+05/05/12-04:52:13: Time for 50 million syscalls: 30.110
+05/05/12-04:52:13: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:52:13: Running syscall benchmark
+05/05/12-04:52:43: Time for 50 million syscalls: 30.080
+05/05/12-04:52:43: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:52:43: Running syscall benchmark
+05/05/12-04:53:13: Time for 50 million syscalls: 30.060
+05/05/12-04:53:13: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:53:13: Running syscall benchmark
+05/05/12-04:53:43: Time for 50 million syscalls: 30.040
+05/05/12-04:53:43: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:53:43: Running syscall benchmark
+05/05/12-04:54:13: Time for 50 million syscalls: 30.080
+05/05/12-04:54:14: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:54:14: Running syscall benchmark
+05/05/12-04:54:44: Time for 50 million syscalls: 30.110
+05/05/12-04:54:44: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:54:44: Running syscall benchmark
+05/05/12-04:55:14: Time for 50 million syscalls: 30.090
+05/05/12-04:55:14: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:55:14: Running syscall benchmark
+05/05/12-04:55:44: Time for 50 million syscalls: 30.050
+05/05/12-04:55:44: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:55:44: Running syscall benchmark
+05/05/12-04:56:14: Time for 50 million syscalls: 30.120
+05/05/12-04:56:14: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:56:15: Running syscall benchmark
+05/05/12-04:56:45: Time for 50 million syscalls: 30.100
+05/05/12-04:56:45: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:56:45: Running syscall benchmark
+05/05/12-04:57:15: Time for 50 million syscalls: 30.140
+05/05/12-04:57:15: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:57:15: Running syscall benchmark
+05/05/12-04:57:45: Time for 50 million syscalls: 30.050
+05/05/12-04:57:45: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:57:45: Running syscall benchmark
+05/05/12-04:58:15: Time for 50 million syscalls: 30.100
+05/05/12-04:58:15: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:58:15: Running syscall benchmark
+05/05/12-04:58:46: Time for 50 million syscalls: 30.090
+05/05/12-04:58:46: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:58:46: Running syscall benchmark
+05/05/12-04:59:16: Time for 50 million syscalls: 30.140
+05/05/12-04:59:16: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:59:16: Running syscall benchmark
+05/05/12-04:59:46: Time for 50 million syscalls: 30.070
+05/05/12-04:59:46: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-04:59:46: Running syscall benchmark
+05/05/12-05:00:16: Time for 50 million syscalls: 30.100
+05/05/12-05:00:16: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:00:16: Running syscall benchmark
+05/05/12-05:00:46: Time for 50 million syscalls: 30.070
+05/05/12-05:00:46: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:00:47: Running syscall benchmark
+05/05/12-05:01:17: Time for 50 million syscalls: 30.460
+05/05/12-05:01:17: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:01:17: Running syscall benchmark
+05/05/12-05:01:48: Time for 50 million syscalls: 30.490
+05/05/12-05:01:48: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:01:48: Running syscall benchmark
+05/05/12-05:02:18: Time for 50 million syscalls: 30.120
+05/05/12-05:02:18: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:02:18: Running syscall benchmark
+05/05/12-05:02:48: Time for 50 million syscalls: 30.070
+05/05/12-05:02:48: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:02:48: Running syscall benchmark
+05/05/12-05:03:18: Time for 50 million syscalls: 30.110
+05/05/12-05:03:18: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:03:18: Running syscall benchmark
+05/05/12-05:03:49: Time for 50 million syscalls: 30.070
+05/05/12-05:03:49: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:03:49: Running syscall benchmark
+05/05/12-05:04:19: Time for 50 million syscalls: 30.120
+05/05/12-05:04:19: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:04:19: Running syscall benchmark
+05/05/12-05:04:49: Time for 50 million syscalls: 30.040
+05/05/12-05:04:49: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:04:49: Running syscall benchmark
+05/05/12-05:05:19: Time for 50 million syscalls: 30.070
+05/05/12-05:05:19: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:05:19: Running syscall benchmark
+05/05/12-05:05:49: Time for 50 million syscalls: 30.050
+05/05/12-05:05:49: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:05:49: Running syscall benchmark
+05/05/12-05:06:20: Time for 50 million syscalls: 30.630
+05/05/12-05:06:20: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:06:20: Running syscall benchmark
+05/05/12-05:06:50: Time for 50 million syscalls: 30.020
+05/05/12-05:06:50: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:06:50: Running syscall benchmark
+05/05/12-05:07:21: Time for 50 million syscalls: 30.390
+05/05/12-05:07:21: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:07:21: Running syscall benchmark
+05/05/12-05:07:51: Time for 50 million syscalls: 30.020
+05/05/12-05:07:51: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:07:51: Running syscall benchmark
+05/05/12-05:08:21: Time for 50 million syscalls: 30.420
+05/05/12-05:08:21: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:08:22: Running syscall benchmark
+05/05/12-05:08:52: Time for 50 million syscalls: 30.390
+05/05/12-05:08:52: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:08:52: Running syscall benchmark
+05/05/12-05:09:22: Time for 50 million syscalls: 30.050
+05/05/12-05:09:22: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:09:22: Running syscall benchmark
+05/05/12-05:09:52: Time for 50 million syscalls: 30.010
+05/05/12-05:09:52: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:09:52: Running syscall benchmark
+05/05/12-05:10:23: Time for 50 million syscalls: 30.140
+05/05/12-05:10:23: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:10:23: Running syscall benchmark
+05/05/12-05:10:53: Time for 50 million syscalls: 30.450
+05/05/12-05:10:53: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:10:53: Running syscall benchmark
+05/05/12-05:11:23: Time for 50 million syscalls: 30.120
+05/05/12-05:11:23: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:11:23: Running syscall benchmark
+05/05/12-05:11:54: Time for 50 million syscalls: 30.070
+05/05/12-05:11:54: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:11:54: Running syscall benchmark
+05/05/12-05:12:24: Time for 50 million syscalls: 30.100
+05/05/12-05:12:24: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:12:24: Running syscall benchmark
+05/05/12-05:12:54: Time for 50 million syscalls: 30.430
+05/05/12-05:12:54: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:12:54: Running syscall benchmark
+05/05/12-05:13:25: Time for 50 million syscalls: 30.440
+05/05/12-05:13:25: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:13:25: Running syscall benchmark
+05/05/12-05:13:55: Time for 50 million syscalls: 30.070
+05/05/12-05:13:55: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:13:55: Running syscall benchmark
+05/05/12-05:14:25: Time for 50 million syscalls: 30.150
+05/05/12-05:14:25: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:14:26: Running syscall benchmark
+05/05/12-05:14:56: Time for 50 million syscalls: 30.150
+05/05/12-05:14:56: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:14:56: Running syscall benchmark
+05/05/12-05:15:26: Time for 50 million syscalls: 30.160
+05/05/12-05:15:26: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:15:26: Running syscall benchmark
+05/05/12-05:15:56: Time for 50 million syscalls: 30.100
+05/05/12-05:15:56: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:15:56: Running syscall benchmark
+05/05/12-05:16:27: Time for 50 million syscalls: 30.450
+05/05/12-05:16:27: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:16:27: Running syscall benchmark
+05/05/12-05:16:57: Time for 50 million syscalls: 30.040
+05/05/12-05:16:57: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:16:57: Running syscall benchmark
+05/05/12-05:17:27: Time for 50 million syscalls: 30.090
+05/05/12-05:17:27: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:17:27: Running syscall benchmark
+05/05/12-05:17:57: Time for 50 million syscalls: 30.060
+05/05/12-05:17:57: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:17:57: Running syscall benchmark
+05/05/12-05:18:28: Time for 50 million syscalls: 30.120
+05/05/12-05:18:28: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:18:28: Running syscall benchmark
+05/05/12-05:18:58: Time for 50 million syscalls: 30.050
+05/05/12-05:18:58: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:18:58: Running syscall benchmark
+05/05/12-05:19:28: Time for 50 million syscalls: 30.140
+05/05/12-05:19:28: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:19:28: Running syscall benchmark
+05/05/12-05:19:58: Time for 50 million syscalls: 30.060
+05/05/12-05:19:58: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:19:58: Running syscall benchmark
+05/05/12-05:20:28: Time for 50 million syscalls: 30.120
+05/05/12-05:20:29: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:20:29: Running syscall benchmark
+05/05/12-05:20:59: Time for 50 million syscalls: 30.060
+05/05/12-05:20:59: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:20:59: Running syscall benchmark
+05/05/12-05:21:29: Time for 50 million syscalls: 30.140
+05/05/12-05:21:29: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:21:29: Running syscall benchmark
+05/05/12-05:21:59: Time for 50 million syscalls: 30.030
+05/05/12-05:21:59: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:21:59: Running syscall benchmark
+05/05/12-05:22:29: Time for 50 million syscalls: 30.070
+05/05/12-05:22:29: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:22:29: Running syscall benchmark
+05/05/12-05:23:00: Time for 50 million syscalls: 30.060
+05/05/12-05:23:00: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:23:00: Running syscall benchmark
+05/05/12-05:23:30: Time for 50 million syscalls: 30.140
+05/05/12-05:23:30: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:23:30: Running syscall benchmark
+05/05/12-05:24:00: Time for 50 million syscalls: 30.040
+05/05/12-05:24:00: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:24:00: Running syscall benchmark
+05/05/12-05:24:30: Time for 50 million syscalls: 30.160
+05/05/12-05:24:30: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:24:30: Running syscall benchmark
+05/05/12-05:25:01: Time for 50 million syscalls: 30.240
+05/05/12-05:25:01: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:25:01: Running syscall benchmark
+05/05/12-05:25:31: Time for 50 million syscalls: 30.220
+05/05/12-05:25:31: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:25:31: Running syscall benchmark
+05/05/12-05:26:01: Time for 50 million syscalls: 30.060
+05/05/12-05:26:01: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:26:01: Running syscall benchmark
+05/05/12-05:26:31: Time for 50 million syscalls: 30.100
+05/05/12-05:26:31: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:26:32: Running syscall benchmark
+05/05/12-05:27:02: Time for 50 million syscalls: 30.140
+05/05/12-05:27:02: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:27:02: Running syscall benchmark
+05/05/12-05:27:32: Time for 50 million syscalls: 30.030
+05/05/12-05:27:32: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:27:32: Running syscall benchmark
+05/05/12-05:28:02: Time for 50 million syscalls: 30.110
+05/05/12-05:28:02: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:28:02: Running syscall benchmark
+05/05/12-05:28:32: Time for 50 million syscalls: 30.110
+05/05/12-05:28:32: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:28:32: Running syscall benchmark
+05/05/12-05:29:03: Time for 50 million syscalls: 30.090
+05/05/12-05:29:03: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:29:03: Running syscall benchmark
+05/05/12-05:29:33: Time for 50 million syscalls: 30.130
+05/05/12-05:29:33: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:29:33: Running syscall benchmark
+05/05/12-05:30:03: Time for 50 million syscalls: 30.190
+05/05/12-05:30:03: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:30:03: Running syscall benchmark
+05/05/12-05:30:33: Time for 50 million syscalls: 30.110
+05/05/12-05:30:33: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:30:34: Running syscall benchmark
+05/05/12-05:31:04: Time for 50 million syscalls: 30.490
+05/05/12-05:31:04: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:31:04: Running syscall benchmark
+05/05/12-05:31:35: Time for 50 million syscalls: 30.370
+05/05/12-05:31:35: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:31:35: Running syscall benchmark
+05/05/12-05:32:05: Time for 50 million syscalls: 30.050
+05/05/12-05:32:05: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:32:05: Running syscall benchmark
+05/05/12-05:32:35: Time for 50 million syscalls: 30.060
+05/05/12-05:32:35: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:32:35: Running syscall benchmark
+05/05/12-05:33:05: Time for 50 million syscalls: 30.060
+05/05/12-05:33:05: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:33:05: Running syscall benchmark
+05/05/12-05:33:35: Time for 50 million syscalls: 30.070
+05/05/12-05:33:35: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:33:35: Running syscall benchmark
+05/05/12-05:34:06: Time for 50 million syscalls: 30.160
+05/05/12-05:34:06: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:34:06: Running syscall benchmark
+05/05/12-05:34:36: Time for 50 million syscalls: 30.090
+05/05/12-05:34:36: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:34:36: Running syscall benchmark
+05/05/12-05:35:06: Time for 50 million syscalls: 30.100
+05/05/12-05:35:06: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:35:06: Running syscall benchmark
+05/05/12-05:35:37: Time for 50 million syscalls: 30.430
+05/05/12-05:35:37: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:35:37: Running syscall benchmark
+05/05/12-05:36:07: Time for 50 million syscalls: 30.170
+05/05/12-05:36:07: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:36:07: Running syscall benchmark
+05/05/12-05:36:37: Time for 50 million syscalls: 30.090
+05/05/12-05:36:37: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:36:37: Running syscall benchmark
+05/05/12-05:37:07: Time for 50 million syscalls: 30.110
+05/05/12-05:37:07: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:37:07: Running syscall benchmark
+05/05/12-05:37:38: Time for 50 million syscalls: 30.100
+05/05/12-05:37:38: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:37:38: Running syscall benchmark
+05/05/12-05:38:08: Time for 50 million syscalls: 30.130
+05/05/12-05:38:08: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:38:08: Running syscall benchmark
+05/05/12-05:38:38: Time for 50 million syscalls: 30.080
+05/05/12-05:38:38: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:38:38: Running syscall benchmark
+05/05/12-05:39:08: Time for 50 million syscalls: 30.120
+05/05/12-05:39:08: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:39:08: Running syscall benchmark
+05/05/12-05:39:38: Time for 50 million syscalls: 30.040
+05/05/12-05:39:38: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:39:39: Running syscall benchmark
+05/05/12-05:40:09: Time for 50 million syscalls: 30.170
+05/05/12-05:40:09: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:40:09: Running syscall benchmark
+05/05/12-05:40:39: Time for 50 million syscalls: 30.040
+05/05/12-05:40:39: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:40:39: Running syscall benchmark
+05/05/12-05:41:09: Time for 50 million syscalls: 30.190
+05/05/12-05:41:09: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:41:09: Running syscall benchmark
+05/05/12-05:41:39: Time for 50 million syscalls: 30.050
+05/05/12-05:41:39: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:41:40: Running syscall benchmark
+05/05/12-05:42:10: Time for 50 million syscalls: 30.120
+05/05/12-05:42:10: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:42:10: Running syscall benchmark
+05/05/12-05:42:40: Time for 50 million syscalls: 30.110
+05/05/12-05:42:40: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:42:40: Running syscall benchmark
+05/05/12-05:43:11: Time for 50 million syscalls: 30.450
+05/05/12-05:43:11: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:43:11: Running syscall benchmark
+05/05/12-05:43:41: Time for 50 million syscalls: 30.090
+05/05/12-05:43:41: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:43:41: Running syscall benchmark
+05/05/12-05:44:11: Time for 50 million syscalls: 30.100
+05/05/12-05:44:11: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:44:11: Running syscall benchmark
+05/05/12-05:44:41: Time for 50 million syscalls: 30.010
+05/05/12-05:44:41: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:44:41: Running syscall benchmark
+05/05/12-05:45:11: Time for 50 million syscalls: 30.100
+05/05/12-05:45:11: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:45:11: Running syscall benchmark
+05/05/12-05:45:42: Time for 50 million syscalls: 30.080
+05/05/12-05:45:42: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:45:42: Running syscall benchmark
+05/05/12-05:46:12: Time for 50 million syscalls: 30.180
+05/05/12-05:46:12: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:46:12: Running syscall benchmark
+05/05/12-05:46:42: Time for 50 million syscalls: 30.060
+05/05/12-05:46:42: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:46:42: Running syscall benchmark
+05/05/12-05:47:13: Time for 50 million syscalls: 30.450
+05/05/12-05:47:13: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:47:13: Running syscall benchmark
+05/05/12-05:47:43: Time for 50 million syscalls: 30.450
+05/05/12-05:47:43: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:47:43: Running syscall benchmark
+05/05/12-05:48:14: Time for 50 million syscalls: 30.470
+05/05/12-05:48:14: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:48:14: Running syscall benchmark
+05/05/12-05:48:44: Time for 50 million syscalls: 30.100
+05/05/12-05:48:44: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:48:44: Running syscall benchmark
+05/05/12-05:49:14: Time for 50 million syscalls: 30.120
+05/05/12-05:49:14: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:49:14: Running syscall benchmark
+05/05/12-05:49:45: Time for 50 million syscalls: 30.080
+05/05/12-05:49:45: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:49:45: Running syscall benchmark
+05/05/12-05:50:15: Time for 50 million syscalls: 30.070
+05/05/12-05:50:15: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:50:15: Running syscall benchmark
+05/05/12-05:50:45: Time for 50 million syscalls: 30.080
+05/05/12-05:50:45: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:50:45: Running syscall benchmark
+05/05/12-05:51:15: Time for 50 million syscalls: 30.120
+05/05/12-05:51:15: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:51:15: Running syscall benchmark
+05/05/12-05:51:45: Time for 50 million syscalls: 30.070
+05/05/12-05:51:45: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:51:45: Running syscall benchmark
+05/05/12-05:52:16: Time for 50 million syscalls: 30.150
+05/05/12-05:52:16: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:52:16: Running syscall benchmark
+05/05/12-05:52:46: Time for 50 million syscalls: 30.470
+05/05/12-05:52:46: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:52:46: Running syscall benchmark
+05/05/12-05:53:17: Time for 50 million syscalls: 30.520
+05/05/12-05:53:17: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:53:17: Running syscall benchmark
+05/05/12-05:53:47: Time for 50 million syscalls: 30.460
+05/05/12-05:53:47: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:53:48: Running syscall benchmark
+05/05/12-05:54:18: Time for 50 million syscalls: 30.090
+05/05/12-05:54:18: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:54:18: Running syscall benchmark
+05/05/12-05:54:48: Time for 50 million syscalls: 30.420
+05/05/12-05:54:48: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:54:48: Running syscall benchmark
+05/05/12-05:55:19: Time for 50 million syscalls: 30.480
+05/05/12-05:55:19: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:55:19: Running syscall benchmark
+05/05/12-05:55:49: Time for 50 million syscalls: 30.050
+05/05/12-05:55:49: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:55:49: Running syscall benchmark
+05/05/12-05:56:19: Time for 50 million syscalls: 30.150
+05/05/12-05:56:19: Compiling syscall.c (requires GNU compiler collection)
+05/05/12-05:56:19: Running syscall benchmark
+05/05/12-05:56:50: Time for 50 million syscalls: 30.140
+

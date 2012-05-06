@@ -1,0 +1,1200 @@
+05/04/12-23:42:13: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:42:14: Running linpack benchmark
+05/04/12-23:42:40: Benchmark result: 417535.668 KFLOPS
+05/04/12-23:42:40: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:42:41: Running linpack benchmark
+05/04/12-23:43:08: Benchmark result: 376250.584 KFLOPS
+05/04/12-23:43:08: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:43:09: Running linpack benchmark
+05/04/12-23:43:37: Benchmark result: 406464.646 KFLOPS
+05/04/12-23:43:37: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:43:37: Running linpack benchmark
+05/04/12-23:44:04: Benchmark result: 394800.098 KFLOPS
+05/04/12-23:44:04: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:44:05: Running linpack benchmark
+05/04/12-23:44:31: Benchmark result: 413353.878 KFLOPS
+05/04/12-23:44:31: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:44:32: Running linpack benchmark
+05/04/12-23:44:57: Benchmark result: 434792.004 KFLOPS
+05/04/12-23:44:57: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:44:58: Running linpack benchmark
+05/04/12-23:45:26: Benchmark result: 389922.481 KFLOPS
+05/04/12-23:45:26: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:45:27: Running linpack benchmark
+05/04/12-23:45:56: Benchmark result: 373110.802 KFLOPS
+05/04/12-23:45:56: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:45:56: Running linpack benchmark
+05/04/12-23:46:22: Benchmark result: 423133.544 KFLOPS
+05/04/12-23:46:22: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:46:23: Running linpack benchmark
+05/04/12-23:46:50: Benchmark result: 407390.534 KFLOPS
+05/04/12-23:46:50: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:46:50: Running linpack benchmark
+05/04/12-23:47:18: Benchmark result: 385995.204 KFLOPS
+05/04/12-23:47:18: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:47:19: Running linpack benchmark
+05/04/12-23:47:51: Benchmark result: 339148.757 KFLOPS
+05/04/12-23:47:51: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:47:51: Running linpack benchmark
+05/04/12-23:48:20: Benchmark result: 381060.606 KFLOPS
+05/04/12-23:48:20: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:48:21: Running linpack benchmark
+05/04/12-23:48:51: Benchmark result: 354147.415 KFLOPS
+05/04/12-23:48:51: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:48:52: Running linpack benchmark
+05/04/12-23:49:20: Benchmark result: 384887.614 KFLOPS
+05/04/12-23:49:20: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:49:20: Running linpack benchmark
+05/04/12-23:49:48: Benchmark result: 405849.723 KFLOPS
+05/04/12-23:49:48: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:49:48: Running linpack benchmark
+05/04/12-23:50:14: Benchmark result: 404320.522 KFLOPS
+05/04/12-23:50:14: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:50:15: Running linpack benchmark
+05/04/12-23:50:41: Benchmark result: 405849.723 KFLOPS
+05/04/12-23:50:41: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:50:42: Running linpack benchmark
+05/04/12-23:51:10: Benchmark result: 385440.613 KFLOPS
+05/04/12-23:51:10: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:51:10: Running linpack benchmark
+05/04/12-23:51:38: Benchmark result: 390774.460 KFLOPS
+05/04/12-23:51:39: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:51:39: Running linpack benchmark
+05/04/12-23:52:06: Benchmark result: 410821.848 KFLOPS
+05/04/12-23:52:06: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:52:06: Running linpack benchmark
+05/04/12-23:52:33: Benchmark result: 413991.770 KFLOPS
+05/04/12-23:52:33: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:52:33: Running linpack benchmark
+05/04/12-23:53:01: Benchmark result: 386551.393 KFLOPS
+05/04/12-23:53:01: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:53:02: Running linpack benchmark
+05/04/12-23:53:32: Benchmark result: 359606.792 KFLOPS
+05/04/12-23:53:32: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:53:33: Running linpack benchmark
+05/04/12-23:53:59: Benchmark result: 413672.578 KFLOPS
+05/04/12-23:53:59: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:54:00: Running linpack benchmark
+05/04/12-23:54:31: Benchmark result: 349760.973 KFLOPS
+05/04/12-23:54:31: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:54:31: Running linpack benchmark
+05/04/12-23:54:58: Benchmark result: 415595.146 KFLOPS
+05/04/12-23:54:58: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:54:58: Running linpack benchmark
+05/04/12-23:55:30: Benchmark result: 347046.141 KFLOPS
+05/04/12-23:55:30: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:55:31: Running linpack benchmark
+05/04/12-23:55:59: Benchmark result: 388792.271 KFLOPS
+05/04/12-23:55:59: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:55:59: Running linpack benchmark
+05/04/12-23:56:28: Benchmark result: 378640.320 KFLOPS
+05/04/12-23:56:28: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:56:29: Running linpack benchmark
+05/04/12-23:56:57: Benchmark result: 380250.413 KFLOPS
+05/04/12-23:56:57: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:56:58: Running linpack benchmark
+05/04/12-23:57:25: Benchmark result: 411451.943 KFLOPS
+05/04/12-23:57:25: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:57:25: Running linpack benchmark
+05/04/12-23:57:54: Benchmark result: 377043.804 KFLOPS
+05/04/12-23:57:54: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:57:55: Running linpack benchmark
+05/04/12-23:58:25: Benchmark result: 366234.357 KFLOPS
+05/04/12-23:58:25: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:58:25: Running linpack benchmark
+05/04/12-23:58:54: Benchmark result: 389074.208 KFLOPS
+05/04/12-23:58:54: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:58:54: Running linpack benchmark
+05/04/12-23:59:21: Benchmark result: 402500.625 KFLOPS
+05/04/12-23:59:21: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:59:22: Running linpack benchmark
+05/04/12-23:59:47: Benchmark result: 432339.511 KFLOPS
+05/04/12-23:59:47: Compiling linpack.c (requires GNU compiler collection)
+05/04/12-23:59:47: Running linpack benchmark
+05/05/12-00:00:13: Benchmark result: 414631.633 KFLOPS
+05/05/12-00:00:13: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:00:14: Running linpack benchmark
+05/05/12-00:00:40: Benchmark result: 435144.634 KFLOPS
+05/05/12-00:00:40: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:00:40: Running linpack benchmark
+05/05/12-00:01:09: Benchmark result: 372851.517 KFLOPS
+05/05/12-00:01:09: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:01:09: Running linpack benchmark
+05/05/12-00:01:38: Benchmark result: 393352.884 KFLOPS
+05/05/12-00:01:38: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:01:38: Running linpack benchmark
+05/05/12-00:02:07: Benchmark result: 371560.480 KFLOPS
+05/05/12-00:02:07: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:02:08: Running linpack benchmark
+05/05/12-00:02:36: Benchmark result: 378373.296 KFLOPS
+05/05/12-00:02:36: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:02:37: Running linpack benchmark
+05/05/12-00:03:04: Benchmark result: 404625.440 KFLOPS
+05/05/12-00:03:04: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:03:05: Running linpack benchmark
+05/05/12-00:03:34: Benchmark result: 373630.455 KFLOPS
+05/05/12-00:03:34: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:03:35: Running linpack benchmark
+05/05/12-00:04:00: Benchmark result: 430259.289 KFLOPS
+05/05/12-00:04:00: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:04:01: Running linpack benchmark
+05/05/12-00:04:27: Benchmark result: 423802.001 KFLOPS
+05/05/12-00:04:27: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:04:28: Running linpack benchmark
+05/05/12-00:04:53: Benchmark result: 428198.989 KFLOPS
+05/05/12-00:04:54: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:04:54: Running linpack benchmark
+05/05/12-00:05:21: Benchmark result: 407081.437 KFLOPS
+05/05/12-00:05:21: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:05:21: Running linpack benchmark
+05/05/12-00:05:47: Benchmark result: 426158.327 KFLOPS
+05/05/12-00:05:47: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:05:47: Running linpack benchmark
+05/05/12-00:06:14: Benchmark result: 402500.625 KFLOPS
+05/05/12-00:06:14: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:06:15: Running linpack benchmark
+05/05/12-00:06:41: Benchmark result: 406464.646 KFLOPS
+05/05/12-00:06:41: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:06:42: Running linpack benchmark
+05/05/12-00:07:09: Benchmark result: 389356.555 KFLOPS
+05/05/12-00:07:09: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:07:10: Running linpack benchmark
+05/05/12-00:07:35: Benchmark result: 430950.469 KFLOPS
+05/05/12-00:07:35: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:07:36: Running linpack benchmark
+05/05/12-00:08:01: Benchmark result: 427176.221 KFLOPS
+05/05/12-00:08:01: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:08:02: Running linpack benchmark
+05/05/12-00:08:28: Benchmark result: 415917.313 KFLOPS
+05/05/12-00:08:28: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:08:29: Running linpack benchmark
+05/05/12-00:08:54: Benchmark result: 441228.070 KFLOPS
+05/05/12-00:08:54: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:08:54: Running linpack benchmark
+05/05/12-00:09:23: Benchmark result: 389074.208 KFLOPS
+05/05/12-00:09:23: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:09:23: Running linpack benchmark
+05/05/12-00:09:52: Benchmark result: 382691.393 KFLOPS
+05/05/12-00:09:52: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:09:52: Running linpack benchmark
+05/05/12-00:10:21: Benchmark result: 377043.804 KFLOPS
+05/05/12-00:10:21: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:10:22: Running linpack benchmark
+05/05/12-00:10:49: Benchmark result: 411451.943 KFLOPS
+05/05/12-00:10:49: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:10:49: Running linpack benchmark
+05/05/12-00:11:20: Benchmark result: 357212.605 KFLOPS
+05/05/12-00:11:20: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:11:21: Running linpack benchmark
+05/05/12-00:11:48: Benchmark result: 394509.804 KFLOPS
+05/05/12-00:11:48: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:11:49: Running linpack benchmark
+05/05/12-00:12:20: Benchmark result: 335963.264 KFLOPS
+05/05/12-00:12:20: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:12:21: Running linpack benchmark
+05/05/12-00:12:51: Benchmark result: 367488.584 KFLOPS
+05/05/12-00:12:51: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:12:51: Running linpack benchmark
+05/05/12-00:13:19: Benchmark result: 387948.903 KFLOPS
+05/05/12-00:13:19: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:13:20: Running linpack benchmark
+05/05/12-00:13:47: Benchmark result: 404016.064 KFLOPS
+05/05/12-00:13:47: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:13:48: Running linpack benchmark
+05/05/12-00:14:14: Benchmark result: 396258.001 KFLOPS
+05/05/12-00:14:14: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:14:15: Running linpack benchmark
+05/05/12-00:14:46: Benchmark result: 347720.890 KFLOPS
+05/05/12-00:14:46: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:14:46: Running linpack benchmark
+05/05/12-00:15:17: Benchmark result: 345927.359 KFLOPS
+05/05/12-00:15:17: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:15:18: Running linpack benchmark
+05/05/12-00:15:44: Benchmark result: 417210.990 KFLOPS
+05/05/12-00:15:44: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:15:45: Running linpack benchmark
+05/05/12-00:16:14: Benchmark result: 360573.477 KFLOPS
+05/05/12-00:16:14: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:16:15: Running linpack benchmark
+05/05/12-00:16:45: Benchmark result: 359606.792 KFLOPS
+05/05/12-00:16:45: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:16:45: Running linpack benchmark
+05/05/12-00:17:12: Benchmark result: 398021.761 KFLOPS
+05/05/12-00:17:12: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:17:13: Running linpack benchmark
+05/05/12-00:17:40: Benchmark result: 393641.477 KFLOPS
+05/05/12-00:17:40: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:17:41: Running linpack benchmark
+05/05/12-00:18:11: Benchmark result: 349533.116 KFLOPS
+05/05/12-00:18:11: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:18:12: Running linpack benchmark
+05/05/12-00:18:40: Benchmark result: 375460.695 KFLOPS
+05/05/12-00:18:40: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:18:41: Running linpack benchmark
+05/05/12-00:19:09: Benchmark result: 374412.654 KFLOPS
+05/05/12-00:19:09: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:19:10: Running linpack benchmark
+05/05/12-00:19:39: Benchmark result: 387948.903 KFLOPS
+05/05/12-00:19:39: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:19:39: Running linpack benchmark
+05/05/12-00:20:09: Benchmark result: 354850.088 KFLOPS
+05/05/12-00:20:09: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:20:10: Running linpack benchmark
+05/05/12-00:20:39: Benchmark result: 372075.821 KFLOPS
+05/05/12-00:20:39: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:20:40: Running linpack benchmark
+05/05/12-00:21:09: Benchmark result: 369513.315 KFLOPS
+05/05/12-00:21:09: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:21:09: Running linpack benchmark
+05/05/12-00:21:39: Benchmark result: 362767.636 KFLOPS
+05/05/12-00:21:39: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:21:40: Running linpack benchmark
+05/05/12-00:22:08: Benchmark result: 371046.565 KFLOPS
+05/05/12-00:22:08: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:22:09: Running linpack benchmark
+05/05/12-00:22:37: Benchmark result: 389922.481 KFLOPS
+05/05/12-00:22:37: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:22:38: Running linpack benchmark
+05/05/12-00:23:06: Benchmark result: 376779.026 KFLOPS
+05/05/12-00:23:06: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:23:06: Running linpack benchmark
+05/05/12-00:23:35: Benchmark result: 375198.135 KFLOPS
+05/05/12-00:23:35: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:23:36: Running linpack benchmark
+05/05/12-00:24:05: Benchmark result: 371303.345 KFLOPS
+05/05/12-00:24:05: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:24:06: Running linpack benchmark
+05/05/12-00:24:36: Benchmark result: 362767.636 KFLOPS
+05/05/12-00:24:36: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:24:36: Running linpack benchmark
+05/05/12-00:25:05: Benchmark result: 370278.353 KFLOPS
+05/05/12-00:25:05: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:25:06: Running linpack benchmark
+05/05/12-00:25:34: Benchmark result: 377840.376 KFLOPS
+05/05/12-00:25:34: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:25:35: Running linpack benchmark
+05/05/12-00:26:03: Benchmark result: 379981.114 KFLOPS
+05/05/12-00:26:03: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:26:04: Running linpack benchmark
+05/05/12-00:26:32: Benchmark result: 380520.095 KFLOPS
+05/05/12-00:26:32: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:26:33: Running linpack benchmark
+05/05/12-00:27:00: Benchmark result: 388510.741 KFLOPS
+05/05/12-00:27:00: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:27:01: Running linpack benchmark
+05/05/12-00:27:31: Benchmark result: 377043.804 KFLOPS
+05/05/12-00:27:31: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:27:31: Running linpack benchmark
+05/05/12-00:27:59: Benchmark result: 392776.964 KFLOPS
+05/05/12-00:27:59: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:28:00: Running linpack benchmark
+05/05/12-00:28:28: Benchmark result: 397137.923 KFLOPS
+05/05/12-00:28:28: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:28:28: Running linpack benchmark
+05/05/12-00:28:56: Benchmark result: 398613.175 KFLOPS
+05/05/12-00:28:56: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:28:57: Running linpack benchmark
+05/05/12-00:29:26: Benchmark result: 374151.557 KFLOPS
+05/05/12-00:29:26: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:29:26: Running linpack benchmark
+05/05/12-00:29:55: Benchmark result: 376250.584 KFLOPS
+05/05/12-00:29:55: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:29:56: Running linpack benchmark
+05/05/12-00:30:26: Benchmark result: 365735.060 KFLOPS
+05/05/12-00:30:26: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:30:27: Running linpack benchmark
+05/05/12-00:30:56: Benchmark result: 383786.361 KFLOPS
+05/05/12-00:30:56: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:30:56: Running linpack benchmark
+05/05/12-00:31:27: Benchmark result: 365237.123 KFLOPS
+05/05/12-00:31:27: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:31:27: Running linpack benchmark
+05/05/12-00:31:56: Benchmark result: 384336.199 KFLOPS
+05/05/12-00:31:56: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:31:57: Running linpack benchmark
+05/05/12-00:32:26: Benchmark result: 379712.196 KFLOPS
+05/05/12-00:32:26: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:32:26: Running linpack benchmark
+05/05/12-00:32:54: Benchmark result: 383786.361 KFLOPS
+05/05/12-00:32:54: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:32:55: Running linpack benchmark
+05/05/12-00:33:23: Benchmark result: 390490.053 KFLOPS
+05/05/12-00:33:23: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:33:24: Running linpack benchmark
+05/05/12-00:33:51: Benchmark result: 396844.181 KFLOPS
+05/05/12-00:33:51: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:33:52: Running linpack benchmark
+05/05/12-00:34:21: Benchmark result: 376779.026 KFLOPS
+05/05/12-00:34:21: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:34:22: Running linpack benchmark
+05/05/12-00:34:49: Benchmark result: 397726.711 KFLOPS
+05/05/12-00:34:49: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:34:50: Running linpack benchmark
+05/05/12-00:35:18: Benchmark result: 374935.942 KFLOPS
+05/05/12-00:35:19: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:35:19: Running linpack benchmark
+05/05/12-00:35:48: Benchmark result: 375460.695 KFLOPS
+05/05/12-00:35:48: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:35:49: Running linpack benchmark
+05/05/12-00:36:17: Benchmark result: 371046.565 KFLOPS
+05/05/12-00:36:17: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:36:17: Running linpack benchmark
+05/05/12-00:36:46: Benchmark result: 378640.320 KFLOPS
+05/05/12-00:36:46: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:36:47: Running linpack benchmark
+05/05/12-00:37:16: Benchmark result: 361301.908 KFLOPS
+05/05/12-00:37:16: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:37:17: Running linpack benchmark
+05/05/12-00:37:46: Benchmark result: 379443.659 KFLOPS
+05/05/12-00:37:46: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:37:46: Running linpack benchmark
+05/05/12-00:38:14: Benchmark result: 387109.187 KFLOPS
+05/05/12-00:38:14: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:38:15: Running linpack benchmark
+05/05/12-00:38:42: Benchmark result: 411451.943 KFLOPS
+05/05/12-00:38:42: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:38:42: Running linpack benchmark
+05/05/12-00:39:10: Benchmark result: 384887.614 KFLOPS
+05/05/12-00:39:10: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:39:10: Running linpack benchmark
+05/05/12-00:39:38: Benchmark result: 398317.248 KFLOPS
+05/05/12-00:39:38: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:39:38: Running linpack benchmark
+05/05/12-00:40:06: Benchmark result: 382964.549 KFLOPS
+05/05/12-00:40:06: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:40:06: Running linpack benchmark
+05/05/12-00:40:37: Benchmark result: 348851.322 KFLOPS
+05/05/12-00:40:37: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:40:38: Running linpack benchmark
+05/05/12-00:41:05: Benchmark result: 405849.723 KFLOPS
+05/05/12-00:41:05: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:41:05: Running linpack benchmark
+05/05/12-00:41:33: Benchmark result: 396550.875 KFLOPS
+05/05/12-00:41:33: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:41:33: Running linpack benchmark
+05/05/12-00:42:02: Benchmark result: 383786.361 KFLOPS
+05/05/12-00:42:02: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:42:02: Running linpack benchmark
+05/05/12-00:42:30: Benchmark result: 389639.313 KFLOPS
+05/05/12-00:42:30: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:42:31: Running linpack benchmark
+05/05/12-00:42:58: Benchmark result: 396550.875 KFLOPS
+05/05/12-00:42:58: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:42:59: Running linpack benchmark
+05/05/12-00:43:29: Benchmark result: 370278.353 KFLOPS
+05/05/12-00:43:29: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:43:29: Running linpack benchmark
+05/05/12-00:43:56: Benchmark result: 411451.943 KFLOPS
+05/05/12-00:43:56: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:43:56: Running linpack benchmark
+05/05/12-00:44:25: Benchmark result: 375460.695 KFLOPS
+05/05/12-00:44:25: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:44:25: Running linpack benchmark
+05/05/12-00:44:52: Benchmark result: 398613.175 KFLOPS
+05/05/12-00:44:52: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:44:53: Running linpack benchmark
+05/05/12-00:45:20: Benchmark result: 396550.875 KFLOPS
+05/05/12-00:45:20: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:45:21: Running linpack benchmark
+05/05/12-00:45:47: Benchmark result: 412083.973 KFLOPS
+05/05/12-00:45:47: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:45:48: Running linpack benchmark
+05/05/12-00:46:16: Benchmark result: 383512.032 KFLOPS
+05/05/12-00:46:16: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:46:17: Running linpack benchmark
+05/05/12-00:46:44: Benchmark result: 406772.808 KFLOPS
+05/05/12-00:46:44: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:46:44: Running linpack benchmark
+05/05/12-00:47:12: Benchmark result: 376250.584 KFLOPS
+05/05/12-00:47:12: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:47:13: Running linpack benchmark
+05/05/12-00:47:40: Benchmark result: 398613.175 KFLOPS
+05/05/12-00:47:40: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:47:40: Running linpack benchmark
+05/05/12-00:48:06: Benchmark result: 406156.952 KFLOPS
+05/05/12-00:48:06: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:48:07: Running linpack benchmark
+05/05/12-00:48:35: Benchmark result: 405236.657 KFLOPS
+05/05/12-00:48:35: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:48:35: Running linpack benchmark
+05/05/12-00:49:02: Benchmark result: 409880.316 KFLOPS
+05/05/12-00:49:02: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:49:02: Running linpack benchmark
+05/05/12-00:49:30: Benchmark result: 401897.628 KFLOPS
+05/05/12-00:49:30: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:49:31: Running linpack benchmark
+05/05/12-00:49:57: Benchmark result: 421140.764 KFLOPS
+05/05/12-00:49:57: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:49:58: Running linpack benchmark
+05/05/12-00:50:23: Benchmark result: 443782.741 KFLOPS
+05/05/12-00:50:23: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:50:24: Running linpack benchmark
+05/05/12-00:50:50: Benchmark result: 412400.717 KFLOPS
+05/05/12-00:50:50: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:50:50: Running linpack benchmark
+05/05/12-00:51:18: Benchmark result: 385717.709 KFLOPS
+05/05/12-00:51:18: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:51:19: Running linpack benchmark
+05/05/12-00:51:45: Benchmark result: 408320.649 KFLOPS
+05/05/12-00:51:45: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:51:46: Running linpack benchmark
+05/05/12-00:52:12: Benchmark result: 399503.599 KFLOPS
+05/05/12-00:52:12: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:52:13: Running linpack benchmark
+05/05/12-00:52:39: Benchmark result: 418186.542 KFLOPS
+05/05/12-00:52:39: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:52:40: Running linpack benchmark
+05/05/12-00:53:06: Benchmark result: 412717.949 KFLOPS
+05/05/12-00:53:06: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:53:07: Running linpack benchmark
+05/05/12-00:53:33: Benchmark result: 418839.448 KFLOPS
+05/05/12-00:53:33: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:53:33: Running linpack benchmark
+05/05/12-00:53:59: Benchmark result: 423467.509 KFLOPS
+05/05/12-00:53:59: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:54:00: Running linpack benchmark
+05/05/12-00:54:26: Benchmark result: 423467.509 KFLOPS
+05/05/12-00:54:26: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:54:27: Running linpack benchmark
+05/05/12-00:54:52: Benchmark result: 421471.589 KFLOPS
+05/05/12-00:54:52: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:54:53: Running linpack benchmark
+05/05/12-00:55:18: Benchmark result: 419166.667 KFLOPS
+05/05/12-00:55:18: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:55:19: Running linpack benchmark
+05/05/12-00:55:44: Benchmark result: 437986.395 KFLOPS
+05/05/12-00:55:44: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:55:45: Running linpack benchmark
+05/05/12-00:56:10: Benchmark result: 427176.221 KFLOPS
+05/05/12-00:56:10: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:56:11: Running linpack benchmark
+05/05/12-00:56:36: Benchmark result: 432339.511 KFLOPS
+05/05/12-00:56:36: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:56:37: Running linpack benchmark
+05/05/12-00:57:02: Benchmark result: 430950.469 KFLOPS
+05/05/12-00:57:02: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:57:02: Running linpack benchmark
+05/05/12-00:57:28: Benchmark result: 427857.523 KFLOPS
+05/05/12-00:57:28: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:57:29: Running linpack benchmark
+05/05/12-00:57:54: Benchmark result: 430950.469 KFLOPS
+05/05/12-00:57:54: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:57:55: Running linpack benchmark
+05/05/12-00:58:21: Benchmark result: 408943.089 KFLOPS
+05/05/12-00:58:21: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:58:22: Running linpack benchmark
+05/05/12-00:58:46: Benchmark result: 446738.829 KFLOPS
+05/05/12-00:58:46: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:58:47: Running linpack benchmark
+05/05/12-00:59:12: Benchmark result: 413353.878 KFLOPS
+05/05/12-00:59:12: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:59:13: Running linpack benchmark
+05/05/12-00:59:38: Benchmark result: 447857.540 KFLOPS
+05/05/12-00:59:38: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-00:59:38: Running linpack benchmark
+05/05/12-01:00:04: Benchmark result: 418186.542 KFLOPS
+05/05/12-01:00:04: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:00:04: Running linpack benchmark
+05/05/12-01:00:30: Benchmark result: 428198.989 KFLOPS
+05/05/12-01:00:30: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:00:30: Running linpack benchmark
+05/05/12-01:00:55: Benchmark result: 441954.970 KFLOPS
+05/05/12-01:00:55: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:00:55: Running linpack benchmark
+05/05/12-01:01:20: Benchmark result: 435144.634 KFLOPS
+05/05/12-01:01:20: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:01:21: Running linpack benchmark
+05/05/12-01:01:46: Benchmark result: 441954.970 KFLOPS
+05/05/12-01:01:46: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:01:46: Running linpack benchmark
+05/05/12-01:02:11: Benchmark result: 444150.110 KFLOPS
+05/05/12-01:02:11: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:02:11: Running linpack benchmark
+05/05/12-01:02:36: Benchmark result: 431296.892 KFLOPS
+05/05/12-01:02:36: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:02:37: Running linpack benchmark
+05/05/12-01:03:01: Benchmark result: 447484.014 KFLOPS
+05/05/12-01:03:01: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:03:02: Running linpack benchmark
+05/05/12-01:03:27: Benchmark result: 431643.872 KFLOPS
+05/05/12-01:03:27: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:03:28: Running linpack benchmark
+05/05/12-01:03:52: Benchmark result: 443782.741 KFLOPS
+05/05/12-01:03:52: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:03:53: Running linpack benchmark
+05/05/12-01:04:19: Benchmark result: 413353.878 KFLOPS
+05/05/12-01:04:19: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:04:19: Running linpack benchmark
+05/05/12-01:04:44: Benchmark result: 448231.690 KFLOPS
+05/05/12-01:04:44: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:04:45: Running linpack benchmark
+05/05/12-01:05:10: Benchmark result: 412400.717 KFLOPS
+05/05/12-01:05:10: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:05:10: Running linpack benchmark
+05/05/12-01:05:35: Benchmark result: 443782.741 KFLOPS
+05/05/12-01:05:35: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:05:36: Running linpack benchmark
+05/05/12-01:06:00: Benchmark result: 434088.457 KFLOPS
+05/05/12-01:06:00: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:06:01: Running linpack benchmark
+05/05/12-01:06:26: Benchmark result: 449734.563 KFLOPS
+05/05/12-01:06:26: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:06:26: Running linpack benchmark
+05/05/12-01:06:50: Benchmark result: 452388.983 KFLOPS
+05/05/12-01:06:50: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:06:51: Running linpack benchmark
+05/05/12-01:07:16: Benchmark result: 425820.106 KFLOPS
+05/05/12-01:07:16: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:07:17: Running linpack benchmark
+05/05/12-01:07:41: Benchmark result: 440142.193 KFLOPS
+05/05/12-01:07:41: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:07:42: Running linpack benchmark
+05/05/12-01:08:07: Benchmark result: 424137.022 KFLOPS
+05/05/12-01:08:07: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:08:07: Running linpack benchmark
+05/05/12-01:08:32: Benchmark result: 444886.678 KFLOPS
+05/05/12-01:08:32: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:08:32: Running linpack benchmark
+05/05/12-01:08:57: Benchmark result: 443415.978 KFLOPS
+05/05/12-01:08:57: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:08:57: Running linpack benchmark
+05/05/12-01:09:22: Benchmark result: 435497.835 KFLOPS
+05/05/12-01:09:22: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:09:23: Running linpack benchmark
+05/05/12-01:09:47: Benchmark result: 457402.671 KFLOPS
+05/05/12-01:09:47: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:09:48: Running linpack benchmark
+05/05/12-01:10:13: Benchmark result: 408320.649 KFLOPS
+05/05/12-01:10:13: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:10:13: Running linpack benchmark
+05/05/12-01:10:38: Benchmark result: 442684.268 KFLOPS
+05/05/12-01:10:38: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:10:38: Running linpack benchmark
+05/05/12-01:11:02: Benchmark result: 447857.540 KFLOPS
+05/05/12-01:11:02: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:11:03: Running linpack benchmark
+05/05/12-01:11:28: Benchmark result: 439061.648 KFLOPS
+05/05/12-01:11:28: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:11:28: Running linpack benchmark
+05/05/12-01:11:53: Benchmark result: 451247.547 KFLOPS
+05/05/12-01:11:53: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:11:53: Running linpack benchmark
+05/05/12-01:12:18: Benchmark result: 437629.146 KFLOPS
+05/05/12-01:12:18: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:12:19: Running linpack benchmark
+05/05/12-01:12:43: Benchmark result: 441228.070 KFLOPS
+05/05/12-01:12:43: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:12:44: Running linpack benchmark
+05/05/12-01:13:09: Benchmark result: 423133.544 KFLOPS
+05/05/12-01:13:09: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:13:09: Running linpack benchmark
+05/05/12-01:13:34: Benchmark result: 446367.166 KFLOPS
+05/05/12-01:13:34: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:13:35: Running linpack benchmark
+05/05/12-01:13:59: Benchmark result: 451247.547 KFLOPS
+05/05/12-01:13:59: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:13:59: Running linpack benchmark
+05/05/12-01:14:24: Benchmark result: 450489.784 KFLOPS
+05/05/12-01:14:24: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:14:25: Running linpack benchmark
+05/05/12-01:14:49: Benchmark result: 446738.829 KFLOPS
+05/05/12-01:14:49: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:14:49: Running linpack benchmark
+05/05/12-01:15:14: Benchmark result: 429914.530 KFLOPS
+05/05/12-01:15:14: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:15:15: Running linpack benchmark
+05/05/12-01:15:40: Benchmark result: 436560.890 KFLOPS
+05/05/12-01:15:40: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:15:41: Running linpack benchmark
+05/05/12-01:16:05: Benchmark result: 448606.466 KFLOPS
+05/05/12-01:16:05: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:16:06: Running linpack benchmark
+05/05/12-01:16:30: Benchmark result: 445996.121 KFLOPS
+05/05/12-01:16:30: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:16:31: Running linpack benchmark
+05/05/12-01:16:55: Benchmark result: 450111.857 KFLOPS
+05/05/12-01:16:55: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:16:56: Running linpack benchmark
+05/05/12-01:17:20: Benchmark result: 450111.857 KFLOPS
+05/05/12-01:17:20: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:17:21: Running linpack benchmark
+05/05/12-01:17:45: Benchmark result: 464129.181 KFLOPS
+05/05/12-01:17:45: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:17:46: Running linpack benchmark
+05/05/12-01:18:10: Benchmark result: 433037.396 KFLOPS
+05/05/12-01:18:10: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:18:11: Running linpack benchmark
+05/05/12-01:18:36: Benchmark result: 443049.821 KFLOPS
+05/05/12-01:18:36: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:18:36: Running linpack benchmark
+05/05/12-01:19:00: Benchmark result: 453536.207 KFLOPS
+05/05/12-01:19:00: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:19:00: Running linpack benchmark
+05/05/12-01:19:25: Benchmark result: 445996.121 KFLOPS
+05/05/12-01:19:26: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:19:26: Running linpack benchmark
+05/05/12-01:19:50: Benchmark result: 448981.869 KFLOPS
+05/05/12-01:19:50: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:19:51: Running linpack benchmark
+05/05/12-01:20:16: Benchmark result: 431643.872 KFLOPS
+05/05/12-01:20:16: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:20:16: Running linpack benchmark
+05/05/12-01:20:41: Benchmark result: 442684.268 KFLOPS
+05/05/12-01:20:41: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:20:42: Running linpack benchmark
+05/05/12-01:21:07: Benchmark result: 421471.589 KFLOPS
+05/05/12-01:21:07: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:21:07: Running linpack benchmark
+05/05/12-01:21:32: Benchmark result: 447484.014 KFLOPS
+05/05/12-01:21:32: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:21:32: Running linpack benchmark
+05/05/12-01:21:57: Benchmark result: 448231.690 KFLOPS
+05/05/12-01:21:57: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:21:57: Running linpack benchmark
+05/05/12-01:22:22: Benchmark result: 438702.644 KFLOPS
+05/05/12-01:22:22: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:22:22: Running linpack benchmark
+05/05/12-01:22:46: Benchmark result: 457402.671 KFLOPS
+05/05/12-01:22:46: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:22:47: Running linpack benchmark
+05/05/12-01:23:11: Benchmark result: 435851.611 KFLOPS
+05/05/12-01:23:11: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:23:12: Running linpack benchmark
+05/05/12-01:23:36: Benchmark result: 457013.061 KFLOPS
+05/05/12-01:23:36: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:23:37: Running linpack benchmark
+05/05/12-01:24:01: Benchmark result: 455848.202 KFLOPS
+05/05/12-01:24:01: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:24:02: Running linpack benchmark
+05/05/12-01:24:26: Benchmark result: 444518.089 KFLOPS
+05/05/12-01:24:26: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:24:27: Running linpack benchmark
+05/05/12-01:24:51: Benchmark result: 453919.910 KFLOPS
+05/05/12-01:24:51: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:24:51: Running linpack benchmark
+05/05/12-01:25:16: Benchmark result: 434439.946 KFLOPS
+05/05/12-01:25:16: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:25:17: Running linpack benchmark
+05/05/12-01:25:41: Benchmark result: 446367.166 KFLOPS
+05/05/12-01:25:41: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:25:42: Running linpack benchmark
+05/05/12-01:26:06: Benchmark result: 444150.110 KFLOPS
+05/05/12-01:26:06: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:26:06: Running linpack benchmark
+05/05/12-01:26:31: Benchmark result: 448606.466 KFLOPS
+05/05/12-01:26:31: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:26:31: Running linpack benchmark
+05/05/12-01:26:55: Benchmark result: 454304.262 KFLOPS
+05/05/12-01:26:56: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:26:56: Running linpack benchmark
+05/05/12-01:27:21: Benchmark result: 432339.511 KFLOPS
+05/05/12-01:27:21: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:27:22: Running linpack benchmark
+05/05/12-01:27:46: Benchmark result: 448981.869 KFLOPS
+05/05/12-01:27:46: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:27:47: Running linpack benchmark
+05/05/12-01:28:11: Benchmark result: 422467.192 KFLOPS
+05/05/12-01:28:11: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:28:12: Running linpack benchmark
+05/05/12-01:28:36: Benchmark result: 445996.121 KFLOPS
+05/05/12-01:28:36: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:28:37: Running linpack benchmark
+05/05/12-01:29:01: Benchmark result: 463728.032 KFLOPS
+05/05/12-01:29:01: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:29:01: Running linpack benchmark
+05/05/12-01:29:26: Benchmark result: 445255.878 KFLOPS
+05/05/12-01:29:26: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:29:26: Running linpack benchmark
+05/05/12-01:29:50: Benchmark result: 459754.356 KFLOPS
+05/05/12-01:29:50: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:29:51: Running linpack benchmark
+05/05/12-01:30:15: Benchmark result: 429570.323 KFLOPS
+05/05/12-01:30:15: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:30:16: Running linpack benchmark
+05/05/12-01:30:40: Benchmark result: 440865.516 KFLOPS
+05/05/12-01:30:40: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:30:41: Running linpack benchmark
+05/05/12-01:31:05: Benchmark result: 437986.395 KFLOPS
+05/05/12-01:31:05: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:31:06: Running linpack benchmark
+05/05/12-01:31:31: Benchmark result: 450868.347 KFLOPS
+05/05/12-01:31:31: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:31:31: Running linpack benchmark
+05/05/12-01:31:55: Benchmark result: 456235.828 KFLOPS
+05/05/12-01:31:55: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:31:56: Running linpack benchmark
+05/05/12-01:32:20: Benchmark result: 441228.070 KFLOPS
+05/05/12-01:32:20: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:32:21: Running linpack benchmark
+05/05/12-01:32:47: Benchmark result: 414311.454 KFLOPS
+05/05/12-01:32:48: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:32:48: Running linpack benchmark
+05/05/12-01:33:15: Benchmark result: 398909.542 KFLOPS
+05/05/12-01:33:15: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:33:15: Running linpack benchmark
+05/05/12-01:33:40: Benchmark result: 430950.469 KFLOPS
+05/05/12-01:33:40: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:33:41: Running linpack benchmark
+05/05/12-01:34:06: Benchmark result: 420151.397 KFLOPS
+05/05/12-01:34:06: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:34:07: Running linpack benchmark
+05/05/12-01:34:33: Benchmark result: 417535.668 KFLOPS
+05/05/12-01:34:33: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:34:34: Running linpack benchmark
+05/05/12-01:34:59: Benchmark result: 426497.085 KFLOPS
+05/05/12-01:35:00: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:35:00: Running linpack benchmark
+05/05/12-01:35:26: Benchmark result: 418512.741 KFLOPS
+05/05/12-01:35:26: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:35:27: Running linpack benchmark
+05/05/12-01:35:53: Benchmark result: 400398.010 KFLOPS
+05/05/12-01:35:53: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:35:54: Running linpack benchmark
+05/05/12-01:36:22: Benchmark result: 385440.613 KFLOPS
+05/05/12-01:36:22: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:36:22: Running linpack benchmark
+05/05/12-01:36:47: Benchmark result: 453153.153 KFLOPS
+05/05/12-01:36:47: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:36:48: Running linpack benchmark
+05/05/12-01:37:13: Benchmark result: 419494.397 KFLOPS
+05/05/12-01:37:13: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:37:14: Running linpack benchmark
+05/05/12-01:37:40: Benchmark result: 417535.668 KFLOPS
+05/05/12-01:37:40: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:37:41: Running linpack benchmark
+05/05/12-01:38:07: Benchmark result: 408010.139 KFLOPS
+05/05/12-01:38:07: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:38:07: Running linpack benchmark
+05/05/12-01:38:33: Benchmark result: 412083.973 KFLOPS
+05/05/12-01:38:33: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:38:34: Running linpack benchmark
+05/05/12-01:38:59: Benchmark result: 433037.396 KFLOPS
+05/05/12-01:38:59: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:39:00: Running linpack benchmark
+05/05/12-01:39:27: Benchmark result: 404625.440 KFLOPS
+05/05/12-01:39:27: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:39:28: Running linpack benchmark
+05/05/12-01:39:54: Benchmark result: 416239.979 KFLOPS
+05/05/12-01:39:54: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:39:54: Running linpack benchmark
+05/05/12-01:40:21: Benchmark result: 404625.440 KFLOPS
+05/05/12-01:40:22: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:40:22: Running linpack benchmark
+05/05/12-01:40:47: Benchmark result: 439061.648 KFLOPS
+05/05/12-01:40:47: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:40:48: Running linpack benchmark
+05/05/12-01:41:15: Benchmark result: 399206.349 KFLOPS
+05/05/12-01:41:15: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:41:15: Running linpack benchmark
+05/05/12-01:41:41: Benchmark result: 413672.578 KFLOPS
+05/05/12-01:41:41: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:41:42: Running linpack benchmark
+05/05/12-01:42:08: Benchmark result: 406156.952 KFLOPS
+05/05/12-01:42:08: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:42:08: Running linpack benchmark
+05/05/12-01:42:34: Benchmark result: 423802.001 KFLOPS
+05/05/12-01:42:34: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:42:35: Running linpack benchmark
+05/05/12-01:43:01: Benchmark result: 423802.001 KFLOPS
+05/05/12-01:43:01: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:43:01: Running linpack benchmark
+05/05/12-01:43:29: Benchmark result: 398021.761 KFLOPS
+05/05/12-01:43:29: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:43:29: Running linpack benchmark
+05/05/12-01:43:55: Benchmark result: 416563.147 KFLOPS
+05/05/12-01:43:55: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:43:56: Running linpack benchmark
+05/05/12-01:44:22: Benchmark result: 417210.990 KFLOPS
+05/05/12-01:44:22: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:44:22: Running linpack benchmark
+05/05/12-01:44:49: Benchmark result: 416239.979 KFLOPS
+05/05/12-01:44:49: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:44:49: Running linpack benchmark
+05/05/12-01:45:16: Benchmark result: 396258.001 KFLOPS
+05/05/12-01:45:16: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:45:17: Running linpack benchmark
+05/05/12-01:45:42: Benchmark result: 430259.289 KFLOPS
+05/05/12-01:45:42: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:45:43: Running linpack benchmark
+05/05/12-01:46:10: Benchmark result: 396550.875 KFLOPS
+05/05/12-01:46:10: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:46:11: Running linpack benchmark
+05/05/12-01:46:36: Benchmark result: 425820.106 KFLOPS
+05/05/12-01:46:36: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:46:37: Running linpack benchmark
+05/05/12-01:47:02: Benchmark result: 423802.001 KFLOPS
+05/05/12-01:47:02: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:47:03: Running linpack benchmark
+05/05/12-01:47:29: Benchmark result: 413672.578 KFLOPS
+05/05/12-01:47:29: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:47:30: Running linpack benchmark
+05/05/12-01:47:56: Benchmark result: 418512.741 KFLOPS
+05/05/12-01:47:56: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:47:56: Running linpack benchmark
+05/05/12-01:48:23: Benchmark result: 410193.680 KFLOPS
+05/05/12-01:48:23: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:48:24: Running linpack benchmark
+05/05/12-01:48:49: Benchmark result: 436560.890 KFLOPS
+05/05/12-01:48:49: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:48:49: Running linpack benchmark
+05/05/12-01:49:15: Benchmark result: 409567.430 KFLOPS
+05/05/12-01:49:15: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:49:16: Running linpack benchmark
+05/05/12-01:49:41: Benchmark result: 432688.172 KFLOPS
+05/05/12-01:49:41: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:49:41: Running linpack benchmark
+05/05/12-01:50:08: Benchmark result: 404625.440 KFLOPS
+05/05/12-01:50:08: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:50:08: Running linpack benchmark
+05/05/12-01:50:35: Benchmark result: 404320.522 KFLOPS
+05/05/12-01:50:35: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:50:36: Running linpack benchmark
+05/05/12-01:51:01: Benchmark result: 430259.289 KFLOPS
+05/05/12-01:51:01: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:51:01: Running linpack benchmark
+05/05/12-01:51:29: Benchmark result: 388229.619 KFLOPS
+05/05/12-01:51:29: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:51:30: Running linpack benchmark
+05/05/12-01:51:56: Benchmark result: 425145.272 KFLOPS
+05/05/12-01:51:56: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:51:56: Running linpack benchmark
+05/05/12-01:52:23: Benchmark result: 416563.147 KFLOPS
+05/05/12-01:52:23: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:52:23: Running linpack benchmark
+05/05/12-01:52:49: Benchmark result: 427857.523 KFLOPS
+05/05/12-01:52:49: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:52:49: Running linpack benchmark
+05/05/12-01:53:16: Benchmark result: 404320.522 KFLOPS
+05/05/12-01:53:16: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:53:16: Running linpack benchmark
+05/05/12-01:53:42: Benchmark result: 424137.022 KFLOPS
+05/05/12-01:53:42: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:53:42: Running linpack benchmark
+05/05/12-01:54:09: Benchmark result: 395673.550 KFLOPS
+05/05/12-01:54:09: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:54:10: Running linpack benchmark
+05/05/12-01:54:35: Benchmark result: 428541.001 KFLOPS
+05/05/12-01:54:35: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:54:36: Running linpack benchmark
+05/05/12-01:55:01: Benchmark result: 431296.892 KFLOPS
+05/05/12-01:55:01: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:55:01: Running linpack benchmark
+05/05/12-01:55:28: Benchmark result: 408320.649 KFLOPS
+05/05/12-01:55:28: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:55:29: Running linpack benchmark
+05/05/12-01:55:54: Benchmark result: 437629.146 KFLOPS
+05/05/12-01:55:55: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:55:55: Running linpack benchmark
+05/05/12-01:56:20: Benchmark result: 431643.872 KFLOPS
+05/05/12-01:56:20: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:56:21: Running linpack benchmark
+05/05/12-01:56:47: Benchmark result: 411767.716 KFLOPS
+05/05/12-01:56:47: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:56:48: Running linpack benchmark
+05/05/12-01:57:14: Benchmark result: 405849.723 KFLOPS
+05/05/12-01:57:14: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:57:15: Running linpack benchmark
+05/05/12-01:57:40: Benchmark result: 432339.511 KFLOPS
+05/05/12-01:57:40: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:57:40: Running linpack benchmark
+05/05/12-01:58:06: Benchmark result: 412717.949 KFLOPS
+05/05/12-01:58:06: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:58:07: Running linpack benchmark
+05/05/12-01:58:32: Benchmark result: 438344.227 KFLOPS
+05/05/12-01:58:32: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:58:33: Running linpack benchmark
+05/05/12-01:58:58: Benchmark result: 428541.001 KFLOPS
+05/05/12-01:58:58: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:58:59: Running linpack benchmark
+05/05/12-01:59:25: Benchmark result: 420151.397 KFLOPS
+05/05/12-01:59:25: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:59:26: Running linpack benchmark
+05/05/12-01:59:52: Benchmark result: 431296.892 KFLOPS
+05/05/12-01:59:52: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-01:59:53: Running linpack benchmark
+05/05/12-02:00:19: Benchmark result: 412083.973 KFLOPS
+05/05/12-02:00:19: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:00:19: Running linpack benchmark
+05/05/12-02:00:45: Benchmark result: 414631.633 KFLOPS
+05/05/12-02:00:45: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:00:46: Running linpack benchmark
+05/05/12-02:01:11: Benchmark result: 413035.668 KFLOPS
+05/05/12-02:01:11: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:01:12: Running linpack benchmark
+05/05/12-02:01:38: Benchmark result: 433037.396 KFLOPS
+05/05/12-02:01:38: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:01:38: Running linpack benchmark
+05/05/12-02:02:04: Benchmark result: 421802.935 KFLOPS
+05/05/12-02:02:04: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:02:04: Running linpack benchmark
+05/05/12-02:02:31: Benchmark result: 413991.770 KFLOPS
+05/05/12-02:02:31: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:02:31: Running linpack benchmark
+05/05/12-02:02:57: Benchmark result: 420810.458 KFLOPS
+05/05/12-02:02:57: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:02:58: Running linpack benchmark
+05/05/12-02:03:24: Benchmark result: 413991.770 KFLOPS
+05/05/12-02:03:24: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:03:25: Running linpack benchmark
+05/05/12-02:03:50: Benchmark result: 433737.537 KFLOPS
+05/05/12-02:03:50: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:03:51: Running linpack benchmark
+05/05/12-02:04:17: Benchmark result: 401296.435 KFLOPS
+05/05/12-02:04:17: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:04:18: Running linpack benchmark
+05/05/12-02:04:44: Benchmark result: 423802.001 KFLOPS
+05/05/12-02:04:44: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:04:45: Running linpack benchmark
+05/05/12-02:05:10: Benchmark result: 411451.943 KFLOPS
+05/05/12-02:05:10: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:05:11: Running linpack benchmark
+05/05/12-02:05:37: Benchmark result: 409567.430 KFLOPS
+05/05/12-02:05:37: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:05:38: Running linpack benchmark
+05/05/12-02:06:03: Benchmark result: 418512.741 KFLOPS
+05/05/12-02:06:03: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:06:04: Running linpack benchmark
+05/05/12-02:06:30: Benchmark result: 424472.574 KFLOPS
+05/05/12-02:06:30: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:06:31: Running linpack benchmark
+05/05/12-02:06:57: Benchmark result: 418839.448 KFLOPS
+05/05/12-02:06:57: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:06:57: Running linpack benchmark
+05/05/12-02:07:23: Benchmark result: 422800.105 KFLOPS
+05/05/12-02:07:23: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:07:24: Running linpack benchmark
+05/05/12-02:07:50: Benchmark result: 416563.147 KFLOPS
+05/05/12-02:07:50: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:07:50: Running linpack benchmark
+05/05/12-02:08:16: Benchmark result: 414631.633 KFLOPS
+05/05/12-02:08:16: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:08:17: Running linpack benchmark
+05/05/12-02:08:42: Benchmark result: 418186.542 KFLOPS
+05/05/12-02:08:42: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:08:43: Running linpack benchmark
+05/05/12-02:09:09: Benchmark result: 400398.010 KFLOPS
+05/05/12-02:09:10: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:09:10: Running linpack benchmark
+05/05/12-02:09:35: Benchmark result: 429914.530 KFLOPS
+05/05/12-02:09:35: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:09:36: Running linpack benchmark
+05/05/12-02:10:02: Benchmark result: 419822.640 KFLOPS
+05/05/12-02:10:02: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:10:02: Running linpack benchmark
+05/05/12-02:10:29: Benchmark result: 419166.667 KFLOPS
+05/05/12-02:10:29: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:10:29: Running linpack benchmark
+05/05/12-02:10:55: Benchmark result: 442319.318 KFLOPS
+05/05/12-02:10:55: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:10:55: Running linpack benchmark
+05/05/12-02:11:21: Benchmark result: 423802.001 KFLOPS
+05/05/12-02:11:21: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:11:22: Running linpack benchmark
+05/05/12-02:11:48: Benchmark result: 409567.430 KFLOPS
+05/05/12-02:11:48: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:11:49: Running linpack benchmark
+05/05/12-02:12:16: Benchmark result: 400697.038 KFLOPS
+05/05/12-02:12:16: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:12:17: Running linpack benchmark
+05/05/12-02:12:42: Benchmark result: 433387.184 KFLOPS
+05/05/12-02:12:42: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:12:42: Running linpack benchmark
+05/05/12-02:13:09: Benchmark result: 408320.649 KFLOPS
+05/05/12-02:13:09: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:13:09: Running linpack benchmark
+05/05/12-02:13:35: Benchmark result: 425145.272 KFLOPS
+05/05/12-02:13:35: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:13:35: Running linpack benchmark
+05/05/12-02:14:00: Benchmark result: 424808.657 KFLOPS
+05/05/12-02:14:01: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:14:01: Running linpack benchmark
+05/05/12-02:14:28: Benchmark result: 404016.064 KFLOPS
+05/05/12-02:14:28: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:14:29: Running linpack benchmark
+05/05/12-02:14:55: Benchmark result: 419166.667 KFLOPS
+05/05/12-02:14:55: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:14:55: Running linpack benchmark
+05/05/12-02:15:22: Benchmark result: 411136.654 KFLOPS
+05/05/12-02:15:22: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:15:23: Running linpack benchmark
+05/05/12-02:15:48: Benchmark result: 425820.106 KFLOPS
+05/05/12-02:15:48: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:15:49: Running linpack benchmark
+05/05/12-02:16:15: Benchmark result: 397726.711 KFLOPS
+05/05/12-02:16:15: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:16:16: Running linpack benchmark
+05/05/12-02:16:42: Benchmark result: 428198.989 KFLOPS
+05/05/12-02:16:42: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:16:42: Running linpack benchmark
+05/05/12-02:17:08: Benchmark result: 402198.901 KFLOPS
+05/05/12-02:17:08: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:17:09: Running linpack benchmark
+05/05/12-02:17:35: Benchmark result: 419166.667 KFLOPS
+05/05/12-02:17:35: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:17:35: Running linpack benchmark
+05/05/12-02:18:00: Benchmark result: 444150.110 KFLOPS
+05/05/12-02:18:01: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:18:01: Running linpack benchmark
+05/05/12-02:18:27: Benchmark result: 430950.469 KFLOPS
+05/05/12-02:18:27: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:18:28: Running linpack benchmark
+05/05/12-02:18:53: Benchmark result: 426497.085 KFLOPS
+05/05/12-02:18:53: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:18:54: Running linpack benchmark
+05/05/12-02:19:20: Benchmark result: 418512.741 KFLOPS
+05/05/12-02:19:20: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:19:20: Running linpack benchmark
+05/05/12-02:19:46: Benchmark result: 431991.412 KFLOPS
+05/05/12-02:19:46: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:19:46: Running linpack benchmark
+05/05/12-02:20:13: Benchmark result: 405236.657 KFLOPS
+05/05/12-02:20:13: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:20:13: Running linpack benchmark
+05/05/12-02:20:39: Benchmark result: 431296.892 KFLOPS
+05/05/12-02:20:39: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:20:39: Running linpack benchmark
+05/05/12-02:21:05: Benchmark result: 429914.530 KFLOPS
+05/05/12-02:21:05: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:21:06: Running linpack benchmark
+05/05/12-02:21:32: Benchmark result: 409880.316 KFLOPS
+05/05/12-02:21:32: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:21:33: Running linpack benchmark
+05/05/12-02:21:58: Benchmark result: 438344.227 KFLOPS
+05/05/12-02:21:58: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:21:59: Running linpack benchmark
+05/05/12-02:22:25: Benchmark result: 419494.397 KFLOPS
+05/05/12-02:22:25: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:22:25: Running linpack benchmark
+05/05/12-02:22:51: Benchmark result: 421140.764 KFLOPS
+05/05/12-02:22:51: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:22:52: Running linpack benchmark
+05/05/12-02:23:18: Benchmark result: 420810.458 KFLOPS
+05/05/12-02:23:18: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:23:18: Running linpack benchmark
+05/05/12-02:23:43: Benchmark result: 433387.184 KFLOPS
+05/05/12-02:23:43: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:23:44: Running linpack benchmark
+05/05/12-02:24:10: Benchmark result: 401596.806 KFLOPS
+05/05/12-02:24:10: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:24:11: Running linpack benchmark
+05/05/12-02:24:36: Benchmark result: 419494.397 KFLOPS
+05/05/12-02:24:36: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:24:37: Running linpack benchmark
+05/05/12-02:25:02: Benchmark result: 428198.989 KFLOPS
+05/05/12-02:25:02: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:25:02: Running linpack benchmark
+05/05/12-02:25:28: Benchmark result: 422467.192 KFLOPS
+05/05/12-02:25:28: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:25:28: Running linpack benchmark
+05/05/12-02:25:54: Benchmark result: 422134.802 KFLOPS
+05/05/12-02:25:54: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:25:55: Running linpack benchmark
+05/05/12-02:26:20: Benchmark result: 436205.962 KFLOPS
+05/05/12-02:26:20: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:26:21: Running linpack benchmark
+05/05/12-02:26:46: Benchmark result: 433037.396 KFLOPS
+05/05/12-02:26:46: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:26:47: Running linpack benchmark
+05/05/12-02:27:12: Benchmark result: 413672.578 KFLOPS
+05/05/12-02:27:12: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:27:13: Running linpack benchmark
+05/05/12-02:27:39: Benchmark result: 421802.935 KFLOPS
+05/05/12-02:27:39: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:27:39: Running linpack benchmark
+05/05/12-02:28:04: Benchmark result: 439421.239 KFLOPS
+05/05/12-02:28:04: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:28:05: Running linpack benchmark
+05/05/12-02:28:31: Benchmark result: 417210.990 KFLOPS
+05/05/12-02:28:31: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:28:32: Running linpack benchmark
+05/05/12-02:28:57: Benchmark result: 440142.193 KFLOPS
+05/05/12-02:28:57: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:28:57: Running linpack benchmark
+05/05/12-02:29:22: Benchmark result: 446738.829 KFLOPS
+05/05/12-02:29:22: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:29:23: Running linpack benchmark
+05/05/12-02:29:48: Benchmark result: 431643.872 KFLOPS
+05/05/12-02:29:48: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:29:48: Running linpack benchmark
+05/05/12-02:30:13: Benchmark result: 422467.192 KFLOPS
+05/05/12-02:30:13: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:30:14: Running linpack benchmark
+05/05/12-02:30:39: Benchmark result: 433387.184 KFLOPS
+05/05/12-02:30:39: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:30:40: Running linpack benchmark
+05/05/12-02:31:05: Benchmark result: 429570.323 KFLOPS
+05/05/12-02:31:05: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:31:05: Running linpack benchmark
+05/05/12-02:31:31: Benchmark result: 442684.268 KFLOPS
+05/05/12-02:31:31: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:31:31: Running linpack benchmark
+05/05/12-02:31:56: Benchmark result: 461335.626 KFLOPS
+05/05/12-02:31:56: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:31:56: Running linpack benchmark
+05/05/12-02:32:21: Benchmark result: 445996.121 KFLOPS
+05/05/12-02:32:21: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:32:22: Running linpack benchmark
+05/05/12-02:32:47: Benchmark result: 451247.547 KFLOPS
+05/05/12-02:32:47: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:32:47: Running linpack benchmark
+05/05/12-02:33:12: Benchmark result: 425145.272 KFLOPS
+05/05/12-02:33:12: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:33:12: Running linpack benchmark
+05/05/12-02:33:37: Benchmark result: 443415.978 KFLOPS
+05/05/12-02:33:37: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:33:37: Running linpack benchmark
+05/05/12-02:34:02: Benchmark result: 434439.946 KFLOPS
+05/05/12-02:34:02: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:34:03: Running linpack benchmark
+05/05/12-02:34:27: Benchmark result: 436560.890 KFLOPS
+05/05/12-02:34:27: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:34:28: Running linpack benchmark
+05/05/12-02:34:52: Benchmark result: 447484.014 KFLOPS
+05/05/12-02:34:52: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:34:53: Running linpack benchmark
+05/05/12-02:35:18: Benchmark result: 432339.511 KFLOPS
+05/05/12-02:35:18: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:35:19: Running linpack benchmark
+05/05/12-02:35:43: Benchmark result: 454689.266 KFLOPS
+05/05/12-02:35:43: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:35:43: Running linpack benchmark
+05/05/12-02:36:08: Benchmark result: 440142.193 KFLOPS
+05/05/12-02:36:08: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:36:08: Running linpack benchmark
+05/05/12-02:36:33: Benchmark result: 440142.193 KFLOPS
+05/05/12-02:36:33: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:36:34: Running linpack benchmark
+05/05/12-02:36:57: Benchmark result: 463728.032 KFLOPS
+05/05/12-02:36:57: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:36:58: Running linpack benchmark
+05/05/12-02:37:23: Benchmark result: 441228.070 KFLOPS
+05/05/12-02:37:23: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:37:23: Running linpack benchmark
+05/05/12-02:37:48: Benchmark result: 437986.395 KFLOPS
+05/05/12-02:37:48: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:37:48: Running linpack benchmark
+05/05/12-02:38:13: Benchmark result: 432339.511 KFLOPS
+05/05/12-02:38:13: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:38:14: Running linpack benchmark
+05/05/12-02:38:38: Benchmark result: 457792.947 KFLOPS
+05/05/12-02:38:38: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:38:38: Running linpack benchmark
+05/05/12-02:39:03: Benchmark result: 449357.901 KFLOPS
+05/05/12-02:39:03: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:39:03: Running linpack benchmark
+05/05/12-02:39:28: Benchmark result: 436916.395 KFLOPS
+05/05/12-02:39:28: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:39:29: Running linpack benchmark
+05/05/12-02:39:53: Benchmark result: 452007.863 KFLOPS
+05/05/12-02:39:53: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:39:54: Running linpack benchmark
+05/05/12-02:40:19: Benchmark result: 443782.741 KFLOPS
+05/05/12-02:40:19: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:40:19: Running linpack benchmark
+05/05/12-02:40:43: Benchmark result: 453919.910 KFLOPS
+05/05/12-02:40:43: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:40:44: Running linpack benchmark
+05/05/12-02:41:08: Benchmark result: 440503.558 KFLOPS
+05/05/12-02:41:08: Compiling linpack.c (requires GNU compiler collection)
+05/05/12-02:41:09: Running linpack benchmark
+05/05/12-02:41:33: Benchmark result: 445255.878 KFLOPS

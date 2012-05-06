@@ -1,0 +1,1200 @@
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 8.360 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 8.150 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 7.850 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 8.160 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 8.210 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 8.080 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 7.910 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 8.120 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 8.180 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 8.170 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 7.880 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 7.950 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 8.260 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 8.390 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 7.920 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 8.190 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 8.200 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 8.200 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 7.920 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 8.220 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 8.120 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 7.950 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 8.150 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 8.250 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 7.890 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 7.840 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 7.900 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 7.970 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 7.800 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 7.870 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 7.990 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 8.140 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 8.120 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 8.130 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 7.930 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 7.900 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 8.160 seconds
+05/05/12-07:44:42: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:42: Running fork benchmark
+05/05/12-07:44:42: Time for 1 million forks: 7.960 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.230 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.170 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.890 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.080 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.930 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.130 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.140 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.900 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.940 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.900 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.850 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.920 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.250 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.250 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.230 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.970 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.920 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.920 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.960 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.130 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.910 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.160 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.170 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.250 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.210 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.190 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.980 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.230 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.890 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.910 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.250 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.210 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.150 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.110 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.240 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.140 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.150 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.190 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.210 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.150 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.910 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.300 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.230 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.890 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.140 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.240 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.120 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.140 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.130 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.230 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.110 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.150 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.140 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.880 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.380 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.920 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.240 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.000 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.120 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.170 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.190 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.890 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.890 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.840 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.970 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.970 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.430 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.190 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.000 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.390 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.240 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.360 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.920 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.350 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.390 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.880 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.260 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.990 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.900 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.350 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.140 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.250 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.430 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.990 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.950 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.010 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.280 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.080 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.690 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.130 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.960 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.330 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.340 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.340 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.100 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.300 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.250 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.070 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.010 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.000 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.040 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 7.970 seconds
+05/05/12-07:44:43: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:43: Running fork benchmark
+05/05/12-07:44:43: Time for 1 million forks: 8.150 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.260 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.950 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.110 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.190 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.950 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.860 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.940 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.920 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.900 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.960 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.200 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.970 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.940 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.030 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.960 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.990 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.990 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.970 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.310 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.280 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.410 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.370 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.020 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.080 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.880 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.010 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.180 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.130 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.880 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.270 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.470 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.070 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.190 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.570 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.000 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.150 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.130 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.350 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.100 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.920 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.270 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.210 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.030 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.010 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.230 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.950 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.900 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.360 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.200 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.130 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.250 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.180 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.990 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.260 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.070 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.020 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.300 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.210 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.010 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.220 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.020 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.940 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.350 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.940 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.260 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.340 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.230 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.150 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.950 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.250 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.940 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.140 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.250 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.970 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.960 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.190 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.180 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.320 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.260 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.140 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.180 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.010 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.170 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.260 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.080 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.280 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.020 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.910 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.080 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.050 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.340 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.190 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.360 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.180 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.950 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.470 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.940 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.970 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.900 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.020 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.150 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.210 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.960 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.290 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.040 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.920 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.930 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.210 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 8.180 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:44: Running fork benchmark
+05/05/12-07:44:44: Time for 1 million forks: 7.940 seconds
+05/05/12-07:44:44: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.000 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.180 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.200 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.980 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.050 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.120 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.200 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.110 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.390 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.220 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.210 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.990 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.910 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.020 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.240 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.270 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.000 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.330 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.250 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.960 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.920 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.930 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.990 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.040 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.110 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.890 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.210 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.320 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.270 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.190 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.000 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.200 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.240 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.240 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.240 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.950 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.880 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.260 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.180 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.940 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.140 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.280 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.930 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.160 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.130 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.260 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.950 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.300 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.240 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.180 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.910 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.210 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.100 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.120 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.230 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.030 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.000 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.920 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.260 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.180 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.250 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.170 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.000 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.200 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.980 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.110 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.930 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.240 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.170 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.260 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.990 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.070 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.220 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.990 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.230 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.970 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.150 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.140 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.890 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.140 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.050 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.190 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.960 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.140 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.360 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.150 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.970 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.160 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.860 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.130 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.260 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.910 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.140 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.930 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.130 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.420 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.910 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.220 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.110 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.190 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.120 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.420 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.820 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.190 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.090 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.010 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.900 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.870 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 7.920 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.220 seconds
+05/05/12-07:44:45: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:45: Running fork benchmark
+05/05/12-07:44:45: Time for 1 million forks: 8.020 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 7.930 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 8.230 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 8.180 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 8.210 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 7.900 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 8.140 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 7.910 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 8.150 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 7.920 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 8.190 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 8.310 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 8.160 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 8.150 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 7.990 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 8.200 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 7.900 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 7.910 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 7.980 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 8.040 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 7.930 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 8.220 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 7.980 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 8.200 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 8.240 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 7.990 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 7.930 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 8.140 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 7.950 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 8.370 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 7.870 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 8.160 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 7.970 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 8.410 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 7.940 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 7.880 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 8.180 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 7.890 seconds
+05/05/12-07:44:46: Compiling fork.c (requires GNU compiler collection)
+05/05/12-07:44:46: Running fork benchmark
+05/05/12-07:44:46: Time for 1 million forks: 7.970 seconds

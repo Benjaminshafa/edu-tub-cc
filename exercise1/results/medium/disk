@@ -1,0 +1,80 @@
+05/05/12-07:44:46: Reading 4.3G of data from /dev/xvda1 (must run as root)
+05/05/12-07:45:03: 1048576+0 records in
+05/05/12-07:45:03: 1048576+0 records out
+05/05/12-07:45:03: 4294967296 bytes (4.3 GB) copied, 17.3917 s, 247 MB/s
+05/05/12-08:00:04: Reading 4.3G of data from /dev/xvda1 (must run as root)
+05/05/12-08:00:21: 1048576+0 records in
+05/05/12-08:00:21: 1048576+0 records out
+05/05/12-08:00:21: 4294967296 bytes (4.3 GB) copied, 17.0167 s, 252 MB/s
+05/05/12-08:15:21: Reading 4.3G of data from /dev/xvda1 (must run as root)
+05/05/12-08:15:39: 1048576+0 records in
+05/05/12-08:15:39: 1048576+0 records out
+05/05/12-08:15:39: 4294967296 bytes (4.3 GB) copied, 17.7113 s, 242 MB/s
+05/05/12-08:30:39: Reading 4.3G of data from /dev/xvda1 (must run as root)
+05/05/12-08:30:55: 1048576+0 records in
+05/05/12-08:30:55: 1048576+0 records out
+05/05/12-08:30:55: 4294967296 bytes (4.3 GB) copied, 16.0669 s, 267 MB/s
+05/05/12-08:45:55: Reading 4.3G of data from /dev/xvda1 (must run as root)
+05/05/12-08:46:12: 1048576+0 records in
+05/05/12-08:46:12: 1048576+0 records out
+05/05/12-08:46:12: 4294967296 bytes (4.3 GB) copied, 16.369 s, 262 MB/s
+05/05/12-09:01:12: Reading 4.3G of data from /dev/xvda1 (must run as root)
+05/05/12-09:01:28: 1048576+0 records in
+05/05/12-09:01:28: 1048576+0 records out
+05/05/12-09:01:28: 4294967296 bytes (4.3 GB) copied, 16.095 s, 267 MB/s
+05/05/12-09:16:28: Reading 4.3G of data from /dev/xvda1 (must run as root)
+05/05/12-09:16:45: 1048576+0 records in
+05/05/12-09:16:45: 1048576+0 records out
+05/05/12-09:16:45: 4294967296 bytes (4.3 GB) copied, 16.6632 s, 258 MB/s
+05/05/12-09:31:45: Reading 4.3G of data from /dev/xvda1 (must run as root)
+05/05/12-09:32:02: 1048576+0 records in
+05/05/12-09:32:02: 1048576+0 records out
+05/05/12-09:32:02: 4294967296 bytes (4.3 GB) copied, 16.3409 s, 263 MB/s
+05/05/12-09:47:02: Reading 4.3G of data from /dev/xvda1 (must run as root)
+05/05/12-09:47:18: 1048576+0 records in
+05/05/12-09:47:18: 1048576+0 records out
+05/05/12-09:47:18: 4294967296 bytes (4.3 GB) copied, 16.4949 s, 260 MB/s
+05/05/12-10:02:19: Reading 4.3G of data from /dev/xvda1 (must run as root)
+05/05/12-10:02:36: 1048576+0 records in
+05/05/12-10:02:36: 1048576+0 records out
+05/05/12-10:02:36: 4294967296 bytes (4.3 GB) copied, 16.6416 s, 258 MB/s
+05/05/12-10:17:36: Reading 4.3G of data from /dev/xvda1 (must run as root)
+05/05/12-10:17:52: 1048576+0 records in
+05/05/12-10:17:52: 1048576+0 records out
+05/05/12-10:17:52: 4294967296 bytes (4.3 GB) copied, 16.4068 s, 262 MB/s
+05/05/12-10:32:52: Reading 4.3G of data from /dev/xvda1 (must run as root)
+05/05/12-10:33:09: 1048576+0 records in
+05/05/12-10:33:09: 1048576+0 records out
+05/05/12-10:33:09: 4294967296 bytes (4.3 GB) copied, 16.5257 s, 260 MB/s
+05/05/12-10:48:10: Reading 4.3G of data from /dev/xvda1 (must run as root)
+05/05/12-10:48:26: 1048576+0 records in
+05/05/12-10:48:26: 1048576+0 records out
+05/05/12-10:48:26: 4294967296 bytes (4.3 GB) copied, 16.1999 s, 265 MB/s
+05/05/12-11:03:26: Reading 4.3G of data from /dev/xvda1 (must run as root)
+05/05/12-11:03:42: 1048576+0 records in
+05/05/12-11:03:42: 1048576+0 records out
+05/05/12-11:03:42: 4294967296 bytes (4.3 GB) copied, 16.0739 s, 267 MB/s
+05/05/12-11:18:43: Reading 4.3G of data from /dev/xvda1 (must run as root)
+05/05/12-11:18:59: 1048576+0 records in
+05/05/12-11:18:59: 1048576+0 records out
+05/05/12-11:18:59: 4294967296 bytes (4.3 GB) copied, 16.4877 s, 260 MB/s
+05/05/12-11:33:59: Reading 4.3G of data from /dev/xvda1 (must run as root)
+05/05/12-11:34:16: 1048576+0 records in
+05/05/12-11:34:16: 1048576+0 records out
+05/05/12-11:34:16: 4294967296 bytes (4.3 GB) copied, 16.9421 s, 254 MB/s
+05/05/12-11:49:17: Reading 4.3G of data from /dev/xvda1 (must run as root)
+05/05/12-11:49:33: 1048576+0 records in
+05/05/12-11:49:33: 1048576+0 records out
+05/05/12-11:49:33: 4294967296 bytes (4.3 GB) copied, 15.9473 s, 269 MB/s
+05/05/12-12:04:33: Reading 4.3G of data from /dev/xvda1 (must run as root)
+05/05/12-12:04:49: 1048576+0 records in
+05/05/12-12:04:49: 1048576+0 records out
+05/05/12-12:04:49: 4294967296 bytes (4.3 GB) copied, 16.0188 s, 268 MB/s
+05/05/12-12:19:49: Reading 4.3G of data from /dev/xvda1 (must run as root)
+05/05/12-12:20:06: 1048576+0 records in
+05/05/12-12:20:06: 1048576+0 records out
+05/05/12-12:20:06: 4294967296 bytes (4.3 GB) copied, 16.6685 s, 258 MB/s
+05/05/12-12:35:06: Reading 4.3G of data from /dev/xvda1 (must run as root)
+05/05/12-12:35:22: 1048576+0 records in
+05/05/12-12:35:23: 1048576+0 records out
+05/05/12-12:35:23: 4294967296 bytes (4.3 GB) copied, 16.3476 s, 263 MB/s

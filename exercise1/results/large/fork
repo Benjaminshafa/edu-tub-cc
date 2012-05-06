@@ -1,0 +1,12 @@
+05/05/12-18:30:03: Compiling fork.c (requires GNU compiler collection)
+05/05/12-18:30:03: Running fork benchmark
+05/05/12-18:30:03: Time for 1 million forks: 233.530 seconds
+05/05/12-18:30:03: Compiling fork.c (requires GNU compiler collection)
+05/05/12-18:30:03: Running fork benchmark
+05/05/12-18:30:03: Time for 1 million forks: 247.510 seconds
+05/05/12-18:30:03: Compiling fork.c (requires GNU compiler collection)
+05/05/12-18:30:03: Running fork benchmark
+05/05/12-18:30:03: Time for 1 million forks: 232.440 seconds
+05/05/12-18:30:03: Compiling fork.c (requires GNU compiler collection)
+05/05/12-18:30:03: Running fork benchmark
+05/05/12-18:30:03: Time for 1 million forks: 247.040 seconds
