@@ -1,4 +1,4 @@
-5.Evaluation of Benchmark aResults
+5.Evaluation of Benchmark Results
 Based on your benchmarks and your knowledge about XEN paravirtualization, provide short answers to the following questions.
 
 1. LINPACK Benchmark
@@ -34,13 +34,13 @@ The syscall benchmarks executes 50 million times the same syscall which returns 
 3.2. Look at the syscall measurements. Are they consistent with your expectations. If not, what could be the reason?
 
 The results show that the medium instance runs the benchmark within less than half the time the small instance requires. On the other side there is no difference between medium and large which could be explained by the test running again on a single core only.
-
+TBS: Other explanations?
 
 4. Fork Benchmark
 
 4.1. Find out how the fork benchmark works by looking at the C code. Would you expect paravirtualization to affect the fork benchmark? Why?
 
-TBD
+This benchmark measures the time it takes to duplicate the benchmark process itself for 1 million times.
 
 4.2. Look at the fork measurements. Are they consistent with your expectations. If not, what could be the reason?
 
