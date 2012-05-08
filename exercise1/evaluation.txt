@@ -5,7 +5,7 @@ Based on your benchmarks and your knowledge about XEN paravirtualization, provid
 
 1.1. Find out what the LINPACK benchmark measures (try google :-). Would you expect paravirtualization to affect the LINPACK benchmark? Why?
 
-The LINPACK benchmark measures how fast a computer solves linear algebra calculations. Its results are returned in number of floating point operations per second (FLOPS). As these tasks are basically all executed on the CPU we would not expect paravirtualization to affect the benchmark results as long as the virtualized machine has dedicated access to the host's resources.
+The LINPACK benchmark measures how fast a computer solves linear algebra calculations, LU decomposition and solving a system of linear equations. Its results are returned in number of floating point operations per second (FLOPS). As these tasks involve only unprivileged instructions and thus are basically all executed on the CPU we would not expect paravirtualization to affect the benchmark results as long as the virtualized machine has dedicated access to the host's resources.
 
 1.2. Look at your LINPACK measurements. Are they consistent with your expectations. If not, what could be the reason?
 
@@ -18,12 +18,11 @@ Establishing a relation to the "novirt" results is difficult as we don't know th
 
 2.1. Find out how the memsweep benchmark works by looking at the C code. Would you expect paravirtualization to affect the memsweep benchmark? Why?
 
-This benchmark measures the required time to access (write and clean) heap memory at different locations. Because the hypervisor still needs to validate write requests we expect the results to show a slower performance of all virtual machines compared to the "novirt" test results.
+This benchmark measures the required time to access (write and clean) heap memory at different locations. The step width between to consecutive accesses is chosen such that a cache miss occurs and the data really has to be loaded from the memory. Because the hypervisor still needs to validate write requests we expect the results to show a slower performance of all virtual machines compared to the "novirt" test results. Moreover, differences between the paravirtualized machines should be the result of different memory and a different clock speed of the actual CPU.
 
 2.2. Look at your memsweep measurements. Are they consistent with your expectations. If not, what could be the reason?
 
-TBD
-
+The sweep time of the "novirt" machine is considerably slower than the results of the paravirtualized machines. That is somehow surprising and implies that the Amazon hosts have a much faster memory than the reference computer "novirt". Comparing the results among the virtualized systems shows that the small machine is about 3 times slower than the medium and the large machine, which have nearly identical results. These differences could possibly be caused by different hardware configurations. The equality of the sweep times between the medium and the large machine suggest the conclusion that both machine types are using the same memory hardware. Again, the guest system cannot benefit from the second core available on the large machine.
 
 3 Syscall Benchmark
 
@@ -33,19 +32,17 @@ The syscall benchmarks executes 50 million times the same syscall which returns 
 
 3.2. Look at the syscall measurements. Are they consistent with your expectations. If not, what could be the reason?
 
-The results show that the medium instance runs the benchmark within less than half the time the small instance requires. On the other side there is no difference between medium and large which could be explained by the test running again on a single core only.
-TBS: Other explanations?
+The results show that the medium instance runs the benchmark within less than half the time the small instance requires. The nearly doubled clock rate and the faster memory of the medium machine could be the reason for the difference. On the other side there is no difference between medium and large which could be explained by the test running again on a single core only.
 
 4. Fork Benchmark
 
 4.1. Find out how the fork benchmark works by looking at the C code. Would you expect paravirtualization to affect the fork benchmark? Why?
 
-This benchmark measures the time it takes to duplicate the benchmark process itself for 1 million times.
+This benchmark measures the time it takes to duplicate the benchmark process itself for 1 million times. Since a fork requires the execution of privileged instructions and write operations to the memory we would assume that the paravirtualized machines are slower than the "novirt" reference system. The actual execution of the operations depends on the clock rate and the access time to the memory. Thus, the small instances should be slightly slower than the medium and the large instances.
 
 4.2. Look at the fork measurements. Are they consistent with your expectations. If not, what could be the reason?
 
 TBD
-
 
 5. Disk Benchmark
 
