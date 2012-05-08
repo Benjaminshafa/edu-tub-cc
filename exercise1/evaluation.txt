@@ -51,22 +51,24 @@ TBD
 
 5.1. Find out how the disk benchmark works by looking at the shell code. Would you expect paravirtualization to affect the disk benchmark? Why?
 
-TBD
+The disk benchmark copys 1M blocks from /dev/xvda1 to /dev/null, 4096 bytes at a time. We expected the io-access from a paravirtualized machine to be slower than a non-virtualized one, but compared to a full-virtualized solution it should be faster. Among the three instances there should be performance increases on the more powerful instances. As Amazon states the io-performance of both the small and the medium instances should be "medium" whereas the large instances should have a "high" performance.
 
 5.2. Look at the disk measurements. Are they consistent with your expectations. If not, what could be the reason?
 
-TBD
+Among the three virtualized instances we see an increasing disk read performance as they get more powerful as expected. We have a larger gap between the small and the medium instance's average value than between the medium and the large one. So therefore Amazon's io-classification might not be that meaningful, whereas changing from 1 to 2 computing units have increased the performance more noticeable than the change to 4 units.
+The difference between the novirt value and the virtualized one might be due to more performant hard disks (maybe even ssds) used in the ec2.
 
 
 6. Network Throughput Benchmark
 
 6.1. Find out how the network benchmark works by looking at the shell code (the iperf manpage should be helpful). Would you expect paravirtualization to affect the network benchmark? Why? 
 
-TBD
+The network benchmark starts a simple iperf server on the one machine and generates traffic to it from the other machine. The script runs the iperf client in different configurations with varying buffer sizes from 16 to 4096 KB. The client also has an options that disables Nagle's algorithm in TCP, so that the packets get sent immediately. 
+
 
 6.2. Look at the network throughput measurements. Are they consistent with your expectations. If not, what could be the reason?
 
-TBD
+In general we have smaller throughput values for the virtual instances than for the non-virtual. This could be due to the slower io-virtualization. For up to a buffer size of 512 KB we have nearly the same values for small and large instances. But the large instances can handle larger buffer sizes better due to the fact that they get more io-access assured by amazon, so they get prioritised. The small instance reaches its peak rate at a buffer size of 1024 KB, whereas the large instance reaches the best value with a 2048 KB buffer. Both instances' throughput decreases a little when using larger buffers.
 
 ========
 
