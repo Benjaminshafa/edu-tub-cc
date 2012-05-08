@@ -1,0 +1,75 @@
+5.Evaluation of Benchmark Results
+Based on your benchmarks and your knowledge about XEN paravirtualization, provide short answers to the following questions.
+
+1. LINPACK Benchmark
+
+1.1. Find out what the LINPACK benchmark measures (try google :-). Would you expect paravirtualization to affect the LINPACK benchmark? Why?
+
+The LINPACK benchmark measures how fast a computer solves linear algebra calculations. Its results are returned in number of floating point operations per second (FLOPS). As these tasks are basically all executed on the CPU we would not expect paravirtualization to affect the benchmark results as long as the virtualized machine has dedicated access to the host's resources.
+
+1.2. Look at your LINPACK measurements. Are they consistent with your expectations. If not, what could be the reason?
+
+Among the paravirtualized hosts we recognize a performance increase of 250% between the small and medium instance. Between medium and large there is no notable difference whereas we would also have expected to also see a similar increase in performance as the instances are supposed to have different number of AWS computing units [1].
+The reason for this result could be that the benchmark only runs on a single core and therefore could only make use of a single of both provided EC2 computing units. This would explain the nearly identical results of medium and large as they both provide the same EC2 computing units with the only difference that medium only offers a single while large offers two cores.
+Establishing a relation to the "novirt" results is difficult as we don't know the exact hardware of the host hardware used for our AWS benchmarks. We can only state that the single E2 Computing Unit provided in our small instance [1] approximately provides 1/4 of the linear algebra computation power of an Intel(R) Xeon(R) CPU X5355 @ 2.66GHz CPU which had been used for the "novirt" benchmarks.
+
+
+2. Memsweep Benchmark
+
+2.1. Find out how the memsweep benchmark works by looking at the C code. Would you expect paravirtualization to affect the memsweep benchmark? Why?
+
+This benchmark measures the required time to access (write and clean) heap memory at different locations. Because the hypervisor still needs to validate write requests we expect the results to show a slower performance of all virtual machines compared to the "novirt" test results.
+
+2.2. Look at your memsweep measurements. Are they consistent with your expectations. If not, what could be the reason?
+
+TBD
+
+
+3 Syscall Benchmark
+
+3.1. Find out how the syscall benchmark works by looking at the C code. Would you expect paravirtualization to affect the syscall benchmark? Why? 
+
+The syscall benchmarks executes 50 million times the same syscall which returns the thread group id of the current process. As paravirtualization uses exceptions and offers the guest OS to provide exception handlers for performance reasons this benchmark should perform much quicker than on fully virtualized machines. Compared to an unvirtualized host we expect small performance drawbacks because of the required execution power to create software exceptions. Among the three test instances there should be notable differences between all instances.
+
+3.2. Look at the syscall measurements. Are they consistent with your expectations. If not, what could be the reason?
+
+The results show that the medium instance runs the benchmark within less than half the time the small instance requires. On the other side there is no difference between medium and large which could be explained by the test running again on a single core only.
+TBS: Other explanations?
+
+4. Fork Benchmark
+
+4.1. Find out how the fork benchmark works by looking at the C code. Would you expect paravirtualization to affect the fork benchmark? Why?
+
+This benchmark measures the time it takes to duplicate the benchmark process itself for 1 million times.
+
+4.2. Look at the fork measurements. Are they consistent with your expectations. If not, what could be the reason?
+
+TBD
+
+
+5. Disk Benchmark
+
+5.1. Find out how the disk benchmark works by looking at the shell code. Would you expect paravirtualization to affect the disk benchmark? Why?
+
+TBD
+
+5.2. Look at the disk measurements. Are they consistent with your expectations. If not, what could be the reason?
+
+TBD
+
+
+6. Network Throughput Benchmark
+
+6.1. Find out how the network benchmark works by looking at the shell code (the iperf manpage should be helpful). Would you expect paravirtualization to affect the network benchmark? Why? 
+
+TBD
+
+6.2. Look at the network throughput measurements. Are they consistent with your expectations. If not, what could be the reason?
+
+TBD
+
+========
+
+References:
+
+[1] http://aws.amazon.com/ec2/instance-types/
