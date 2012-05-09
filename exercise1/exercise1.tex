@@ -2,7 +2,7 @@
 
 \title{Cloud Computing - Exercise 1\\
 Amazon EC2 - Benchmarking}
-\author{Florian Feigenbutz - Matriculation number\\
+\author{Florian Feigenbutz - 346141\\
 Tim Strehlow - Matriculation number\\
 Till Rohrmann - 343756}
 \date{\today}
@@ -51,7 +51,7 @@ instance-store					paravirtual	xen		sg-2c54a75b
 default
 \end{verbatim}
 
-	\item Log in using SSH
+	\item Log in using SSH to host name from last output
 \begin{verbatim}
 flo@flo-ubuntu:~$ ssh -i [KEY] ubuntu@ec2-176-34-83-252.eu-west-
 1.compute.amazonaws.com
@@ -232,7 +232,7 @@ However, the measurements of the large instance, which is 6 times slower than th
 \subsection{Disk Benchmark}
 	\subsubsection{Find out how the disk benchmark works by looking at the shell code. Would you expect paravirtualization to affect the disk benchmark? Why?}
 
-The disk benchmark copys 1 million blocks from /dev/xvda1 to /dev/null, 4096 bytes per block. We expected the io-access from a paravirtualized machine to be slower than a non-virtualized one, but compared to a full-virtualized solution it should be faster. Among the three instances there should be performance increases on the more powerful instances. As Amazon states the io-performance of both the small and the medium instances should be "medium" whereas the large instances should have a "high" performance.
+The disk benchmark copys 1 million blocks from /dev/xvda1 to /dev/null, 4096 bytes per block. We expected the io-access from a paravirtualized machine to be slower than a non-virtualized one, but compared to a full-virtualized solution it should be faster. Among the three instances there should be performance increases on the more powerful instances. As Amazon states the io-performance of both the small and the medium instances should be "medium" whereas the large instances should have a "high" performance we expect to reveal a bigger speedup between medium and large than between small and medium.
 
 	\subsubsection{Look at the disk measurements. Are they consistent with your expectations. If not, what could be the reason?}
 
