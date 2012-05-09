@@ -22,7 +22,7 @@ This benchmark measures the required time to access (write and clean) heap memor
 
 2.2. Look at your memsweep measurements. Are they consistent with your expectations. If not, what could be the reason?
 
-The sweep time of the "novirt" machine is considerably slower than the results of the paravirtualized machines. That is somehow surprising and implies that the Amazon hosts have a much faster memory than the reference computer "novirt". Comparing the results among the virtualized systems shows that the small machine is about 3 times slower than the medium and the large machine, which have nearly identical results. These differences could possibly be caused by different hardware configurations. The equality of the sweep times between the medium and the large machine suggest the conclusion that both machine types are using the same memory hardware. Again, the guest system cannot benefit from the second core available on the large machine.
+The sweep time of the "novirt" machine is considerably slower than the results of the paravirtualized machines. This is somehow surprising and implies that the Amazon hosts have a much faster memory than the reference computer "novirt". Comparing the results among the virtualized systems shows that the small machine is about 3 times slower than the medium and the large machine, which have nearly identical results. These differences could possibly be caused by different hardware configurations. The equality of the sweep times between the medium and the large machine suggest the conclusion that both machine types are using the same memory hardware. Again, the guest system cannot benefit from the second core available on the large machine.
 
 3 Syscall Benchmark
 
@@ -42,30 +42,31 @@ This benchmark measures the time it takes to duplicate the benchmark process its
 
 4.2. Look at the fork measurements. Are they consistent with your expectations. If not, what could be the reason?
 
-TBD
+The results show that the "novirt" system is about 3 times slower than the small instance and 4 times slower than the medium instance. That was not expected but could be attributed to a different hardware configuration. Moreover, experiments showed that executing the benchmark with root privileges slows the benchmark considerably down. The measurements on the virtual machines were all done in the context of a normal user. It might thus be the case that the "novirt" measurements can be explained by that. The performance increase between the small and medium instance is probably the result of the more powerful hardware of the latter instance type.
+However, the measurements of the large instance, which is 6 times slower than the "novirt" machine and 24 times slower than the medium instance, are quite surprising and hard to explain. Since the guest systems are identical and the hardware of the large machine is the most powerful among those tested, the results have to be connected to the hypervisor and concurrently running systems. They have to interfere with each other in a way such that their performance is massively degraded.
 
 5. Disk Benchmark
 
 5.1. Find out how the disk benchmark works by looking at the shell code. Would you expect paravirtualization to affect the disk benchmark? Why?
 
-The disk benchmark copys 1M blocks from /dev/xvda1 to /dev/null, 4096 bytes at a time. We expected the io-access from a paravirtualized machine to be slower than a non-virtualized one, but compared to a full-virtualized solution it should be faster. Among the three instances there should be performance increases on the more powerful instances. As Amazon states the io-performance of both the small and the medium instances should be "medium" whereas the large instances should have a "high" performance.
+The disk benchmark copys 1 million blocks from /dev/xvda1 to /dev/null, 4096 bytes per block. We expected the io-access from a paravirtualized machine to be slower than a non-virtualized one, but compared to a full-virtualized solution it should be faster. Among the three instances there should be performance increases on the more powerful instances. As Amazon states the io-performance of both the small and the medium instances should be "medium" whereas the large instances should have a "high" performance.
 
 5.2. Look at the disk measurements. Are they consistent with your expectations. If not, what could be the reason?
 
 Among the three virtualized instances we see an increasing disk read performance as they get more powerful as expected. We have a larger gap between the small and the medium instance's average value than between the medium and the large one. So therefore Amazon's io-classification might not be that meaningful, whereas changing from 1 to 2 computing units have increased the performance more noticeable than the change to 4 units.
-The difference between the novirt value and the virtualized one might be due to more performant hard disks (maybe even ssds) used in the ec2.
+The difference between the novirt value and the virtualized one might be due to more powerful hard disks used in the ec2.
 
 
 6. Network Throughput Benchmark
 
 6.1. Find out how the network benchmark works by looking at the shell code (the iperf manpage should be helpful). Would you expect paravirtualization to affect the network benchmark? Why? 
 
-The network benchmark starts a simple iperf server on the one machine and generates traffic to it from the other machine. The script runs the iperf client in different configurations with varying buffer sizes from 16 to 4096 KB. The client also has an options that disables Nagle's algorithm in TCP, so that the packets get sent immediately. 
+The network benchmark starts a simple iperf server on the one machine and generates traffic to it from the other machine. The script runs the iperf client in different configurations with varying buffer sizes from 16 to 4096 KB. The client also has an options that disables Nagle's algorithm in TCP, so that the packets are sent immediately. We expect that the virtualized machines perform worse than the "novirt" system due to the virtualization overhead. Moreover, the large instance should reach a higher throughput because of its better io-performance [1].
 
 
 6.2. Look at the network throughput measurements. Are they consistent with your expectations. If not, what could be the reason?
 
-In general we have smaller throughput values for the virtual instances than for the non-virtual. This could be due to the slower io-virtualization. For up to a buffer size of 512 KB we have nearly the same values for small and large instances. But the large instances can handle larger buffer sizes better due to the fact that they get more io-access assured by amazon, so they get prioritised. The small instance reaches its peak rate at a buffer size of 1024 KB, whereas the large instance reaches the best value with a 2048 KB buffer. Both instances' throughput decreases a little when using larger buffers.
+In general we have smaller throughput values for the virtual instances than for the non-virtual. This could be due to the slower io-virtualization. For up to a buffer size of 512 KB we have nearly the same values for small and large instances. But the large instances can handle larger buffer sizes better due to the fact that they get more io-access assured by amazon, so they get prioritized. The small instance reaches its peak rate at a buffer size of 1024 KB, whereas the large instance reaches the best value with a 2048 KB buffer. Both instances' throughput decreases a little when using larger buffers.
 
 ========
 
