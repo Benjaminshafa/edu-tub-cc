@@ -1,0 +1,8 @@
+Put all the JAR files required by the web-service server & client here.
+You will need the following files:
+
+ * Apache CXF 2.6.0 including all of its dependencies (download binary
+   distribution at http://cxf.apache.org/download.html and copy the jar files
+   here)
+
+ * The maven-generated prime-service-0.1.jar
