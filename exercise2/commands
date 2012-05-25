@@ -1,0 +1,68 @@
+1. Starting an instance to generate the ami
+
+ec2-run-instances ami-8f80bbfb -k ubuntu-development --region eu-west-1 --availability-zone eu-west-1a -t m1.medium
+
+2. Connecting to the machine
+
+ssh ubuntu@ec2-79-125-36-34.eu-west-1.compute.amazonaws.com
+
+3. Install software
+
+sudo apt-get install maven2 openjdk-7-jdk
+
+4. Add user
+
+adduser primeserver
+
+5. Copy files to primeserver user
+
+6. Register web service for autostart
+
+sudo update-rc.d primeserver defaults
+
+7. Bundle image
+
+ec2-bundle-vol -k /mnt/keys/pk.pem -u userNumber -c /mnt/keys/cert.pem
+
+8. Upload image
+
+ ec2-upload-bundle --debug -b assignment2-ami -m /tmp/image.manifest.xml --access-key accessKey --secret-key secretKey --url http://s3.amazonaws.com
+ 
+ 9. Register ami
+ 
+ ec2-register assignment2-ami/image.manifest.xml -n "AMI for Assignment 2"
+ 
+ 10. Create elb
+ 
+elb-create-lb assignment2LB --availability-zones eu-west-1a --listener "protocol=http, lb-port=9000, instance-port=9000"
+
+11. Create launch configuration
+
+as-create-launch-config assignment2LC --image-id ami-8fb78dfb --instance-type m1.small --key ubuntu-development
+
+12. Create launch group
+
+as-create-auto-scaling-group assignment2ASG --launch-configuration assignment2LC --availability-zones eu-west-1a --min-size 1 --max-size 6 --load-balancers assignment2LB
+
+13. Create up scaling policy
+
+as-put-scaling-policy assignment2UpScalePolicy --auto-scaling-group assignment2ASG --adjustment=1 --type ChangeInCapacity --cooldown 300
+
+14. Create high cpu cloud watch alarm
+
+mon-put-metric-alarm assignment2HighCPUAlarm --comparison-operator GreaterThanOrEqualToThreshold --evaluation-periods 1 --metric-name CPUUtilization --namespace "AWS/EC2" --period 120 --statistic Average --threshold 90 --alarm-actions arn:aws:autoscaling:eu-west-1:228315521052:scalingPolicy:96a5e224-0b59-46e7-bdc9-3721e621c4d9:autoScalingGroupName/assignment2ASG:policyName/assignment2UpScalePolicy --dimensions "AutoScalingGroupName=assignment2ASG"
+
+15. Create down scaling policy
+
+as-put-scaling-policy assignment2DownScalePolicy --auto-scaling-group assignment2ASG --adjustment=-1 --type ChangeInCapacity --cooldown 300
+
+16. Create low cpu cloud watch alarm
+
+mon-put-metric-alarm assignment2LowCPUAlarm --comparison-operator LessThanOrEqualToThreshold --evaluation-periods 1 --metric-name CPUUtilization --namespace "AWS/EC2" --period 120 --statistic Average --threshold 50 --alarm-actions arn:aws:autoscaling:eu-west-1:228315521052:scalingPolicy:f20a9144-e205-44b5-bc2f-06888f0aa2a8:autoScalingGroupName/assignment2ASG:policyName/assignment2DownScalePolicy --dimensions "AutoScalingGroupName=assignment2ASG"
+
+
+
+
+
+
+
