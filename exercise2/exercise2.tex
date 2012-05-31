@@ -103,6 +103,7 @@ ubuntu@ip-10-59-53-98:~$ ec2-bundle-vol -k /mnt/keys/pk.pem
 ubuntu@ip-10-59-53-98:~$ ec2-upload-bundle --debug -b assignment2-ami 
   -m /tmp/image.manifest.xml --access-key [ACCESS_KEY] 
   --secret-key [SECRET_KEY] --url http://s3.amazonaws.com
+  --region eu-west-1
 \end{verbatim}
 
 	\item Register AMI
