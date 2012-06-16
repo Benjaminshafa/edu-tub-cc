@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "WindowsAzureProject2", "WindowsAzureProject2\WindowsAzureProject2.ccproj", "{F49275D4-F7A9-4469-862A-F1A5149DB610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoCloud_WebRole", "PhotoCloud_WebRole\PhotoCloud_WebRole.csproj", "{EB7F57B0-3F49-4019-9E52-75C54D67B8C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoCloud_WorkerRole", "PhotoCloud_WorkerRole\PhotoCloud_WorkerRole.csproj", "{6E75C626-34A2-47D1-813B-A5DE01AEC0EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F49275D4-F7A9-4469-862A-F1A5149DB610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F49275D4-F7A9-4469-862A-F1A5149DB610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F49275D4-F7A9-4469-862A-F1A5149DB610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F49275D4-F7A9-4469-862A-F1A5149DB610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB7F57B0-3F49-4019-9E52-75C54D67B8C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB7F57B0-3F49-4019-9E52-75C54D67B8C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB7F57B0-3F49-4019-9E52-75C54D67B8C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB7F57B0-3F49-4019-9E52-75C54D67B8C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E75C626-34A2-47D1-813B-A5DE01AEC0EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E75C626-34A2-47D1-813B-A5DE01AEC0EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E75C626-34A2-47D1-813B-A5DE01AEC0EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E75C626-34A2-47D1-813B-A5DE01AEC0EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
