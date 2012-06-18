@@ -36,31 +36,32 @@ namespace GuestBook_WorkerRole
                     {
                         var imageBlobUri = msg.AsString;
 
-                        string thumbnailBlobUri = System.Text.RegularExpressions.Regex.Replace(imageBlobUri, "([^\\.]+)(\\.[^\\.]+)?$", "$1-thumb$2");
-                //        //string grayscaleBlobUri = System.Text.RegularExpressions.Regex.Replace(imageBlobUri, "([^\\.]+)(\\.[^\\.]+)?$", "$1-gray$2");
+                        string thumbnailBlobUri = imageBlobUri.Replace("rawimages", "convertedimages") + "-thumb";
+                        string grayscaleBlobUri = imageBlobUri.Replace("rawimages", "convertedimages") + "-gray";
 
                         CloudBlob inputBlob = rawContainer.GetBlobReference(imageBlobUri);
                         CloudBlob outputBlobThumb = convertedContainer.GetBlobReference(thumbnailBlobUri);
-                //        //CloudBlob outputBlobGray = convertedContainer.GetBlobReference(grayscaleBlobUri);
+                        CloudBlob outputBlobGray = convertedContainer.GetBlobReference(grayscaleBlobUri);
 
                         using (BlobStream input = inputBlob.OpenRead())
                         using (BlobStream outputThumb = outputBlobThumb.OpenWrite())
-                //        ////using (BlobStream outputGray = outputBlobGray.OpenWrite())
-                            {
-                                ProcessColor(input, outputThumb);
+                        using (BlobStream outputGray = outputBlobGray.OpenWrite())
+                        {
+                            var originalImage = new Bitmap(input);
+                                ProcessColor(originalImage, outputThumb);
 
                                 // commit the blob and set its properties
                                 outputThumb.Commit();
                                 outputBlobThumb.Properties.ContentType = "image/jpeg";
                                 outputBlobThumb.SetProperties();
 
-                //        //    //    ProcessGrayscale(input, outputGray);
-                //        //    //   commit the blob and set its properties
-                //        //    //   outputGray.Commit();
-                //        //    //   outputBlobGray.Properties.ContentType = "image/jpeg";
-                //        //    //  outputBlobGray.SetProperties();
+                                ProcessGrayscale(originalImage, outputGray);
+                                //   commit the blob and set its properties
+                                   outputGray.Commit();
+                                   outputBlobGray.Properties.ContentType = "image/jpeg";
+                                   outputBlobGray.SetProperties();
 
-                //        //    // remove message from queue
+                                 //remove message from queue
                         queue.DeleteMessage(msg);
 
                 //        //    //  Trace.TraceInformation("Generated thumbnail in blob '{0}'.", thumbnailBlobUri);
@@ -98,7 +99,7 @@ namespace GuestBook_WorkerRole
             CloudBlobClient blobStorage = storageAccount.CreateCloudBlobClient();
             rawContainer = blobStorage.GetContainerReference("rawimages");
 
-            convertedContainer = blobStorage.GetContainerReference("convertedImages");
+            convertedContainer = blobStorage.GetContainerReference("convertedimages");
 
             // initialize queue storage 
             CloudQueueClient queueStorage = storageAccount.CreateCloudQueueClient();
@@ -146,11 +147,10 @@ namespace GuestBook_WorkerRole
             return base.OnStart();
         }
 
-        public void ProcessColor(Stream input, Stream output)
+        public void ProcessColor(Bitmap originalImage, Stream output)
         {
             int width;
             int height;
-            var originalImage = new Bitmap(input);
 
             const int MAX_DIMEN = 200;
 
@@ -179,9 +179,8 @@ namespace GuestBook_WorkerRole
 
         }
 
-        public void ProcessGrayscale(Stream input, Stream output)
+        public void ProcessGrayscale(Bitmap original, Stream output)
         {
-            Bitmap original = new Bitmap(input);
 
             //create a blank bitmap the same size as original
             Bitmap newBitmap = new Bitmap(original.Width, original.Height);

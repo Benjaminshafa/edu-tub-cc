@@ -25,8 +25,14 @@ namespace MvcWebRole1.Controllers
 
                 foreach (IListBlobItem image in images)
                 {
-                    string thumbnailUri = image.Uri.AbsoluteUri;
-                    imageUriList.Add(thumbnailUri);
+                    string rawUri = image.Uri.AbsoluteUri;
+                        
+                        Dictionary<String, String> uris = new Dictionary<String, String>();
+                        uris.Add("thumb", rawUri.Replace("rawimages", "convertedimages") + "-thumb");
+                        uris.Add("gray", rawUri.Replace("rawimages", "convertedimages") + "-gray");
+                        uris.Add("raw", rawUri);
+                        imageUriList.Add(uris);
+                    
                 }
 
                 ViewBag.images = imageUriList;

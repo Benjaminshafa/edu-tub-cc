@@ -8,3 +8,13 @@ c:\users\tim\documents\visual studio 2010\Projects\WindowsAzureProject2\PhotoClo
 c:\users\tim\documents\visual studio 2010\Projects\WindowsAzureProject2\PhotoCloud_WorkerRole\obj\Debug\ResolveAssemblyReference.cache
 c:\users\tim\documents\visual studio 2010\Projects\WindowsAzureProject2\PhotoCloud_WorkerRole\obj\Debug\PhotoCloud_WorkerRole.dll
 c:\users\tim\documents\visual studio 2010\Projects\WindowsAzureProject2\PhotoCloud_WorkerRole\obj\Debug\PhotoCloud_WorkerRole.pdb
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WorkerRole\bin\Debug\PhotoCloud_WorkerRole.dll.config
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WorkerRole\bin\Debug\PhotoCloud_WorkerRole.dll
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WorkerRole\bin\Debug\PhotoCloud_WorkerRole.pdb
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WorkerRole\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WorkerRole\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WorkerRole\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WorkerRole\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WorkerRole\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WorkerRole\obj\Debug\PhotoCloud_WorkerRole.dll
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WorkerRole\obj\Debug\PhotoCloud_WorkerRole.pdb

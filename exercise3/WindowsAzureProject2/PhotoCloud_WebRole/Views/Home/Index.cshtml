@@ -8,6 +8,7 @@
 
         @{
         System.Collections.ArrayList images = (System.Collections.ArrayList)ViewBag.images;
+        
 
         if (images == null || images.Count == 0)
         {
@@ -19,11 +20,15 @@
             @:<table>
             @:<tr>
             int count = 0;
-            foreach (string imageUri in images)
+            foreach (Dictionary<String, String> dict in images)
             {
+                string thumb = dict["thumb"];
+                string raw = dict["raw"];
+                string gray = dict["gray"];
                 @:<td>
-                @:<a href="@imageUri">
-                    @:<img src="@imageUri" />
+                
+                    @:<img src="@thumb" /><br />
+                @:<a href="@raw">Original</a> | <a href="@gray">Grayscale</a>
                 @:</a>
                 @:</td>
                 if (++count % 4 == 0)

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<serviceModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="WindowsAzureProject2" generation="1" functional="0" release="0" Id="2005b9b4-0fe0-4b60-8a3c-0cba8efd72e6" dslVersion="1.2.0.0" xmlns="http://schemas.microsoft.com/dsltools/RDSM">
+<serviceModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="WindowsAzureProject2" generation="1" functional="0" release="0" Id="1dd33879-4b42-454b-be08-02bd0cd46f04" dslVersion="1.2.0.0" xmlns="http://schemas.microsoft.com/dsltools/RDSM">
   <groups>
     <group name="WindowsAzureProject2Group" generation="1" functional="0" release="0">
       <componentports>
@@ -82,7 +82,7 @@
       </maps>
       <components>
         <groupHascomponents>
-          <role name="PhotoCloud_WebRole" generation="1" functional="0" release="0" software="C:\Users\tim\documents\visual studio 2010\Projects\WindowsAzureProject2\WindowsAzureProject2\csx\Debug\roles\PhotoCloud_WebRole" entryPoint="base\x64\WaHostBootstrapper.exe" parameters="base\x64\WaIISHost.exe " memIndex="1792" hostingEnvironment="frontendadmin" hostingEnvironmentVersion="2">
+          <role name="PhotoCloud_WebRole" generation="1" functional="0" release="0" software="C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\WindowsAzureProject2\csx\Debug\roles\PhotoCloud_WebRole" entryPoint="base\x64\WaHostBootstrapper.exe" parameters="base\x64\WaIISHost.exe " memIndex="1792" hostingEnvironment="frontendadmin" hostingEnvironmentVersion="2">
             <componentports>
               <inPort name="Endpoint1" protocol="http" portRanges="80" />
             </componentports>
@@ -102,7 +102,7 @@
           </sCSPolicy>
         </groupHascomponents>
         <groupHascomponents>
-          <role name="PhotoCloud_WorkerRole" generation="1" functional="0" release="0" software="C:\Users\tim\documents\visual studio 2010\Projects\WindowsAzureProject2\WindowsAzureProject2\csx\Debug\roles\PhotoCloud_WorkerRole" entryPoint="base\x64\WaHostBootstrapper.exe" parameters="base\x64\WaWorkerHost.exe " memIndex="1792" hostingEnvironment="consoleroleadmin" hostingEnvironmentVersion="2">
+          <role name="PhotoCloud_WorkerRole" generation="1" functional="0" release="0" software="C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\WindowsAzureProject2\csx\Debug\roles\PhotoCloud_WorkerRole" entryPoint="base\x64\WaHostBootstrapper.exe" parameters="base\x64\WaWorkerHost.exe " memIndex="1792" hostingEnvironment="consoleroleadmin" hostingEnvironmentVersion="2">
             <settings>
               <aCS name="DataConnectionString" defaultValue="" />
               <aCS name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" defaultValue="" />
@@ -128,9 +128,9 @@
     </group>
   </groups>
   <implements>
-    <implementation Id="4536bd58-dbcb-466b-ba54-4132b0da7dc2" ref="Microsoft.RedDog.Contract\ServiceContract\WindowsAzureProject2Contract@ServiceDefinition.build">
+    <implementation Id="7fc282cc-e6ed-483b-92a6-9dd58cb1791e" ref="Microsoft.RedDog.Contract\ServiceContract\WindowsAzureProject2Contract@ServiceDefinition.build">
       <interfacereferences>
-        <interfaceReference Id="2a2fa336-00fa-41c8-83f9-5904bb9df905" ref="Microsoft.RedDog.Contract\Interface\PhotoCloud_WebRole:Endpoint1@ServiceDefinition.build">
+        <interfaceReference Id="712ae928-31f1-4b92-9749-2b51fbf6767d" ref="Microsoft.RedDog.Contract\Interface\PhotoCloud_WebRole:Endpoint1@ServiceDefinition.build">
           <inPort>
             <inPortMoniker name="/WindowsAzureProject2/WindowsAzureProject2Group/PhotoCloud_WebRole:Endpoint1" />
           </inPort>

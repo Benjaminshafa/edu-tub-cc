@@ -30,3 +30,35 @@ c:\users\tim\documents\visual studio 2010\Projects\WindowsAzureProject2\PhotoClo
 c:\users\tim\documents\visual studio 2010\Projects\WindowsAzureProject2\PhotoCloud_WebRole\obj\Debug\ResolveAssemblyReference.cache
 c:\users\tim\documents\visual studio 2010\Projects\WindowsAzureProject2\PhotoCloud_WebRole\obj\Debug\PhotoCloud_WebRole.dll
 c:\users\tim\documents\visual studio 2010\Projects\WindowsAzureProject2\PhotoCloud_WebRole\obj\Debug\PhotoCloud_WebRole.pdb
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\bin\PhotoCloud_WebRole.dll
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\bin\PhotoCloud_WebRole.pdb
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\bin\EntityFramework.dll
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\bin\System.Web.Helpers.dll
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\bin\System.Web.Mvc.dll
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\bin\System.Web.Providers.dll
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\bin\System.Web.Razor.dll
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\bin\System.Web.WebPages.dll
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\bin\System.Web.WebPages.Razor.dll
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\bin\EntityFramework.xml
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\bin\Microsoft.WindowsAzure.StorageClient.xml
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\bin\System.Web.Mvc.xml
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\bin\System.Web.Razor.xml
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\bin\System.Web.WebPages.xml
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\bin\System.Web.Helpers.xml
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\bin\System.Web.WebPages.Razor.xml
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\bin\de\Microsoft.Web.Infrastructure.resources.dll
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\bin\de\System.Web.Razor.resources.dll
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\bin\de\System.Web.WebPages.resources.dll
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\bin\de\System.Web.Helpers.resources.dll
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\bin\de\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\bin\de\System.Web.WebPages.Razor.resources.dll
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\obj\Debug\PhotoCloud_WebRole.dll
+C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\PhotoCloud_WebRole\obj\Debug\PhotoCloud_WebRole.pdb

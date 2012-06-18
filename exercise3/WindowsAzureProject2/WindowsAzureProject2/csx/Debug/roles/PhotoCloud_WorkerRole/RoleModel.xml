@@ -30,11 +30,11 @@
     <Property name="Platform" value="AnyCPU" />
     <Property name="SourceDir" value="" />
     <Property name="SitePhysicalPath" value="" />
-    <Property name="OutputDir" value="C:\Users\tim\documents\visual studio 2010\Projects\WindowsAzureProject2\WindowsAzureProject2\obj\Debug\PhotoCloud_WorkerRole\" />
+    <Property name="OutputDir" value="C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\WindowsAzureProject2\obj\Debug\PhotoCloud_WorkerRole\" />
     <Property name="EntryPoint" value="PhotoCloud_WorkerRole.dll" />
     <Property name="RoleTargetFramework" value="v4.0" />
-    <Property name="OriginalItemSpec" value="C:\Users\tim\documents\visual studio 2010\Projects\WindowsAzureProject2\WindowsAzureProject2\WindowsAzureProject2.ccproj" />
-    <Property name="MSBuildSourceProjectFile" value="C:\Users\tim\documents\visual studio 2010\Projects\WindowsAzureProject2\WindowsAzureProject2\WindowsAzureProject2.ccproj" />
+    <Property name="OriginalItemSpec" value="C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\WindowsAzureProject2\WindowsAzureProject2.ccproj" />
+    <Property name="MSBuildSourceProjectFile" value="C:\Users\Public\Documents\edu-tub-cc\exercise3\WindowsAzureProject2\WindowsAzureProject2\WindowsAzureProject2.ccproj" />
     <Property name="MSBuildSourceTargetName" value="ResolveSingleWorkerRoleReference" />
     <Property name="TargetFrameworkVersion" value="v4.0" />
     <Property name="TargetRuntimeVersion" value="v4.0" />
