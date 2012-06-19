@@ -1,0 +1,56 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<h2>@ViewBag.Message</h2>
+<p>
+    To learn more about ASP.NET MVC visit <a href="http://asp.net/mvc" title="ASP.NET MVC Website">http://asp.net/mvc</a>.
+
+        @{
+        System.Collections.ArrayList images = (System.Collections.ArrayList)ViewBag.images;
+
+        if (images == null || images.Count == 0)
+        {
+            @("Currently, there are no images available");
+        }
+        else
+        {
+            @("Take a look at the recently uploaded pictures:");
+            @:<table>
+            @:<tr>
+            int count = 0;
+            foreach (string imageUri in images)
+            {
+                @:<td>
+                @:<a href="@imageUri">
+                    @:<img src="@imageUri" />
+                @:</a>
+                @:</td>
+                if (++count % 4 == 0)
+                {
+                    @:</tr>
+                    @:<tr>        
+                }
+            }
+                
+            @:</tr>
+            @:</table>
+        }
+        
+    }
+
+
+
+    @using (Html.BeginForm("Upload", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <div>
+            <fieldset>
+                <legend>Upload New Image</legend>
+                    <input class="editor-field" type="file" name="file" />
+                    <input type="submit" value="OK" />            
+            </fieldset>
+        </div>
+    
+    }
+
+</p>

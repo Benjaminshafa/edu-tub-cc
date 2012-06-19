@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "CC_Ex3", "CC_Ex3\CC_Ex3.ccproj", "{5C990EBB-216F-455C-A726-9E239609AB34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photobook", "MvcWebRole1\Photobook.csproj", "{20932D91-644D-4E5C-A78D-87E22B2D271B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photobook_Worker", "WorkerRoleWithSBQueue1\Photobook_Worker.csproj", "{94BC8751-D265-4BD3-AF4D-70F183390E45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photobook_Data", "Photobook_Data\Photobook_Data.csproj", "{24C1F918-A610-4ADC-A047-BD92B7A5EBA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C990EBB-216F-455C-A726-9E239609AB34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C990EBB-216F-455C-A726-9E239609AB34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C990EBB-216F-455C-A726-9E239609AB34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C990EBB-216F-455C-A726-9E239609AB34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20932D91-644D-4E5C-A78D-87E22B2D271B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20932D91-644D-4E5C-A78D-87E22B2D271B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20932D91-644D-4E5C-A78D-87E22B2D271B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20932D91-644D-4E5C-A78D-87E22B2D271B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94BC8751-D265-4BD3-AF4D-70F183390E45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94BC8751-D265-4BD3-AF4D-70F183390E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94BC8751-D265-4BD3-AF4D-70F183390E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94BC8751-D265-4BD3-AF4D-70F183390E45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24C1F918-A610-4ADC-A047-BD92B7A5EBA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C1F918-A610-4ADC-A047-BD92B7A5EBA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24C1F918-A610-4ADC-A047-BD92B7A5EBA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24C1F918-A610-4ADC-A047-BD92B7A5EBA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

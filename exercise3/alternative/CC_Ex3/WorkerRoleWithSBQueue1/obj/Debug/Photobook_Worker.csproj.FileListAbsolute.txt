@@ -1,0 +1,14 @@
+C:\Users\till\Documents\Visual Studio 2010\Projects\CC_Ex3\WorkerRoleWithSBQueue1\bin\Debug\WorkerRoleWithSBQueue1.dll.config
+C:\Users\till\Documents\Visual Studio 2010\Projects\CC_Ex3\WorkerRoleWithSBQueue1\bin\Debug\WorkerRoleWithSBQueue1.dll
+C:\Users\till\Documents\Visual Studio 2010\Projects\CC_Ex3\WorkerRoleWithSBQueue1\bin\Debug\WorkerRoleWithSBQueue1.pdb
+C:\Users\till\Documents\Visual Studio 2010\Projects\CC_Ex3\WorkerRoleWithSBQueue1\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\till\Documents\Visual Studio 2010\Projects\CC_Ex3\WorkerRoleWithSBQueue1\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\till\Documents\Visual Studio 2010\Projects\CC_Ex3\WorkerRoleWithSBQueue1\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\till\Documents\Visual Studio 2010\Projects\CC_Ex3\WorkerRoleWithSBQueue1\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\till\Documents\Visual Studio 2010\Projects\CC_Ex3\WorkerRoleWithSBQueue1\bin\Debug\Photobook_Data.dll
+C:\Users\till\Documents\Visual Studio 2010\Projects\CC_Ex3\WorkerRoleWithSBQueue1\bin\Debug\Photobook_Data.pdb
+C:\Users\till\Documents\Visual Studio 2010\Projects\CC_Ex3\WorkerRoleWithSBQueue1\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\till\Documents\Visual Studio 2010\Projects\CC_Ex3\WorkerRoleWithSBQueue1\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Users\till\Documents\Visual Studio 2010\Projects\CC_Ex3\WorkerRoleWithSBQueue1\obj\Debug\Photobook_Worker.csprojResolveAssemblyReference.cache
+C:\Users\till\Documents\Visual Studio 2010\Projects\CC_Ex3\WorkerRoleWithSBQueue1\obj\Debug\WorkerRoleWithSBQueue1.dll
+C:\Users\till\Documents\Visual Studio 2010\Projects\CC_Ex3\WorkerRoleWithSBQueue1\obj\Debug\WorkerRoleWithSBQueue1.pdb

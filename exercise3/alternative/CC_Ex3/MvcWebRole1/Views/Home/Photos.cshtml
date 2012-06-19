@@ -1,0 +1,44 @@
+﻿@{
+    ViewBag.Title = "Photos";
+}
+
+@{
+        System.Collections.ArrayList entries = (System.Collections.ArrayList)ViewBag.entries;
+
+        if (entries == null || entries.Count == 0)
+        {
+            @("Currently, there are no images available");
+        }
+        else
+        {
+            @("Take a look at the recently uploaded pictures:");
+            @:<table>
+            @:<tr>
+            int count = 0;
+            foreach (Photobook_Data.PhotobookEntry entry in entries)
+            {
+                @:<td>
+                @:<table>
+                @:<tr>
+                @:<td>
+                @:<a href="@entry.PhotoURL">
+                    @:<img src="@entry.ThumbnailURL" />
+                @:</a>
+                @:</td>
+                @:</tr>
+                @:<tr>
+                @:<td><a href="@entry.BWURL">Black&White</a></td></tr>
+                @:</table>
+                @:</td>
+                if (++count % 4 == 0)
+                {
+                    @:</tr>
+                    @:<tr>        
+                }
+            }
+                
+            @:</tr>
+            @:</table>
+        }
+        
+    }
