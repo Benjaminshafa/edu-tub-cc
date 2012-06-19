@@ -12,33 +12,30 @@
         else
         {
             @("Take a look at the recently uploaded pictures:");
-            @:<table>
-            @:<tr>
-            int count = 0;
+            @:<ul id="gallery" class="clearfix">
             foreach (Photobook_Data.PhotobookEntry entry in entries)
             {
-                @:<td>
-                @:<table>
-                @:<tr>
-                @:<td>
-                @:<a href="@entry.PhotoURL">
-                    @:<img src="@entry.ThumbnailURL" />
-                @:</a>
-                @:</td>
-                @:</tr>
-                @:<tr>
-                @:<td><a href="@entry.BWURL">Black&White</a></td></tr>
-                @:</table>
-                @:</td>
-                if (++count % 4 == 0)
-                {
-                    @:</tr>
-                    @:<tr>        
-                }
+                @:<li>
+                    @:<a class="color" href="@entry.PhotoURL"><img src="@entry.ThumbnailURL" /></a>
+                    @:<a href="@entry.BWURL">Greyscale</a>
+                @:</li>   
             }
-                
-            @:</tr>
-            @:</table>
+            @:</ul>
+
+            @:<script>
+            @:$(document).ready(function () {
+            @:  var myPhotoSwipe = $("#gallery a").photoSwipe(
+            @:  {
+            @:    enableMouseWheel: false,
+            @:    enableKeyboard: true,
+            @:    captionAndToolbarHide: false,
+            @:    captionAndToolbarOpacity: 0.6,
+            @:    captionAndToolbarAutoHideDelay: 10000,
+            @:    captionAndToolbarShowEmptyCaptions: false,
+            @:    zIndex: 9999
+            @:  });
+            @:});
+            @:</script>
         }
         
     }

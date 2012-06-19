@@ -1,0 +1,175 @@
+html,
+body
+{
+    font-size: .85em;
+    font-family: "Trebuchet MS", Verdana, Helvetica, Sans-Serif;
+    color: #ccc;
+    background-image: url('subtle-wood.gif');
+    padding: 0;
+    margin: 0;
+}
+
+header,
+footer,
+nav,
+section {
+    display: block;
+}
+
+a,
+a:hover,
+a:visited 
+{
+    color: #999;
+    text-decoration: none;
+}    
+
+
+/* Styles for basic forms
+-----------------------------------------------------------*/
+
+fieldset 
+{
+    border:1px solid #ddd;
+    padding:0 1.4em 1.4em 1.4em;
+    margin:0 0 1.5em 0;
+}
+
+legend 
+{
+    font-size:1.2em;
+    font-weight: bold;
+}
+
+textarea 
+{
+    min-height: 75px;
+}
+
+.editor-label 
+{
+    margin: 1em 0 0 0;
+}
+
+.editor-field 
+{
+    margin:0.5em 0 0 0;
+}
+
+
+/* Styles for validation helpers
+-----------------------------------------------------------*/
+.field-validation-error
+{
+    color: #ff0000;
+}
+
+.field-validation-valid
+{
+    display: none;
+}
+
+.input-validation-error
+{
+    border: 1px solid #ff0000;
+    background-color: #ffeeee;
+}
+
+.validation-summary-errors
+{
+    font-weight: bold;
+    color: #ff0000;
+}
+
+.validation-summary-valid
+{
+    display: none;
+}
+
+/* Contain floats: h5bp.com/q */
+.clearfix:before, .clearfix:after {
+    content: "";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+
+ul#gallery {
+    width: 85%;
+    margin: 1em auto 2em auto;
+
+    text-align: center !important;
+}
+
+ul#gallery li {
+    width: 25%;
+    max-width: 125px;
+    min-width: 25px;
+
+    border: 10px solid rgba(255, 255, 255, 0.8);
+    background-color: rgba(0, 0, 0, 0.5);
+    float: left;
+    margin: 10px;
+    -moz-box-shadow: 3px 3px 5px 1px rgba(255, 255, 255, 0.3);
+    -webkit-box-shadow: 3px 3px 5px 1px rgba(255, 255, 255, 0.3);
+    box-shadow: 3px 3px 5px 1px rgba(255, 255, 255, 0.3);
+
+    /* make list elements fall inline as block elements */
+    position: relative !important;
+    display: inline-block !important;
+    /* next two lines only for display purposes */
+    text-align: center !important;
+}
+
+ul#gallery li:hover {
+    border: 10px solid #fff;
+}
+
+
+ul#gallery li:hover a,
+ul#gallery li:hover a:hover {
+    color: #fff;
+}
+
+ul#gallery li a img {
+    width: 100%;
+    height: auto;
+}
+
+header
+{
+    width: 100%;
+    height: 3em;
+    margin: 0;
+    font-size: 0.8em;
+    text-align: center;
+    padding: 1em 0;
+    background-color: #000;
+}
+
+header h1 
+{
+    margin: 0 auto;
+}
+
+#main 
+{
+    padding: 0 30px;
+}
+
+footer 
+{
+    width: 100%;
+    height: 1.75em;
+    margin: 0;
+    font-size: 0.8em;
+    text-align: center;
+    padding: 0.5em 0;
+    background-color: #000;
+}

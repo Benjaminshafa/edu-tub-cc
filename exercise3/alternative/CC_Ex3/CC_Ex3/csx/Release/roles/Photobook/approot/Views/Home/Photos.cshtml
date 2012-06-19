@@ -1,0 +1,41 @@
+﻿@{
+    ViewBag.Title = "Photos";
+}
+
+@{
+        System.Collections.ArrayList entries = (System.Collections.ArrayList)ViewBag.entries;
+
+        if (entries == null || entries.Count == 0)
+        {
+            @("Currently, there are no images available");
+        }
+        else
+        {
+            @("Take a look at the recently uploaded pictures:");
+            @:<ul id="gallery" class="clearfix">
+            foreach (Photobook_Data.PhotobookEntry entry in entries)
+            {
+                @:<li>
+                    @:<a class="color" href="@entry.PhotoURL"><img src="@entry.ThumbnailURL" /></a>
+                    @:<a href="@entry.BWURL">Greyscale</a>
+                @:</li>   
+            }
+            @:</ul>
+
+            @:<script>
+            @:$(document).ready(function () {
+            @:  var myPhotoSwipe = $("#gallery a").photoSwipe(
+            @:  {
+            @:    enableMouseWheel: false,
+            @:    enableKeyboard: true,
+            @:    captionAndToolbarHide: false,
+            @:    captionAndToolbarOpacity: 0.6,
+            @:    captionAndToolbarAutoHideDelay: 10000,
+            @:    captionAndToolbarShowEmptyCaptions: false,
+            @:    zIndex: 9999
+            @:  });
+            @:});
+            @:</script>
+        }
+        
+    }

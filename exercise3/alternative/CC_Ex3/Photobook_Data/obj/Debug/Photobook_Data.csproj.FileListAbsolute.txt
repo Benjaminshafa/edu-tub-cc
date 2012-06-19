@@ -5,3 +5,9 @@ C:\Users\till\Documents\Visual Studio 2010\Projects\CC_Ex3\Photobook_Data\bin\De
 C:\Users\till\Documents\Visual Studio 2010\Projects\CC_Ex3\Photobook_Data\obj\Debug\Photobook_Data.dll
 C:\Users\till\Documents\Visual Studio 2010\Projects\CC_Ex3\Photobook_Data\obj\Debug\Photobook_Data.pdb
 C:\Users\till\documents\visual studio 2010\Projects\CC_Ex3\Photobook_Data\obj\Debug\Photobook_Data.csprojResolveAssemblyReference.cache
+C:\Users\flo\Dropbox\TUB\1. ss2012\cloud computing\edu-tub-cc\exercise3\alternative\CC_Ex3\Photobook_Data\bin\Debug\Photobook_Data.dll
+C:\Users\flo\Dropbox\TUB\1. ss2012\cloud computing\edu-tub-cc\exercise3\alternative\CC_Ex3\Photobook_Data\bin\Debug\Photobook_Data.pdb
+C:\Users\flo\Dropbox\TUB\1. ss2012\cloud computing\edu-tub-cc\exercise3\alternative\CC_Ex3\Photobook_Data\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\flo\Dropbox\TUB\1. ss2012\cloud computing\edu-tub-cc\exercise3\alternative\CC_Ex3\Photobook_Data\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Users\flo\Dropbox\TUB\1. ss2012\cloud computing\edu-tub-cc\exercise3\alternative\CC_Ex3\Photobook_Data\obj\Debug\Photobook_Data.dll
+C:\Users\flo\Dropbox\TUB\1. ss2012\cloud computing\edu-tub-cc\exercise3\alternative\CC_Ex3\Photobook_Data\obj\Debug\Photobook_Data.pdb
