@@ -23,7 +23,7 @@ namespace MvcWebRole1.Controllers
 
         public ActionResult Index()
         {
-            ViewBag.Message = "Welcome to PhotoShare!";
+            ViewBag.Message = "Welcome to Photobook!";
           
             return View();
         }
