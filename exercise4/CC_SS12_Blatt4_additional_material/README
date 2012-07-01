@@ -1,0 +1,25 @@
+How to run:
+
+  * Download & unzip Stratosphere binary distribution (v0.1.2)
+	  * Start Stratosphere in local deployment: bin/start-local.sh
+	  * Start Stratosphere visualization (optional): bin/nephele-visualization.sh
+
+  * Download TPC-H tools, compile using make and create datasets with dbgen tool
+	  
+
+  * In cc-uebung4
+    * The cc-uebung4 folder can be imported as an "Existing Maven Project" into an Eclipse with Maven Support. This will
+      get you started quickly as maven will resolve all dependencies such as the pact-common library
+
+    * Fix input/output file paths (.tbl files) in  de.tuberlin.cit.cc.uebung4.CustomerSummaryJob.getPlan()
+	* customersFile
+	* ordersFile
+	* outputFile
+
+    * Build job using maven by executing 'mvn package'
+
+    * Submit job to PACTs/Nephele using pact-client.sh in Stratosphere binary distribution:
+     ./pact-client.sh run -v -j /path/to/cc-uebung4/target/cc-uebung4-0.0.1.jar
+
+    * Watch job progress in Stratosphere visualization :)
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapred.MapReduceBase"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapred.Mapper"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.LongWritable"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.Text"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.IntWritable"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapred.Reducer"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.DoubleWritable"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapred.JobConf"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.util.ToolRunner"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.conf.Configuration"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.util.Tool"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.conf.Configured"/>
+<fullyQualifiedTypeName name="Orders.GroupLineItemsByOrderID"/>
+<fullyQualifiedTypeName name="Orders.SumLineItems"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapred.TextInputFormat"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapred.TextOutputFormat"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.lib.input.FileInputFormat"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.fs.Path"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapred.FileInputFormat"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapred.FileOutputFormat"/>
+<fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+<fullyQualifiedTypeName name="java.lang.Double"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapred.JobClient"/>
+</qualifiedTypeNameHistroy>
