@@ -1,0 +1,8 @@
+Usage: 
+
+[noSubTasks:int] [minOrderVolume:int] [pathToTplFiles:String] [outputPath:String]
+
+
+Example: Read TPL input from '/PATH_TO_TCPH/dbgen' and write order summaries for all order with an order volume of more than 100 to '/tmp'.
+
+	100 file:///PATH_TO_TCPH/dbgen file:///tmp
