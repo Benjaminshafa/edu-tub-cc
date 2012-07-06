@@ -1,0 +1,8 @@
+
+Kompilieren
+1. Java Programm kompilieren und als Jar packen. Beim Kompilieren muss unter Umständen der Pfad zur core library von Hadoop angepasst werden.
+
+Ausführen
+0. Starten von hadoop (am Besten mit start-all.sh Skript von Hadoop)
+1. Kopieren der Input Dateien (orders.tbl, lineitem.tbl, customer.tbl) ins HDFS. (hadoop dfs -copyFromLocal src dest)
+2. hadoop jar orders.jar cc.Orders <minQuantity> <lineitemFile> <orderFile> <customerFile>
